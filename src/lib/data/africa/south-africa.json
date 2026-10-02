@@ -1,0 +1,170 @@
+{
+  "continent": "africa",
+  "facts": {
+    "domain": ".za",
+    "drive": {
+      "en": "Left",
+      "es": "Izquierda"
+    },
+    "language": {
+      "en": "English",
+      "es": "Inglés"
+    },
+    "prefix": "+27"
+  },
+  "images": [
+    "/metas/south-africa/01.jpg",
+    "/metas/south-africa/02.jpg",
+    "/metas/south-africa/03.jpg",
+    "/metas/south-africa/04.jpg",
+    "/metas/south-africa/05.jpg",
+    "/metas/south-africa/06.jpg",
+    "/metas/south-africa/07.jpg",
+    "/metas/south-africa/08.jpg",
+    "/metas/south-africa/09.jpg"
+  ],
+  "iso": "ZA",
+  "languageMeta": {
+    "sample": "Ubuntu",
+    "tip": {
+      "en": "11 official languages: Afrikaans double vowels, Zulu/Xhosa c/x/q clicks in writing.",
+      "es": "11 idiomas oficiales: vocales dobles del afrikáans, clics c/x/q del zulú/xhosa escritos."
+    }
+  },
+  "metas": [
+    {
+      "body": {
+        "en": "South Africa drives on the left. NOTE: A handful of other countries also drive on the left. See this infographic for more information.",
+        "es": "Sudáfrica conduce por la izquierda. NOTA: unos pocos países más conducen por la izquierda."
+      },
+      "images": [
+        "/metas/south-africa/01.jpg"
+      ],
+      "title": {
+        "en": "Left-hand traffic",
+        "es": "Conducción por la izquierda"
+      }
+    },
+    {
+      "body": {
+        "en": "On most roads, South Africa utilizes single yellow outer lines and white centre lines. NOTE: The other southern African countries of Botswana, Eswatini, Lesotho and Namibia also use single yellow outer lines. Australia practically never uses yellow outer lines.",
+        "es": "En la mayoría de carreteras, Sudáfrica usa líneas exteriores amarillas simples y líneas centrales blancas. NOTA: los demás países del África austral suelen usar líneas exteriores amarillas y líneas centrales amarillas discontinuas."
+      },
+      "images": [
+        "/metas/south-africa/02.jpg"
+      ],
+      "title": {
+        "en": "Yellow outer, white centre lines",
+        "es": "Líneas exteriores amarillas, centro blanco"
+      }
+    },
+    {
+      "body": {
+        "en": "South Africa occasionally features unique white triple centre lines with 2 solid lines on the outside and a dashed line in the middle. These centre lines are usually found on larger main roads.",
+        "es": "Sudáfrica aparece con líneas centrales triples blancas únicas: dos líneas continuas en losOutside y una discontinua en el medio. Estas líneas centrales suelen encontrarse en las carreteras principales más grandes."
+      },
+      "images": [
+        "/metas/south-africa/03.jpg"
+      ],
+      "title": {
+        "en": "Triple centre lines",
+        "es": "Líneas centrales triples"
+      }
+    },
+    {
+      "body": {
+        "en": "Generation 2 coverage is quite common in the country. It can be recognized by the large circular car blur and the halo-like colour distortion in the sky. NOTE: On the continent of Africa, Generation 2 is only found in South Africa.",
+        "es": "La cobertura de generación 2 es bastante común en el país. Se reconoce por el gran desenfoque circular del coche y el halo que se ve en el cielo."
+      },
+      "images": [
+        "/metas/south-africa/04.jpg"
+      ],
+      "title": {
+        "en": "Generation 2 blur and sky halo",
+        "es": "Desenfoque de gen 2 y halo en el cielo"
+      }
+    },
+    {
+      "body": {
+        "en": "South Africa has 11 official languages: English, Afrikaans, and various Bantu languages. English is the lingua franca and therefore appears most often on signage. Afrikaans is a Germanic language that is closely related to Dutch. Common Afrikaans place name suffixes are -fontein, -kraal, -kop, -dorp, -nek, and - berg or -burg. While Afrikaans is most commonly spoken in the western half of the country, you will find Afrikaans place names all over South Africa, meaning that it is not useful for region-guessing. NOTE: Afrikaans is rare to non-existent in Eswatini and Lesotho. It is also abundantly rare in Botswana, but has some limited presence in the form of place names.",
+        "es": "Sudáfrica tiene 11 idiomas oficiales: inglés, afrikáans y varias lenguas bantúes. El inglés es la lingua franca y casi todas las señales están en inglés. Los topónimos están escritos en afrikáans, con algunas palabras en inglés."
+      },
+      "images": [
+        "/metas/south-africa/05.jpg"
+      ],
+      "title": {
+        "en": "English signage and Afrikaans names",
+        "es": "Señalización en inglés y nombres en afrikáans"
+      }
+    },
+    {
+      "body": {
+        "en": "The most common type of pole in South Africa features 1 to 5 horizontal bars with thin white insulators that resemble rows of birds, which is why they are referred to as \"bird poles\" in the community. NOTE: South Africa has a wide variety of other poles and pole tops. Some of these are (mostly) limited to a certain region; you can learn more about them in the region guessing section.",
+        "es": "El tipo de poste más común en Sudáfrica tiene de 1 a 5 barras horizontales con aisladores blancos finos que parecen filas de pájaros."
+      },
+      "images": [
+        "/metas/south-africa/06.jpg"
+      ],
+      "title": {
+        "en": "Bird poles",
+        "es": "Postes pájaro"
+      }
+    },
+    {
+      "body": {
+        "en": "South Africa uses green directional signs with the road number in yellow. NOTE: Green directional signs with yellow road numbers are also used in Lesotho, Eswatini, Botswana and Namibia. Here, the format of road numbers is useful: N and R-roads are exclusive to South Africa. A and B-roads are exclusive to Botswana, Lesotho and Namibia. In addition to this, Namibia uses C, D, M and F roads. MR-roads are exclusive to Eswatini.",
+        "es": "Sudáfrica usa señales de dirección verdes con el número de carretera en amarillo. NOTA: las señales verdes con números amarillos también se usan en Lesoto, Esuatini, Botsuana y Namibia."
+      },
+      "images": [
+        "/metas/south-africa/07.jpg"
+      ],
+      "title": {
+        "en": "Green signs with yellow numbers",
+        "es": "Señales verdes con números amarillos"
+      }
+    },
+    {
+      "body": {
+        "en": "South Africa utilizes triangular warning signs with a red border and a white background. NOTE: The four other southern African countries use similar warning signs. Australia and New Zealand use yellow diamond- shaped warning signs.",
+        "es": "Sudáfrica utiliza señales de advertencia triangulares con borde rojo y fondo blanco. NOTA: los otros cuatro países del sur no tienen este tipo de señal."
+      },
+      "images": [
+        "/metas/south-africa/08.jpg"
+      ],
+      "title": {
+        "en": "Triangular warning signs",
+        "es": "Señales triangulares de advertencia"
+      }
+    },
+    {
+      "body": {
+        "en": "South Africa uses white-and-red chevrons. You can find a similar chevron pattern below directional signs. In addition, unique-looking small, thin chevrons with one arrow are common next to roads. NOTE: The thin chevrons can also be found in the other southern African countries of Botswana, Eswatini, Lesotho and Namibia.",
+        "es": "Sudáfrica usa galones blancos y rojos. Puedes encontrar un patrón de galones parecido debajo de las señales de dirección."
+      },
+      "images": [
+        "/metas/south-africa/09.jpg"
+      ],
+      "title": {
+        "en": "Red and white chevrons",
+        "es": "Galones rojos y blancos"
+      }
+    },
+    {
+      "body": {
+        "en": "Suburban houses in and around large cities will often be surrounded by high walls, fences, and gatesto deter criminals.",
+        "es": "Las casas suburbanas de las ciudades grandes y sus alrededores suelen estar rodeadas de muros, vallas y portones altos para disuadir a los ladrones."
+      },
+      "images": [],
+      "title": {
+        "en": "High-walled suburban houses",
+        "es": "Casas suburbanas con muros altos"
+      }
+    }
+  ],
+  "name": {
+    "en": "South Africa",
+    "es": "Sudáfrica"
+  },
+  "slug": "south-africa",
+  "source": "https://www.plonkit.net/south-africa"
+}

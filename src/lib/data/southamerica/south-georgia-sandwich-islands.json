@@ -1,0 +1,107 @@
+{
+  "continent": "south-america",
+  "facts": {
+    "domain": ".gs",
+    "drive": {
+      "en": "Left",
+      "es": "Izquierda"
+    },
+    "language": {
+      "en": "English",
+      "es": "Inglés"
+    },
+    "prefix": "+672"
+  },
+  "images": [
+    "/metas/south-georgia-sandwich-islands/01.jpg",
+    "/metas/south-georgia-sandwich-islands/02.jpg",
+    "/metas/south-georgia-sandwich-islands/03.jpg",
+    "/metas/south-georgia-sandwich-islands/04.jpg",
+    "/metas/south-georgia-sandwich-islands/05.jpg"
+  ],
+  "iso": "GS",
+  "metas": [
+    {
+      "body": {
+        "en": "• Three trekkers in the isolated fjords of the rest of the island. Due to the sparse nature of the coverage, that is also entirely not on any streets, it is not useful to learn any territory identification metas. Instead, it is better to just memorise what the trekkers look like.",
+        "es": "Tres trekkers en los fiordos aislados del resto de la isla. Debido a lo escasa de la cobertura, que además no está en ninguna calle, no es útil aprender ningún territorio."
+      },
+      "images": [],
+      "title": {
+        "en": "Trekked fjords, no streets",
+        "es": "Fiordos con trekker, sin calles"
+      }
+    },
+    {
+      "body": {
+        "en": "Abandoned, rusted machinery can be seen in Grytviken. Grytviken is the only pinpointable trekker in South Georgia. Therefore, this trekker appears in pinpointable maps like A Community World.",
+        "es": "En Grytviken se puede ver maquinaria abandonada y oxidada. Grytviken es el único trekker localizable de Georgia Sur. Por eso, este trekker aparece en mapas localizables como A Community World."
+      },
+      "images": [
+        "/metas/south-georgia-sandwich-islands/01.jpg"
+      ],
+      "title": {
+        "en": "Grytviken rusted machinery",
+        "es": "Maquinaria oxidada de Grytviken"
+      }
+    },
+    {
+      "body": {
+        "en": "A church and another building made of white painted wood can also be seen in Grytviken.",
+        "es": "En Grytviken también se puede ver una iglesia y otro edificio hechos de madera pintada de blanco."
+      },
+      "images": [
+        "/metas/south-georgia-sandwich-islands/02.jpg"
+      ],
+      "title": {
+        "en": "Wooden church",
+        "es": "Iglesia de madera"
+      }
+    },
+    {
+      "body": {
+        "en": "This wide open valley with lightly snow capped mountains can be seen on the west side of South Georgia Island.",
+        "es": "Este valle abierto y amplio con montañas ligeramente nevadas se puede ver en la parte oeste de la isla de Georgia Sur."
+      },
+      "images": [
+        "/metas/south-georgia-sandwich-islands/03.jpg"
+      ],
+      "title": {
+        "en": "Wide open valley",
+        "es": "Valle abierto y amplio"
+      }
+    },
+    {
+      "body": {
+        "en": "Prion Island can be recognized by the wooden walkway, lush green plants and numerous seals which inhabit the island.",
+        "es": "Prion Island se reconoce por el paseo de madera, las plantas verdes exuberantes y las numerosas focas que habitan la isla."
+      },
+      "images": [
+        "/metas/south-georgia-sandwich-islands/04.jpg"
+      ],
+      "title": {
+        "en": "Prion Island seals",
+        "es": "Focas de Prion Island"
+      }
+    },
+    {
+      "body": {
+        "en": "This boat trekker in Hercules Bay can be recognized by a man in a red jacket and the MS National Geographic Explorer in the background.",
+        "es": "Este trekker en barco en Hercules Bay se reconoce por un hombre con chaqueta roja y el MS National Geographic Explorer al fondo."
+      },
+      "images": [
+        "/metas/south-georgia-sandwich-islands/05.jpg"
+      ],
+      "title": {
+        "en": "Hercules Bay boat",
+        "es": "Barco en Hercules Bay"
+      }
+    }
+  ],
+  "name": {
+    "en": "South Georgia & Sandwich Islands",
+    "es": "Georgia Sur y Sandwich"
+  },
+  "slug": "south-georgia-sandwich-islands",
+  "source": "https://www.plonkit.net/south-georgia-sandwich-islands"
+}

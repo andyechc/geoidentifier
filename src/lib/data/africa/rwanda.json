@@ -1,0 +1,75 @@
+{
+  "continent": "africa",
+  "facts": {
+    "domain": ".rw",
+    "drive": {
+      "en": "Right",
+      "es": "Derecha"
+    },
+    "language": {
+      "en": "Kinyarwanda",
+      "es": "Kinyaruanda"
+    },
+    "prefix": "+250"
+  },
+  "images": [
+    "/metas/rwanda/01.jpg",
+    "/metas/rwanda/02.jpg",
+    "/metas/rwanda/03.jpg"
+  ],
+  "iso": "RW",
+  "languageMeta": {
+    "sample": "Murakaza neza",
+    "tip": {
+      "en": "Kinyarwanda welcome signs; French appears on older signage.",
+      "es": "Bienvenida en kinyaruanda; el francés aparece en señalización antigua."
+    }
+  },
+  "metas": [
+    {
+      "body": {
+        "en": "All the coverage in Rwanda is made with a Generation 4 camera. In most of the coverage, the Google car is a pickup truck which will be covered entirely by a big blur.",
+        "es": "Toda la cobertura de Ruanda se hizo con una cámara de generación 4. En la mayor parte de la cobertura, el coche de Google es una camioneta totalmente desenfocada, sin partes del vehículo visibles."
+      },
+      "images": [
+        "/metas/rwanda/01.jpg"
+      ],
+      "title": {
+        "en": "Fully blurred pickup",
+        "es": "Camioneta totalmente desenfocada"
+      }
+    },
+    {
+      "body": {
+        "en": "Sometimes the Google car is entirely visible: it is a big white or brown pickup truck with a brakelight. The camera mount is visible.",
+        "es": "A veces el coche de Google es totalmente visible: es una camioneta grande blanca o marrón con una luz de freno. El soporte de la cámara apunta hacia atrás, por lo que se ve la parte trasera del vehículo."
+      },
+      "images": [
+        "/metas/rwanda/02.jpg"
+      ],
+      "title": {
+        "en": "Visible white or brown pickup",
+        "es": "Camioneta blanca o marrón visible"
+      }
+    },
+    {
+      "body": {
+        "en": "The coverage has a noticeable hazy tint to it, which is especially apparent in the sky. NOTE: In Africa, similar hazy Generation 4 coverage is common in Senegal.",
+        "es": "La cobertura tiene un tono azulado apreciable, sobre todo en el cielo. NOTA: en África, otras coberturas con Google también pueden verse similarmente veladas en el cielo."
+      },
+      "images": [
+        "/metas/rwanda/03.jpg"
+      ],
+      "title": {
+        "en": "Hazy tint",
+        "es": "Tono azulado"
+      }
+    }
+  ],
+  "name": {
+    "en": "Rwanda",
+    "es": "Ruanda"
+  },
+  "slug": "rwanda",
+  "source": "https://www.plonkit.net/rwanda"
+}

@@ -1,0 +1,136 @@
+{
+  "continent": "south-america",
+  "facts": {
+    "domain": ".co",
+    "drive": {
+      "en": "Right",
+      "es": "Derecha"
+    },
+    "language": {
+      "en": "Spanish",
+      "es": "Español"
+    },
+    "prefix": "+57"
+  },
+  "images": [
+    "/metas/colombia/01.jpg",
+    "/metas/colombia/02.jpg",
+    "/metas/colombia/03.jpg",
+    "/metas/colombia/04.jpg",
+    "/metas/colombia/05.jpg",
+    "/metas/colombia/06.jpg",
+    "/metas/colombia/07.jpg",
+    "/metas/colombia/08.jpg"
+  ],
+  "iso": "CO",
+  "metas": [
+    {
+      "body": {
+        "en": "Colombian licence plates are typically yellow. NOTE: Within South America, yellow licence plates are almost exclusively found in Colombia.",
+        "es": "Las matrículas colombianas suelen ser amarillas. NOTA: dentro de Sudamérica, las matrículas amarillas son casi exclusivas de Colombia."
+      },
+      "images": [
+        "/metas/colombia/01.jpg",
+        "/metas/colombia/02.jpg"
+      ],
+      "title": {
+        "en": "Yellow licence plates",
+        "es": "Matrículas amarillas"
+      }
+    },
+    {
+      "body": {
+        "en": "In Generation 3 coverage, a short thick antenna is sometimes visible with a black, white or grey car. In Generation 4 coverage, a white or silver car is commonly found. NOTE: Within the Americas, you can also find the antenna in Mexico, Ecuador and Brazil. However, Colombia is the only country with this antenna on a black Google car.",
+        "es": "En la cobertura de generación 3 a veces se ve una antena corta y gruesa con un coche negro, blanco o gris. En generación 4, el coche es una camioneta blanca con la caja tapada."
+      },
+      "images": [],
+      "title": {
+        "en": "Stubby antenna cars",
+        "es": "Coches con antena corta"
+      }
+    },
+    {
+      "body": {
+        "en": "Signposts in Colombia are made of white metal, and join to form a distinct cross on the back of signs. NOTE: White metal signposts can also be found in Brazil, however these are usually wider.",
+        "es": "Los postes de señales en Colombia son de metal blanco y se unen formando una cruz distinta en la parte trasera de las señales. NOTA: en el resto de Sudamérica los postes suelen ser más delgados."
+      },
+      "images": [
+        "/metas/colombia/03.jpg"
+      ],
+      "title": {
+        "en": "White metal signposts",
+        "es": "Postes metálicos blancos"
+      }
+    },
+    {
+      "body": {
+        "en": "Colombia uses two types of kilometre markers: a tall green version with the letters \"Pr\" at the top, and the traditional stone marker with black lettering. Both designs are unique to the country. NOTE: The first two digits at the bottom indicate the road number. In this case, the road number is 90. The last two digits indicate the section of the road, which increase west to east on even numbered highways, and south to north on odd numbered highways.You can use this resource to help identify each section.",
+        "es": "Colombia usa dos tipos de hitos kilométricos: uno verde alto con las letras Pr arriba, y otro blanco con el número de carretera y los kilómetros."
+      },
+      "images": [
+        "/metas/colombia/04.jpg",
+        "/metas/colombia/05.jpg"
+      ],
+      "title": {
+        "en": "Two types of kilometre markers",
+        "es": "Dos tipos de hitos kilométricos"
+      }
+    },
+    {
+      "body": {
+        "en": "Colombian poles are often marked with unique black-and-yellow or black-and-orange stripes.",
+        "es": "Los postes colombianos suelen llevar franjas únicas negras y amarillas, o negras y naranjas."
+      },
+      "images": [],
+      "title": {
+        "en": "Black and yellow poles",
+        "es": "Postes negros y amarillos"
+      }
+    },
+    {
+      "body": {
+        "en": "Wooden fences are particularly common in Colombia. NOTE: In addition to the unpainted variants, some fence posts are painted and sharp at the top. These are almost exclusive to Colombia.",
+        "es": "Las vallas de madera son particularmente comunes en Colombia. NOTA: además de las variantes sin pintar, algunos postes de la valla tienen un remate de colores."
+      },
+      "images": [
+        "/metas/colombia/06.jpg"
+      ],
+      "title": {
+        "en": "Wooden fences",
+        "es": "Vallas de madera"
+      }
+    },
+    {
+      "body": {
+        "en": "Colombian taxis are always this pastel yellow colour. As opposed to private vehicles, they have white licence plates, which are often printed on the side and roof. If unblurred, you will often see the city name. NOTE: Ecuadorian taxis may look similar. However, they use a slightly more saturated yellow and typically have orange plates.",
+        "es": "Los taxis colombianos son siempre de ese amarillo pastel. A diferencia de los vehículos particulares, tienen matrícula blanca en la parte de atrás y en el techo. Si no están desenfocados, muchas veces verás el nombre de la ciudad."
+      },
+      "images": [
+        "/metas/colombia/07.jpg"
+      ],
+      "title": {
+        "en": "Yellow taxis",
+        "es": "Taxis amarillos"
+      }
+    },
+    {
+      "body": {
+        "en": "Colombian poles are generally concrete with a variety of pole tops. Moreover, dark-coloured poles are more common in Colombia than in neighbouring countries. NOTE: It is the only country in the Americas, apart from Mexico and Ecuador, where octagonal poles can be found.",
+        "es": "Los postes colombianos suelen ser de hormigón con una variedad de remates. Además, los postes de color oscuro son más comunes aquí."
+      },
+      "images": [
+        "/metas/colombia/08.jpg"
+      ],
+      "title": {
+        "en": "Concrete poles with varied tops",
+        "es": "Postes de hormigón variados"
+      }
+    }
+  ],
+  "name": {
+    "en": "Colombia",
+    "es": "Colombia"
+  },
+  "slug": "colombia",
+  "source": "https://www.plonkit.net/colombia"
+}

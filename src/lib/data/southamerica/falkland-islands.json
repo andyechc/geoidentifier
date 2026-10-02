@@ -1,0 +1,121 @@
+{
+  "continent": "south-america",
+  "facts": {
+    "domain": ".fk",
+    "drive": {
+      "en": "Left",
+      "es": "Izquierda"
+    },
+    "language": {
+      "en": "English",
+      "es": "Inglés"
+    },
+    "prefix": "+500"
+  },
+  "images": [
+    "/metas/falkland-islands/01.jpg",
+    "/metas/falkland-islands/02.jpg",
+    "/metas/falkland-islands/03.jpg",
+    "/metas/falkland-islands/04.jpg",
+    "/metas/falkland-islands/05.jpg",
+    "/metas/falkland-islands/06.jpg"
+  ],
+  "iso": "FK",
+  "metas": [
+    {
+      "body": {
+        "en": "• Carcass Island • West Point Island • New Island Due to the sparse nature of the coverage, that is also entirely not on any streets, it is not useful to learn any territory identification metas. Instead, it is better to just memorise what the trekkers look like.",
+        "es": "Carcass Island, West Point Island y New Island. Debido a lo escasa de la cobertura, que además no está en ninguna calle, no es útil aprender ningún territorio."
+      },
+      "images": [],
+      "title": {
+        "en": "Trekked islands, no streets",
+        "es": "Islas con trekker, sin calles"
+      }
+    },
+    {
+      "body": {
+        "en": "The Carcass Island trekker can be recognized by the open plains, with the ocean clearly visible. The ground may also get rocky. NOTE: Do not get this confused with the Faroe Islands trekker.",
+        "es": "El trekker de Carcass Island se reconoce por las llanuras abiertas, con el océano claramente visible. El suelo también puede ponerse rocoso. NOTA: no lo confundas con las Islas Feroe."
+      },
+      "images": [
+        "/metas/falkland-islands/01.jpg"
+      ],
+      "title": {
+        "en": "Carcass Island plains",
+        "es": "Llanuras de Carcass Island"
+      }
+    },
+    {
+      "body": {
+        "en": "Open plains with slightly yellow grass can be seen on West Point Island. The ocean will not be clearly visible on this trekker.",
+        "es": "En West Point Island se ven llanuras abiertas con hierba algo amarilla. El océano no se ve claramente en este trekker."
+      },
+      "images": [
+        "/metas/falkland-islands/02.jpg"
+      ],
+      "title": {
+        "en": "West Point Island plains",
+        "es": "Llanuras de West Point Island"
+      }
+    },
+    {
+      "body": {
+        "en": "This boat trekker can be seen in the West Point Bay, with yellow hills in the distance with the MS National Geographic Explorer in the bay with the trekker.",
+        "es": "Este trekker en barco se puede ver en la bahía de West Point, con colinas amarillas al fondo y el MS National Geographic Explorer en la bahía junto al trekker."
+      },
+      "images": [
+        "/metas/falkland-islands/03.jpg"
+      ],
+      "title": {
+        "en": "West Point Bay boat",
+        "es": "Barco en West Point Bay"
+      }
+    },
+    {
+      "body": {
+        "en": "This sandy beach with other people in red and blue jackets can be seen on New Island.",
+        "es": "Esta playa de arena con otras personas con chaquetas rojas y azules se puede ver en New Island."
+      },
+      "images": [
+        "/metas/falkland-islands/04.jpg"
+      ],
+      "title": {
+        "en": "New Island beach",
+        "es": "Playa de New Island"
+      }
+    },
+    {
+      "body": {
+        "en": "Inland New Island can be recognized by the dark brown soil. Tire tracks may also be visible.",
+        "es": "El interior de New Island se reconoce por el suelo marrón oscuro. También pueden verse huellas de neumáticos."
+      },
+      "images": [
+        "/metas/falkland-islands/05.jpg"
+      ],
+      "title": {
+        "en": "Dark brown soil inland",
+        "es": "Suelo marrón en el interior"
+      }
+    },
+    {
+      "body": {
+        "en": "Distinct steep cliffs can be seen on New Island.",
+        "es": "En New Island se pueden ver acantilados pronunciados y distintos."
+      },
+      "images": [
+        "/metas/falkland-islands/06.jpg"
+      ],
+      "title": {
+        "en": "Steep cliffs",
+        "es": "Acantilados pronunciados"
+      }
+    }
+  ],
+  "name": {
+    "en": "Falkland Islands",
+    "es": "Islas Malvinas"
+  },
+  "slug": "falkland-islands",
+  "source": "https://www.plonkit.net/falkland-islands"
+}

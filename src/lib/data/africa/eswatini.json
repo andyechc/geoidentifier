@@ -1,0 +1,105 @@
+{
+  "continent": "africa",
+  "facts": {
+    "domain": ".sz",
+    "drive": {
+      "en": "Left",
+      "es": "Izquierda"
+    },
+    "language": {
+      "en": "English, Swazi",
+      "es": "Inglés, suazi"
+    },
+    "prefix": "+268"
+  },
+  "images": [
+    "/metas/eswatini/01.jpg",
+    "/metas/eswatini/02.jpg",
+    "/metas/eswatini/03.jpg",
+    "/metas/eswatini/04.jpg",
+    "/metas/eswatini/05.jpg",
+    "/metas/eswatini/06.jpg"
+  ],
+  "iso": "SZ",
+  "languageMeta": {
+    "sample": "Sawubona",
+    "tip": {
+      "en": "siSwati greetings on signs; official signage is in English.",
+      "es": "Saludos en suazi en carteles; la señalización oficial está en inglés."
+    }
+  },
+  "metas": [
+    {
+      "body": {
+        "en": "Eswatini's landscape is known for its green, wooded hills and tall golden grass. NOTE: In contrast, Lesotho's mountains are typically barren, and long grass is not a common sight there.",
+        "es": "El paisaje de Esuatini es conocido por sus colinas verdes y boscosas y por la alta hierba dorada. NOTA: en cambio, las montañas de Lesoto están peladas y sin árboles."
+      },
+      "images": [
+        "/metas/eswatini/01.jpg",
+        "/metas/eswatini/02.jpg"
+      ],
+      "title": {
+        "en": "Green hills and golden grass",
+        "es": "Colinas verdes y hierba dorada"
+      }
+    },
+    {
+      "body": {
+        "en": "Poles in Eswatini are made of dark brown wood and follow a simple design. The insulators are mostly mounted on the side. NOTE: In Southern Africa, three insulators on the pole are more commonly found in Eswatini.",
+        "es": "Los postes de Esuatini son de madera marrón oscura y siguen un diseño sencillo. Los aisladores van montados sobre todo en el lateral."
+      },
+      "images": [
+        "/metas/eswatini/03.jpg"
+      ],
+      "title": {
+        "en": "Dark brown wooden poles",
+        "es": "Postes de madera marrón oscuro"
+      }
+    },
+    {
+      "body": {
+        "en": "Roads starting with the letters \"MR\" are exclusive to Eswatini.",
+        "es": "Las carreteras que empiezan por las letras MR son exclusivas de Esuatini."
+      },
+      "images": [
+        "/metas/eswatini/04.jpg"
+      ],
+      "title": {
+        "en": "MR road numbers",
+        "es": "Números de carretera MR"
+      }
+    },
+    {
+      "body": {
+        "en": "Eswatini typically uses yellow outside lines and occasionally, triple white middle lines. NOTE: Similar road lines can also be found in South Africa, Lesotho and Botswana.",
+        "es": "Esuatini suele usar líneas exteriores amarillas y, ocasionalmente, líneas centrales triples blancas. NOTA: en otros países del sur también hay líneas similares, pero allí las exteriores suelen ser amarillas y las centrales blancas."
+      },
+      "images": [
+        "/metas/eswatini/05.jpg"
+      ],
+      "title": {
+        "en": "Yellow outer and triple centre lines",
+        "es": "Líneas exteriores amarillas y centro triple"
+      }
+    },
+    {
+      "body": {
+        "en": "All of Eswatini was covered by a white Google car without an antenna. NOTE: Within Africa, this car can also be found in South Africa, Lesotho and Botswana.",
+        "es": "Todo Esuatini fue cubierto con un coche de Google blanco y sin antena. NOTA: dentro de África, este coche también se encuentra en Sudáfrica, Lesoto y Botsuana."
+      },
+      "images": [
+        "/metas/eswatini/06.jpg"
+      ],
+      "title": {
+        "en": "White car without antenna",
+        "es": "Coche blanco sin antena"
+      }
+    }
+  ],
+  "name": {
+    "en": "Eswatini",
+    "es": "Esuatini"
+  },
+  "slug": "eswatini",
+  "source": "https://www.plonkit.net/eswatini"
+}

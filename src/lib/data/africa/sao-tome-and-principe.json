@@ -1,0 +1,104 @@
+{
+  "continent": "africa",
+  "facts": {
+    "domain": ".st",
+    "drive": {
+      "en": "Right",
+      "es": "Derecha"
+    },
+    "language": {
+      "en": "Portuguese",
+      "es": "Portugués"
+    },
+    "prefix": "+239"
+  },
+  "images": [
+    "/metas/sao-tome-and-principe/01.jpg",
+    "/metas/sao-tome-and-principe/02.jpg",
+    "/metas/sao-tome-and-principe/03.jpg",
+    "/metas/sao-tome-and-principe/04.jpg",
+    "/metas/sao-tome-and-principe/05.jpg",
+    "/metas/sao-tome-and-principe/06.jpg"
+  ],
+  "iso": "ST",
+  "languageMeta": {
+    "sample": "Bem-vindo",
+    "tip": {
+      "en": "European Portuguese signage in a tiny island setting.",
+      "es": "Portugués europeo en un entorno de isla diminuta."
+    }
+  },
+  "metas": [
+    {
+      "body": {
+        "en": "All the coverage was taken with a low quality camera that's commonly referred to as \"Shitcam\". The car will often be completely blurred, with a very large blur covering the back and a somewhat smaller blur covering the front.",
+        "es": "Todo el volumen se hizo con una cámara de baja calidad, conocida como shitcam. El coche suele aparecer completamente desenfocado, con un desenfoque muy grande en la parte trasera y uno algo menor en la delantera."
+      },
+      "images": [
+        "/metas/sao-tome-and-principe/02.jpg"
+      ],
+      "title": {
+        "en": "São Tomé and Príncipe",
+        "es": "Cámara borrosa de baja calidad"
+      }
+    },
+    {
+      "body": {
+        "en": "Portuguese is the main language used on São Tomé and Príncipe.",
+        "es": "El idioma principal que se usa en São Tomé y Príncipe es el portugués."
+      },
+      "images": [
+        "/metas/sao-tome-and-principe/03.jpg"
+      ],
+      "title": {
+        "en": "Portuguese language",
+        "es": "Idioma portugués"
+      }
+    },
+    {
+      "body": {
+        "en": "On top of the language, the Portuguese influence can also be seen in infrastructure, such as ladder poles and pedestrian signs with the same design as in Portugal.",
+        "es": "Además del idioma, la influencia portuguesa se ve también en la infraestructura, como los postes de escalera y las señales peatonales con el mismo diseño que en Portugal."
+      },
+      "images": [
+        "/metas/sao-tome-and-principe/04.jpg"
+      ],
+      "title": {
+        "en": "Portuguese infrastructure",
+        "es": "Infraestructura portuguesa"
+      }
+    },
+    {
+      "body": {
+        "en": "São Tomé and Príncipe are tropical islands, which are almost completely covered in rainforests. Banana plants are especially common throughout the islands.",
+        "es": "São Tomé y Príncipe son islas tropicales, casi totalmente cubiertas de selva. Las plataneras son especialmente comunes en todas las islas."
+      },
+      "images": [
+        "/metas/sao-tome-and-principe/05.jpg"
+      ],
+      "title": {
+        "en": "Rainforest and banana plants",
+        "es": "Selva y plataneras"
+      }
+    },
+    {
+      "body": {
+        "en": "In many locations, you will notice a slanted antenna protruding from the side of the car.",
+        "es": "En muchos lugares notarás una antena inclinada que sobresale del lateral del coche."
+      },
+      "images": [
+        "/metas/sao-tome-and-principe/06.jpg"
+      ],
+      "title": {
+        "en": "Slanted antenna",
+        "es": "Antena inclinada"
+      }
+    }
+  ],
+  "name": {
+    "en": "São Tomé and Príncipe",
+    "es": "Santo Tomé y Príncipe"
+  },
+  "slug": "sao-tome-and-principe",
+  "source": "https://www.plonkit.net/sao-tome-and-principe"
+}

@@ -1,0 +1,152 @@
+{
+  "continent": "south-america",
+  "facts": {
+    "domain": ".ar",
+    "drive": {
+      "en": "Right",
+      "es": "Derecha"
+    },
+    "language": {
+      "en": "Spanish",
+      "es": "Español"
+    },
+    "prefix": "+54"
+  },
+  "images": [
+    "/metas/argentina/01.jpg",
+    "/metas/argentina/02.jpg",
+    "/metas/argentina/03.jpg",
+    "/metas/argentina/04.jpg",
+    "/metas/argentina/05.jpg",
+    "/metas/argentina/06.jpg",
+    "/metas/argentina/07.jpg",
+    "/metas/argentina/08.jpg",
+    "/metas/argentina/09.jpg"
+  ],
+  "iso": "AR",
+  "metas": [
+    {
+      "body": {
+        "en": "Argentina uses two types of licence plates: a black one, which will be visible on street view with a black dot in the middle, and a white one with a blue bar at the top. NOTE: The black dot can only be found on Argentinian licence plates, while the blue bar can be found in Brazil as well.",
+        "es": "Argentina usa dos tipos de matrícula: una negra, que se ve en Street View con un punto negro donde debería ir el número, y una blanca con matrícula blanca de 1995. La franja azul también aparece en Brasil."
+      },
+      "images": [
+        "/metas/argentina/01.jpg"
+      ],
+      "title": {
+        "en": "Black or white plates",
+        "es": "Matrículas negras o blancas"
+      }
+    },
+    {
+      "body": {
+        "en": "Argentina has a black Google car in Generation 3 coverage. NOTE: Within South America, only Argentina, Peru and Uruguay have a black Google car.",
+        "es": "Argentina tiene un coche de Google negro en la cobertura de generación 3. NOTA: dentro de Sudamérica, solo Argentina, Perú y Colombia tienen cobertura de generación 3, y cada uno con un color distinto."
+      },
+      "images": [
+        "/metas/argentina/02.jpg"
+      ],
+      "title": {
+        "en": "Black Google car",
+        "es": "Coche de Google negro"
+      }
+    },
+    {
+      "body": {
+        "en": "Argentina also has Generation 4 \"smallcam\" coverage, which is mounted lower than regular Generation 4 and has a relatively big circular blur with a small protrusion at the front. NOTE: Peru, Brazil and Argentina are the only South American countries with smallcam.",
+        "es": "Argentina también tiene cobertura de generación 4 smallcam, montada más abajo que la generación 4 normal y con un campo de visión más amplio, lo que hace que el horizonte aparezca curves."
+      },
+      "images": [
+        "/metas/argentina/03.jpg"
+      ],
+      "title": {
+        "en": "Generation 4 smallcam",
+        "es": "Smallcam de generación 4"
+      }
+    },
+    {
+      "body": {
+        "en": "Round concrete poles sustaining three electricity lines in an alternating pattern are very common in Argentina. Doubled up poles like in the second image is also a good clue for Argentina. NOTE: Similar doubled concrete poles can occasionally be found throughout Bolivia.",
+        "es": "Los postes de hormigón redondos que sostienen tres líneas eléctricas en un patrón alterno son muy comunes en Argentina."
+      },
+      "images": [
+        "/metas/argentina/04.jpg"
+      ],
+      "title": {
+        "en": "Round concrete poles",
+        "es": "Postes de hormigón redondos"
+      }
+    },
+    {
+      "body": {
+        "en": "Wooden poles are somewhat common in Argentina, they can be found either with a crossbar or without. NOTE: Wooden A-frame poles in South America are only found in Argentina.",
+        "es": "Los postes de madera son algo comunes en Argentina: se encuentran con travesaño o sin él. NOTA: los postes de madera en A solo se encuentran en Argentina dentro de Sudamérica."
+      },
+      "images": [
+        "/metas/argentina/05.jpg"
+      ],
+      "title": {
+        "en": "Wooden A-frame poles",
+        "es": "Postes de madera en A"
+      }
+    },
+    {
+      "body": {
+        "en": "Argentina typically uses white-and-red chevrons. NOTE: Argentina is the only American country with these chevrons.",
+        "es": "Argentina suele usar galones blancos y rojos. NOTA: Argentina es el único país americano con estos galones."
+      },
+      "images": [
+        "/metas/argentina/06.jpg"
+      ],
+      "title": {
+        "en": "White and red chevrons",
+        "es": "Galones blancos y rojos"
+      }
+    },
+    {
+      "body": {
+        "en": "Road lines in Argentina are mainly dashed white, double yellow or a mix in between.",
+        "es": "Las líneas viales en Argentina son principalmente discontinuas blancas, dobles amarillas o una mezcla de ambas."
+      },
+      "images": [
+        "/metas/argentina/07.jpg"
+      ],
+      "title": {
+        "en": "Mixed road lines",
+        "es": "Líneas viales mezcladas"
+      }
+    },
+    {
+      "body": {
+        "en": "Argentinian kilometre markers are typically white with a black strip displaying the road number at the top. NOTE: The markers on national highways are indicated with RN, while RP indicates a provincial highway. National highways will be labelled white on the map, while provincial highways will be labelled green.",
+        "es": "Los hitos kilométricos argentinos suelen ser blancos con una franja negra arriba donde aparece el número de carretera. NOTA: los hitos con el número de ruta y los kilómetros van en una señal distinta, más pequena y blanca."
+      },
+      "images": [
+        "/metas/argentina/08.jpg"
+      ],
+      "title": {
+        "en": "White kilometre markers",
+        "es": "Hitos kilométricos blancos"
+      }
+    },
+    {
+      "body": {
+        "en": "Yellow and red rectangular reflectors can often be seen on Argentinian guardrails.",
+        "es": "En los quitamiedos argentinos se ven a menudo reflectores rectangulares amarillos y rojos."
+      },
+      "images": [
+        "/metas/argentina/09.jpg"
+      ],
+      "title": {
+        "en": "Yellow and red reflectors",
+        "es": "Reflectores amarillos y rojos"
+      }
+    }
+  ],
+  "name": {
+    "en": "Argentina",
+    "es": "Argentina"
+  },
+  "slug": "argentina",
+  "source": "https://www.plonkit.net/argentina"
+}

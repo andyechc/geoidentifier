@@ -1,0 +1,98 @@
+{
+  "continent": "south-america",
+  "facts": {
+    "domain": ".cw",
+    "drive": {
+      "en": "Right",
+      "es": "Derecha"
+    },
+    "language": {
+      "en": "Dutch",
+      "es": "Neerlandés"
+    },
+    "prefix": "+599"
+  },
+  "images": [
+    "/metas/curacao/01.jpg",
+    "/metas/curacao/02.jpg",
+    "/metas/curacao/03.jpg",
+    "/metas/curacao/04.jpg",
+    "/metas/curacao/05.jpg",
+    "/metas/curacao/06.jpg"
+  ],
+  "iso": "CW",
+  "metas": [
+    {
+      "body": {
+        "en": "Curaçao is a constituent country in the Kingdom of the Netherlands located north of western Venezuela in the Caribbean Sea. As such, for country streaks purposes, it is counted as the Netherlands.",
+        "es": "Curaçao es un país constitucional del Reino de los Países Bajos, situado al norte de la Venezuela occidental, en el Caribe."
+      },
+      "images": [
+        "/metas/curacao/01.jpg",
+        "/metas/curacao/02.jpg"
+      ],
+      "title": {
+        "en": "Part of the Kingdom of the Netherlands",
+        "es": "Parte del Reino de los Países Bajos"
+      }
+    },
+    {
+      "body": {
+        "en": "Curaçao uses square licence plates that appear completely white through the blur. NOTE: While front plates are mandatory, a minority will still not have front plates.",
+        "es": "Curaçao usa matrículas cuadradas que a través del desenfoque parecen completamente blancas. NOTA: las matrículas delanteras y traseras tienen el mismo aspecto."
+      },
+      "images": [
+        "/metas/curacao/03.jpg"
+      ],
+      "title": {
+        "en": "Square white plates",
+        "es": "Matrículas cuadradas blancas"
+      }
+    },
+    {
+      "body": {
+        "en": "This black car with a roof rack is unique to Curaçao.",
+        "es": "Este coche negro con portaequipajes es único de Curaçao."
+      },
+      "images": [
+        "/metas/curacao/04.jpg"
+      ],
+      "title": {
+        "en": "Black car with roof rack",
+        "es": "Coche negro con portaequipajes"
+      }
+    },
+    {
+      "body": {
+        "en": "Due to Curaçao's semi-arid climate, cacti can commonly be seen.",
+        "es": "Debido al clima semiárido de Curaçao, los cactus se ven con mucha frecuencia."
+      },
+      "images": [
+        "/metas/curacao/05.jpg"
+      ],
+      "title": {
+        "en": "Cacti everywhere",
+        "es": "Cactus por todas partes"
+      }
+    },
+    {
+      "body": {
+        "en": "Much of the architecture on Curaçao consists of simple, one storey bungalows that are pastel coloured. Metal roofs are common on smaller shacks, while tiled roofs can be seen on more expensive houses. Additionally, multi storey villas can sometimes be seen.",
+        "es": "Buena parte de la arquitectura de Curaçao consiste en bungalows sencillos de una planta en tonos pastel. Suelen tener tejados metálicos."
+      },
+      "images": [
+        "/metas/curacao/06.jpg"
+      ],
+      "title": {
+        "en": "Pastel bungalows",
+        "es": "Bungalows pastel"
+      }
+    }
+  ],
+  "name": {
+    "en": "Curaçao",
+    "es": "Curazao"
+  },
+  "slug": "curacao",
+  "source": "https://www.plonkit.net/curacao"
+}

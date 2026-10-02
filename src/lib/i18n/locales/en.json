@@ -1,0 +1,63 @@
+{
+  "nav": {
+    "home": "Home",
+    "africa": "Africa",
+    "drill": "Drill",
+    "language": "Idioma",
+    "southamerica": "South America"
+  },
+  "home": {
+    "title": "Identify the country, not the region.",
+    "subtitle": "Every guide is built from real GeoGuessr metas: yellow outer lines, plate serials, town names, bird poles and utility posts you will only ever find in one country.",
+    "africa": "Africa",
+    "africaDesc": "18 countries · MVP",
+    "comingSoon": "Soon",
+    "start": "Start learning",
+    "drillCta": "Practice drill",
+    "globeTitle": "Explore the globe",
+    "globeHint": "Drag to spin. Click a highlighted country to open its guide.",
+    "globeSoon": "not in the MVP yet",
+    "southAmerica": "South America",
+    "southAmericaDesc": "11 countries · MVP",
+    "startSA": "Start learning",
+    "drillCtaSA": "Practice drill"
+  },
+  "country": {
+    "metas": "Identification metas",
+    "facts": "Quick facts",
+    "source": "Source",
+    "viewLocation": "View on world map",
+    "locateTitle": "Location",
+    "close": "Close",
+    "gallery": "Reference photos",
+    "galleryOpen": "Open photo",
+    "galleryPrev": "Previous photo",
+    "galleryNext": "Next photo"
+  },
+  "drill": {
+    "title": "South America drill",
+    "question": "Which country is this meta from?",
+    "correct": "Correct!",
+    "wrong": "Not quite — it was",
+    "next": "Next",
+    "score": "Score",
+    "restart": "Restart",
+    "pickHint": "Keys 1–4 to answer · Enter or Space for the next one",
+    "streak": "Streak",
+    "remaining": "Metas left",
+    "correctAnswer": "Correct answer",
+    "metaLabel": "Meta",
+    "progress": "Progress",
+    "titleSA": "South America drill",
+    "titleAll": "All countries drill"
+  },
+  "continent": {
+    "countries": "countries",
+    "pick": "Pick a country and learn its identification metas.",
+    "drill": "Start drill"
+  },
+  "footer": {
+    "data": "Identification data adapted from",
+    "imagery": "Street View imagery © Google"
+  }
+}

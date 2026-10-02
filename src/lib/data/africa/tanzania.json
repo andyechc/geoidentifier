@@ -1,0 +1,132 @@
+{
+  "continent": "africa",
+  "facts": {
+    "domain": ".tz",
+    "drive": {
+      "en": "Left",
+      "es": "Izquierda"
+    },
+    "language": {
+      "en": "Swahili, English",
+      "es": "Suajili, inglés"
+    },
+    "prefix": "+255"
+  },
+  "images": [
+    "/metas/tanzania/01.jpg",
+    "/metas/tanzania/02.jpg",
+    "/metas/tanzania/03.jpg",
+    "/metas/tanzania/04.jpg",
+    "/metas/tanzania/05.jpg",
+    "/metas/tanzania/06.jpg",
+    "/metas/tanzania/07.jpg",
+    "/metas/tanzania/08.jpg"
+  ],
+  "iso": "TZ",
+  "languageMeta": {
+    "sample": "Karibu Tanzania",
+    "tip": {
+      "en": "Swahili 'karibu' plus daladala buses.",
+      "es": "Suajili 'karibu' más autobuses daladala."
+    }
+  },
+  "metas": [
+    {
+      "body": {
+        "en": "On Mount Kilimanjaro, there are a couple of tripods. This is a type of coverage made with a regular camera mounted on a tripod. As a result, this coverage has a distinct ethereal look, compared to normal street view: objects in the image will usually have motion blur, and slightly saturated colours. NOTE: Tripods can also be found in several other countries.",
+        "es": "En el Kilimanjaro hay un par de trípodes. Es un tipo de cobertura hecha con una cámara normal montada sobre un trípode, así que tiene un aspecto distinto al de Street View normal: los objetos aparecen con movimiento borroso y los colores algo saturados. NOTA: hay trípodes también en varios otros países."
+      },
+      "images": [
+        "/metas/tanzania/02.jpg"
+      ],
+      "title": {
+        "en": "Mount Kilimanjaro",
+        "es": "Trípodes del Kilimanjaro"
+      }
+    },
+    {
+      "body": {
+        "en": "The Mount Kilimanjaro tripods show a high altitude landscape, with dark grey rock and in some places eternal snow in the distance. In some panos, you will see mountaineers and tents.",
+        "es": "Los trípodes del Kilimanjaro muestran un paisaje de gran altitud, con roca gris oscura y, en algunos lugares, nieve eterna a lo lejos. En algunos panoramas verás montañeros y tiendas de campaña."
+      },
+      "images": [
+        "/metas/tanzania/03.jpg"
+      ],
+      "title": {
+        "en": "High altitude rock and snow",
+        "es": "Roca de altura y nieve"
+      }
+    },
+    {
+      "body": {
+        "en": "A walking trekker goes through a large part of Gombe National Park. The landscape varies somewhat from place to place. In the lowland parts, you will see dense jungle and usually very little sunlight, leading to dark coverage. Sometimes, you can see chimpanzees.",
+        "es": "Un trekker a pie recorre buena parte del Parque Nacional de Gombe. El paisaje varía algo de un lugar a otro. En las zonas bajas verás selva densa y normalmente muy poca luz solar, lo que hace que la cobertura sea oscura. A veces puedes ver chimpancés."
+      },
+      "images": [
+        "/metas/tanzania/04.jpg"
+      ],
+      "title": {
+        "en": "Gombe National Park",
+        "es": "Trekker a pie en Gombe"
+      }
+    },
+    {
+      "body": {
+        "en": "Higher up on the hills, the forest becomes more open and you will see savannah-like trees around you.",
+        "es": "Más arriba en las colinas, el bosque se vuelve más abierto y verás árboles de aspecto sabánico a tu alrededor."
+      },
+      "images": [
+        "/metas/tanzania/05.jpg"
+      ],
+      "title": {
+        "en": "Open forest on the hills",
+        "es": "Bosque más abierto en las colinas"
+      }
+    },
+    {
+      "body": {
+        "en": "On top of the hills, the trees make way for a bare grassland landscape. Here, you have breathtaking views of the surrounding landscape and Lake Tanganyika.",
+        "es": "En la cima de las colinas, los árboles dan paso a un paisaje de pradera desnuda. Aquí tendrás vistas excelentes de los alrededores y del Lago Tanganica."
+      },
+      "images": [
+        "/metas/tanzania/06.jpg"
+      ],
+      "title": {
+        "en": "Bare grassland and lake views",
+        "es": "Pradera desnuda y vistas al lago"
+      }
+    },
+    {
+      "body": {
+        "en": "There is a boat trekker in Lake Tanganyika, that hugs the coast very closely, next to Gombe National Park. The coast is always to your east. You will see hills that are mostly covered in tropical forest, with some bare and grassy hilltops. You can see the boat through the blur: it is painted olive green and white, and has some people in it. The boat and people are always pixelated due to the blur. NOTE: Do not confuse this boat trekker with the boats in Madagascar.",
+        "es": "Hay un trekker en barco en el Lago Tanganica que va muy pegado a la costa, junto al Parque Nacional de Gombe. La costa está siempre al este. Verás colinas cubiertas en su mayoría por bosque tropical, con algunas cimas desnudas y con hierba. Puedes ver el barco a través del desenfoque: está pintado de verde oliva y blanco y lleva algunas personas. El barco y las personas siempre aparecen pixelados por el desenfoque. NOTA: no confundas este trekker en barco con los barcos de Madagascar."
+      },
+      "images": [
+        "/metas/tanzania/07.jpg"
+      ],
+      "title": {
+        "en": "Lake Tanganyika boat trekker",
+        "es": "Trekker en barco del Lago Tanganica"
+      }
+    },
+    {
+      "body": {
+        "en": "There is one more tripod in Tanzania, inside Jane Goodall's house. It is also located in Gombe National Park, adjacent to the normal Generation 3 trekker coverage.",
+        "es": "Hay un trípode más en Tanzania, dentro de la casa de Jane Goodall. También está en el Parque Nacional de Gombe, junto a la cobertura trekker normal de generación 3."
+      },
+      "images": [
+        "/metas/tanzania/08.jpg"
+      ],
+      "title": {
+        "en": "Jane Goodall's house tripod",
+        "es": "Trípode en la casa de Jane Goodall"
+      }
+    }
+  ],
+  "name": {
+    "en": "Tanzania",
+    "es": "Tanzania"
+  },
+  "slug": "tanzania",
+  "source": "https://www.plonkit.net/tanzania"
+}

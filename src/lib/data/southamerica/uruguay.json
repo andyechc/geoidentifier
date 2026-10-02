@@ -1,0 +1,250 @@
+{
+  "continent": "south-america",
+  "facts": {
+    "domain": ".uy",
+    "drive": {
+      "en": "Right",
+      "es": "Derecha"
+    },
+    "language": {
+      "en": "Spanish",
+      "es": "Español"
+    },
+    "prefix": "+598"
+  },
+  "images": [
+    "/metas/uruguay/01.jpg",
+    "/metas/uruguay/02.jpg",
+    "/metas/uruguay/03.jpg",
+    "/metas/uruguay/04.jpg",
+    "/metas/uruguay/05.jpg",
+    "/metas/uruguay/06.jpg",
+    "/metas/uruguay/07.jpg",
+    "/metas/uruguay/08.jpg",
+    "/metas/uruguay/09.jpg",
+    "/metas/uruguay/10.jpg",
+    "/metas/uruguay/11.jpg",
+    "/metas/uruguay/12.jpg",
+    "/metas/uruguay/13.jpg",
+    "/metas/uruguay/14.jpg",
+    "/metas/uruguay/15.jpg",
+    "/metas/uruguay/16.jpg"
+  ],
+  "iso": "UY",
+  "metas": [
+    {
+      "body": {
+        "en": "This is the stereotypical Uruguay round. The coverage often, but not always, features overcast weather. Most of the landscape consists of open grasslands with gentle hills. Occasionally, you might see separated tree plantations. Roads are generally in worse condition than in neighbouring countries.",
+        "es": "Este es el Uruguay estereotípico. La cobertura suele mostrar, aunque no siempre, tiempo nublado. La mayor parte del paisaje son praderas abiertas con colinas suaves."
+      },
+      "images": [
+        "/metas/uruguay/01.jpg"
+      ],
+      "title": {
+        "en": "Open grasslands",
+        "es": "Praderas abiertas"
+      }
+    },
+    {
+      "body": {
+        "en": "Uruguayan licence plates are plain white with black characters. NOTE: Neighbouring Argentina also uses white licence plates, but they will have either a black dot in the middle or a blue bar at the top.",
+        "es": "Las matrículas uruguayas son blancas lisas con caracteres negros. NOTA: la Argentina vecina también usa matrículas blancas, pero con un punto negro en el medio o una franja azul."
+      },
+      "images": [
+        "/metas/uruguay/02.jpg"
+      ],
+      "title": {
+        "en": "Plain white plates",
+        "es": "Matrículas blancas lisas"
+      }
+    },
+    {
+      "body": {
+        "en": "Uruguay only has Generation 3 coverage. Coverage was taken by a black Google car without an antenna. The car is not always visible. NOTE: Within South America, you can also find this car in Argentina and Peru.",
+        "es": "Uruguay solo tiene cobertura de generación 3. La cobertura se hizo con un coche de Google negro sin antena. El coche no siempre es visible. NOTA: dentro de Sudamérica también lo encuentras en Argentina."
+      },
+      "images": [
+        "/metas/uruguay/03.jpg"
+      ],
+      "title": {
+        "en": "Black Gen 3 car",
+        "es": "Coche negro de gen 3"
+      }
+    },
+    {
+      "body": {
+        "en": "In a lot of coverage, the camera quality is somewhat smudgy. NOTE: This is significantly less common in Argentina.",
+        "es": "En mucha cobertura la calidad de la cámara es algo borrosa. NOTA: esto es mucho menos común en Argentina."
+      },
+      "images": [
+        "/metas/uruguay/04.jpg"
+      ],
+      "title": {
+        "en": "Smudgy camera quality",
+        "es": "Imagen algo borrosa"
+      }
+    },
+    {
+      "body": {
+        "en": "Uruguay uses thick wooden signposts, which are typically painted white. They often have up to four rectangular notches at the back of the post. NOTE: Thick wooden signposts can also be seen in Bolivia.",
+        "es": "Uruguay usa postes de madera gruesos, normalmente pintados de blanco. Suelen tener hasta cuatro muescas rectangulares en la parte trasera del poste. NOTA: los postes de madera gruesos también se pueden encontrar en Brasil."
+      },
+      "images": [
+        "/metas/uruguay/05.jpg"
+      ],
+      "title": {
+        "en": "Thick wooden signposts",
+        "es": "Postes de madera gruesos"
+      }
+    },
+    {
+      "body": {
+        "en": "Uruguay often has these triple road lines, that consist of double yellow roadlines with white dashes in between. This is a design not seen anywhere else in the Americas.",
+        "es": "Uruguay suele tener estas líneas viales triples, formadas por líneas dobles amarillas con guiones blancos en medio. Es un diseño que no se ve en ningún otro lugar de América."
+      },
+      "images": [
+        "/metas/uruguay/06.jpg"
+      ],
+      "title": {
+        "en": "Unique triple road lines",
+        "es": "Líneas triples únicas"
+      }
+    },
+    {
+      "body": {
+        "en": "You can also find two other, non-unique road line patterns:",
+        "es": "También puedes encontrar otros dos patrones de líneas viales, que no son únicos de Uruguay."
+      },
+      "images": [
+        "/metas/uruguay/07.jpg"
+      ],
+      "title": {
+        "en": "Other road line patterns",
+        "es": "Otros patrones de líneas"
+      }
+    },
+    {
+      "body": {
+        "en": "These white bollards, with one side often painted yellow, and stone barriers, are specific to Uruguay.",
+        "es": "Estos bolardos blancos, con un lado a menudo pintado de amarillo, y las barreras de piedra, son específicos de Uruguay."
+      },
+      "images": [
+        "/metas/uruguay/08.jpg"
+      ],
+      "title": {
+        "en": "White and yellow bollards",
+        "es": "Bolardos blancos y amarillos"
+      }
+    },
+    {
+      "body": {
+        "en": "Uruguay uses a handful of different utility poles. One very common and useful one are the so- called trident poles, which get their name from their distinctive pole tops with three insulators that point upwards. NOTE: Similar trident poles can be found in the neighbouring Brazilian state of Rio Grande do Sul.",
+        "es": "Uruguay usa varios tipos de postes distintos. Uno muy común y útil son los llamados postes tridente, que deben su nombre a sus remates característicos con tres puntas."
+      },
+      "images": [
+        "/metas/uruguay/09.jpg"
+      ],
+      "title": {
+        "en": "Trident poles",
+        "es": "Postes tridente"
+      }
+    },
+    {
+      "body": {
+        "en": "You can also see a variety of other pole designs, including: Both of these pole designs are also good clues for Uruguay. In addition, you might see simple wooden poles with one insulator, as well as very rarely some Argentina-style poles.",
+        "es": "También puedes ver una variedad de otros diseños de poste. Todos estos diseños son buenas pistas para Uruguay."
+      },
+      "images": [
+        "/metas/uruguay/10.jpg"
+      ],
+      "title": {
+        "en": "Other pole designs",
+        "es": "Otros tipos de poste"
+      }
+    },
+    {
+      "body": {
+        "en": "Uruguayan guardrails have a small, rectangular yellow or red reflector, which is the same as in Argentina. They can be differentiated by the shape of their support. In Argentina, the supports are made up of three sides of a rectangle. Uruguayan supports have the same three sides, and additionally parts of the fourth side at the corners.",
+        "es": "Los quitamiedos uruguayos tienen un reflector rectangular pequeño, amarillo o rojo, igual que en Argentina. Se diferencian por la forma del soporte: en Argentina el soporte tiene tres lados de un rectángulo, mientras que los soportes uruguayos tienen la misma."
+      },
+      "images": [
+        "/metas/uruguay/11.jpg"
+      ],
+      "title": {
+        "en": "Small rectangular reflectors",
+        "es": "Reflectores rectangulares pequeños"
+      }
+    },
+    {
+      "body": {
+        "en": "Like most of Latin America, chevrons are yellow with black arrows. NOTE: This is mostly useful to distinguish between Argentina, which uniquely uses chevrons that are white with red arrows.",
+        "es": "Como la mayor parte de América latina, los galones son amarillos con flechas negras. NOTA: esto sirve sobre todo para distinguirlo de Argentina, que usa de forma única galones blancos con flechas rojas."
+      },
+      "images": [
+        "/metas/uruguay/12.jpg"
+      ],
+      "title": {
+        "en": "Yellow chevrons, black arrows",
+        "es": "Galones amarillos con flechas negras"
+      }
+    },
+    {
+      "body": {
+        "en": "As mentioned before, most of Uruguay is slightly hilly, even though the overall elevation is fairly low. Although it is by no means a mountainous country, roads generally have at least a slight incline. Take note that this hilliness is usually very subtle: don't expect immense rolling hills in most of the country. NOTE: If your location is completely flat, consider that you might be in Argentina instead.",
+        "es": "Como se ha mencionado antes, la mayor parte de Uruguay es algo ondulada, aunque la elevación total es bastante baja. Aunque no es en absoluto un país montañoso, las carreteras suelen tener al menos algo de pendiente."
+      },
+      "images": [
+        "/metas/uruguay/13.jpg"
+      ],
+      "title": {
+        "en": "Rolling hills",
+        "es": "Colinas onduladas"
+      }
+    },
+    {
+      "body": {
+        "en": "In many parts of Uruguay, you can find reddish soil. The tint can range from light pink (pictured here) to deep red. NOTE: This type of reddish soil is less common in the similar-looking parts of Argentina. Hence, it can be a good clue for Uruguay when you are faced with a tough decision. However, be cautious with using this meta in the inverse way: the absence of this type of soil does not exclude Uruguay, as you can still find a lot of generic white and brown soil throughout the country.",
+        "es": "En muchas partes de Uruguay puedes encontrar suelo rojizo. El tono puede ir de un rosa claro hasta un rojo intenso. NOTA: este tipo de suelo rojizo es menos común en los países vecinos."
+      },
+      "images": [
+        "/metas/uruguay/14.jpg"
+      ],
+      "title": {
+        "en": "Reddish soil",
+        "es": "Suelo rojizo"
+      }
+    },
+    {
+      "body": {
+        "en": "Many Uruguayan houses are made out of concrete, and are somewhat cube-shaped. Walls often have drab colours and tend to look weathered. Flat roofs are relatively common. NOTE: Architecture in Argentina often looks similar.",
+        "es": "Muchas casas uruguayas están hechas de hormigón y tienen forma algo cúbica. Las paredes suelen tener colores apagados y tienden a parecer desgastadas. Los tejados planos son relativamente comunes. NOTA: las casas de ladrillo también se ven en Uruguay."
+      },
+      "images": [
+        "/metas/uruguay/15.jpg"
+      ],
+      "title": {
+        "en": "Concrete cube houses",
+        "es": "Casas de hormigón cúbicas"
+      }
+    },
+    {
+      "body": {
+        "en": "Occasionally, you might see palm trees. These short and stocky species of palm tree are particularly common.",
+        "es": "De vez en cuando verás palmeras. Estas especies cortas y robustas de palmera son particularmente comunes."
+      },
+      "images": [
+        "/metas/uruguay/16.jpg"
+      ],
+      "title": {
+        "en": "Short stocky palms",
+        "es": "Palmeras cortas y Robustas"
+      }
+    }
+  ],
+  "name": {
+    "en": "Uruguay",
+    "es": "Uruguay"
+  },
+  "slug": "uruguay",
+  "source": "https://www.plonkit.net/uruguay"
+}

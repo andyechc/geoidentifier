@@ -1,0 +1,131 @@
+{
+  "continent": "africa",
+  "facts": {
+    "domain": ".na",
+    "drive": {
+      "en": "Left",
+      "es": "Izquierda"
+    },
+    "language": {
+      "en": "English",
+      "es": "Inglés"
+    },
+    "prefix": "+264"
+  },
+  "images": [
+    "/metas/namibia/01.jpg",
+    "/metas/namibia/02.jpg",
+    "/metas/namibia/03.jpg",
+    "/metas/namibia/04.jpg",
+    "/metas/namibia/05.jpg",
+    "/metas/namibia/06.jpg",
+    "/metas/namibia/07.jpg"
+  ],
+  "iso": "NA",
+  "languageMeta": {
+    "sample": "Windhoek",
+    "tip": {
+      "en": "English is official but German place names (Straße, -mund) are everywhere.",
+      "es": "El inglés es oficial pero hay topónimos alemanes (Straße, -mund) por todas partes."
+    }
+  },
+  "metas": [
+    {
+      "body": {
+        "en": "Namibia primarily uses yellow front and back licence plates. Vanity plates are white, with blue lettering. NOTE: Botswana and Namibia are the only countries in southern Africa where yellow rear plates are predominantly found.",
+        "es": "Namibia usa principalmente matrículas amarillas delante y detrás. Las matrículas de vanidad son blancas, con letras azules. NOTA: Botsuana es el único otro país del sur con matrículas amarillas en general."
+      },
+      "images": [
+        "/metas/namibia/01.jpg"
+      ],
+      "title": {
+        "en": "Yellow plates, white vanity",
+        "es": "Matrículas amarillas y vanidades blancas"
+      }
+    },
+    {
+      "body": {
+        "en": "Namibia drives on the left side of the road. NOTE: This is also true for other countries in southern and eastern Africa. However all Middle Eastern countries with coverage drive on the right side.",
+        "es": "Namibia conduce por el lado izquierdo de la carretera. NOTA: esto también es cierto en otros países del sur y este de África."
+      },
+      "images": [
+        "/metas/namibia/02.jpg"
+      ],
+      "title": {
+        "en": "Left-hand traffic",
+        "es": "Conducción por la izquierda"
+      }
+    },
+    {
+      "body": {
+        "en": "All the coverage in Namibia was taken with a white pickup truck with a short antenna on the front. Notably, this antenna will always lean slightly to the left. NOTE: No other country in southern Africa has a similar car. The most similar country with this type of car is Oman, however the antenna there will never lean left, but often clearly to the right.",
+        "es": "Toda la cobertura de Namibia se hizo con una camioneta blanca con una antena corta en la parte delantera. Es habitual que la antenna se vea como un remate metálico."
+      },
+      "images": [
+        "/metas/namibia/03.jpg"
+      ],
+      "title": {
+        "en": "White pickup with short antenna",
+        "es": "Camioneta blanca con antena corta"
+      }
+    },
+    {
+      "body": {
+        "en": "Most roads in Namibia use single yellow outer lines and white centre lines. NOTE: The other southern African countries also use single yellow outer lines.",
+        "es": "La mayoría de las carreteras de Namibia usan líneas exteriores amarillas simples y líneas centrales blancas. NOTA: los demás países del África austral usan líneas exteriores amarillas con líneas centrales amarillas discontinuas."
+      },
+      "images": [
+        "/metas/namibia/04.jpg"
+      ],
+      "title": {
+        "en": "Yellow outer lines",
+        "es": "Líneas exteriores amarillas"
+      }
+    },
+    {
+      "body": {
+        "en": "Namibia uses green directional signs with the road number in yellow. NOTE: Green directional signs with yellow road numbers are also used in South Africa and the other Southern African countries.",
+        "es": "Namibia usa señales de dirección verdes con el número de carretera en amarillo. NOTA: las señales verdes con números amarillos también se usan en Lesoto, Esuatini, Botsuana y Sudáfrica."
+      },
+      "images": [
+        "/metas/namibia/05.jpg"
+      ],
+      "title": {
+        "en": "Green signs, yellow road number",
+        "es": "Señales verdes con número amarillo"
+      }
+    },
+    {
+      "body": {
+        "en": "Namibia used to be a German colony, and as such, you can still notice the German influence, most notably in their place names. Some older buildings can have a German style as well.",
+        "es": "Namibia fue colonia alemana y aún se nota esa influencia, sobre todo en sus topónimos. Esto es algo que no verás en ningún otro país vecino del sur."
+      },
+      "images": [
+        "/metas/namibia/06.jpg"
+      ],
+      "title": {
+        "en": "German place names",
+        "es": "Topónimos alemanes"
+      }
+    },
+    {
+      "body": {
+        "en": "You can spot these small stone bollards at intersections and on the sides of roads.",
+        "es": "Puedes ver estos pequeños bolardos de piedra en las intersecciones y a los lados de las carreteras."
+      },
+      "images": [
+        "/metas/namibia/07.jpg"
+      ],
+      "title": {
+        "en": "Stone roadside bollards",
+        "es": "Bolardos de piedra junto a la carretera"
+      }
+    }
+  ],
+  "name": {
+    "en": "Namibia",
+    "es": "Namibia"
+  },
+  "slug": "namibia",
+  "source": "https://www.plonkit.net/namibia"
+}

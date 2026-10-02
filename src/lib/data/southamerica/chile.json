@@ -1,0 +1,110 @@
+{
+  "continent": "south-america",
+  "facts": {
+    "domain": ".cl",
+    "drive": {
+      "en": "Right",
+      "es": "Derecha"
+    },
+    "language": {
+      "en": "Spanish",
+      "es": "Español"
+    },
+    "prefix": "+56"
+  },
+  "images": [
+    "/metas/chile/01.jpg",
+    "/metas/chile/02.jpg",
+    "/metas/chile/03.jpg",
+    "/metas/chile/04.jpg",
+    "/metas/chile/05.jpg",
+    "/metas/chile/06.jpg"
+  ],
+  "iso": "CL",
+  "metas": [
+    {
+      "body": {
+        "en": "Chilean road lines are either all white, or all yellow: All white road lines are most common. Within the Americas, they are a good clue for Chile, though not completely unique. All yellow road lines are seen in National Parks or areas of high snowfall. Within the Americas, these all yellow road lines are essentially unique to Chile. You will almost never see a combination of the two colours, apart from a few rare exceptions. NOTE: It is important to note that Argentina has a decent amount of roads with all white road lines.",
+        "es": "Las líneas viales chilenas son todas blancas o todas amarillas. Las líneas todas blancas son las más comunes. Dentro de América, estas líneas todas amarillas son prácticamente únicas de Chile: casi nunca verás una combinación de líneas amarillas y blancas."
+      },
+      "images": [
+        "/metas/chile/01.jpg"
+      ],
+      "title": {
+        "en": "All white or all yellow lines",
+        "es": "Líneas todas blancas o todas amarillas"
+      }
+    },
+    {
+      "body": {
+        "en": "Chile has a solid white Google Car with no antenna in Generation 3. There are two variants: A blue Google Car can be seen in Generation 4. NOTE: In Generation 3, a plain white Google Car with no antenna can also be seen in Peru and Bolivia.",
+        "es": "Chile tiene un coche de Google blanco y sin antena en generación 3. Hay dos variantes: un coche de Google azul con antena y uno blanco sin antena. NOTA: en Sudamérica, el coche blanco sin antena también se usa en Guyana y Surinam."
+      },
+      "images": [
+        "/metas/chile/02.jpg"
+      ],
+      "title": {
+        "en": "White Google car",
+        "es": "Coche de Google blanco"
+      }
+    },
+    {
+      "body": {
+        "en": "Chile uses square concrete poles with an indent on both sides. They are somewhat similar to Brazilian poles, however have fewer horizontal supports in the indent. The upper part typically has small pinholes. Wooden poles are also fairly common.",
+        "es": "Chile usa postes de hormigón cuadrados con una muesca en ambos lados. Son algo parecidos a los postes de Brasil, pero más estrechos."
+      },
+      "images": [
+        "/metas/chile/03.jpg"
+      ],
+      "title": {
+        "en": "Square indented concrete poles",
+        "es": "Postes de hormigón cuadrados con muesca"
+      }
+    },
+    {
+      "body": {
+        "en": "Regular vehicles have white licence plates, while commercial and taxi vehicles have orange plates. NOTE: Orange plates can also be seen in Ecuador. Brazilian commercial plates are red, but can look similar in some lighting.",
+        "es": "Los vehículos particulares tienen matrícula blanca, mientras que los comerciales y los taxis llevan matrícula naranja. NOTA: las placas naranjas también se usan en Ecuador y Colombia."
+      },
+      "images": [
+        "/metas/chile/04.jpg"
+      ],
+      "title": {
+        "en": "White and orange plates",
+        "es": "Matrículas blancas y naranjas"
+      }
+    },
+    {
+      "body": {
+        "en": "Chile uses chevrons with a yellow base and black arrows. NOTE: Argentina uses white with red arrows.",
+        "es": "Chile usa galones con base amarilla y flechas negras. NOTA: Argentina usa blanco con flechas rojas."
+      },
+      "images": [
+        "/metas/chile/05.jpg"
+      ],
+      "title": {
+        "en": "Yellow chevrons, black arrows",
+        "es": "Galones amarillos con flechas negras"
+      }
+    },
+    {
+      "body": {
+        "en": "Chilean bollards are similar to Spanish style bollards, with a white reflector at the front and a yellow-orange reflector at the back. They are not super common.",
+        "es": "Los bolardos chilenos son parecidos a los de estilo español, con un reflector blanco en la parte delantera y una franja amarilla o naranja alrededor."
+      },
+      "images": [
+        "/metas/chile/06.jpg"
+      ],
+      "title": {
+        "en": "Bollards with yellow reflector",
+        "es": "Bolardos con reflector amarillo"
+      }
+    }
+  ],
+  "name": {
+    "en": "Chile",
+    "es": "Chile"
+  },
+  "slug": "chile",
+  "source": "https://www.plonkit.net/chile"
+}
