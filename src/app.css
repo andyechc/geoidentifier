@@ -1,0 +1,114 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+@plugin "daisyui/theme" {
+	name: "geo-dark";
+	default: true;
+	prefersdark: true;
+	color-scheme: dark;
+	--color-base-100: #0c0a09;
+	--color-base-200: #1c1917;
+	--color-base-300: #44403c;
+	--color-base-content: #f5f5f4;
+	--color-primary: #10b981;
+	--color-primary-content: #022c22;
+	--color-secondary: #34d399;
+	--color-secondary-content: #022c22;
+	--color-accent: #10b981;
+	--color-accent-content: #022c22;
+	--color-neutral: #292524;
+	--color-neutral-content: #f5f5f4;
+	--color-info: #38bdf8;
+	--color-info-content: #082f49;
+	--color-success: #4ade80;
+	--color-success-content: #052e16;
+	--color-warning: #fbbf24;
+	--color-warning-content: #451a03;
+	--color-error: #f87171;
+	--color-error-content: #450a0a;
+}
+
+@plugin "daisyui/theme" {
+	name: "geo-light";
+	color-scheme: light;
+	--color-base-100: #fafaf9;
+	--color-base-200: #f5f5f4;
+	--color-base-300: #d6d3d1;
+	--color-base-content: #1c1917;
+	--color-primary: #059669;
+	--color-primary-content: #ecfdf5;
+	--color-secondary: #059669;
+	--color-secondary-content: #ecfdf5;
+	--color-accent: #059669;
+	--color-accent-content: #ecfdf5;
+	--color-neutral: #e7e5e4;
+	--color-neutral-content: #1c1917;
+	--color-info: #0284c7;
+	--color-info-content: #f0f9ff;
+	--color-success: #16a34a;
+	--color-success-content: #f0fdf4;
+	--color-warning: #d97706;
+	--color-warning-content: #fffbeb;
+	--color-error: #dc2626;
+	--color-error-content: #fef2f2;
+}
+
+@theme {
+	--font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+}
+
+/* ---- custom dot cursor ---- */
+.cursor-dot {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 10px;
+	height: 10px;
+	border-radius: 9999px;
+	background: var(--color-primary);
+	pointer-events: none;
+	z-index: 9999;
+	opacity: 0;
+	transform: translate(-100px, -100px);
+	transition:
+		box-shadow 0.18s ease,
+		opacity 0.2s ease;
+}
+body.cursor-hot .cursor-dot {
+	box-shadow:
+		0 0 16px 4px var(--color-primary),
+		0 0 40px 8px color-mix(in srgb, var(--color-primary) 50%, transparent);
+}
+@media (hover: hover) and (pointer: fine) {
+	* {
+		cursor: none !important;
+	}
+	input[type="text"],
+	textarea {
+		cursor: text !important;
+	}
+}
+
+/* ---- button hover: scale only, no fill change ---- */
+.btn {
+	transition: transform 0.15s ease, box-shadow 0.15s ease, background-color 0.15s ease;
+}
+@media (hover: hover) {
+	.btn:hover:not(:disabled):not(.btn-disabled) {
+		transform: scale(1.05);
+	}
+	.btn-primary:hover:not(:disabled):not(.btn-disabled),
+	.btn-secondary:hover:not(:disabled):not(.btn-disabled),
+	.btn-accent:hover:not(:disabled):not(.btn-disabled) {
+		box-shadow: 0 0 16px 2px color-mix(in srgb, var(--color-primary) 40%, transparent);
+	}
+	.btn-outline:hover:not(:disabled):not(.btn-disabled),
+	.btn-ghost:hover:not(:disabled):not(.btn-disabled) {
+		background-color: transparent;
+	}
+}
+
+/* ---- active press ---- */
+.btn:active:not(:disabled):not(.btn-disabled) {
+	transform: scale(0.98);
+}

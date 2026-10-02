@@ -1,0 +1,75 @@
+{
+  "continent": "africa",
+  "facts": {
+    "domain": ".gh",
+    "drive": {
+      "en": "Right",
+      "es": "Derecha"
+    },
+    "language": {
+      "en": "English",
+      "es": "Inglés"
+    },
+    "prefix": "+233"
+  },
+  "images": [
+    "/metas/ghana/01.jpg",
+    "/metas/ghana/02.jpg",
+    "/metas/ghana/03.jpg"
+  ],
+  "iso": "GH",
+  "languageMeta": {
+    "sample": "Trotro",
+    "tip": {
+      "en": "Signs are in English — rely on the taped car and plates instead.",
+      "es": "Las señales están en inglés: fíate del coche con cinta y las matrículas."
+    }
+  },
+  "metas": [
+    {
+      "body": {
+        "en": "All regular road generation 3 coverage in Ghana was made with a unique Google car. It has a visible roof rack with a piece of black tape on the right end of the front bar. In addition, the hood of the car is usually visible, showing a street view car wrapping that features a red rectangle and some other recognizable elements. Normally, this unique car is all you need to identify Ghana. NOTE: Several natural reserves were covered with different unique cars.",
+        "es": "Toda la cobertura rodada de generación 3 de Ghana se hizo con un coche de Google único: tiene una baca visible con un pico de tela blanca, cinta blanca en las ventanillas y espejos laterales tapados. Normalmente este coche único basta para identificar Ghana. NOTA: en Uganda hay una variante de este coche con cinta, pero allí también se ven muchos elementos reconocibles adicionales."
+      },
+      "images": [
+        "/metas/ghana/01.jpg"
+      ],
+      "title": {
+        "en": "Taped Gen 3 car",
+        "es": "Coche de gen 3 con cinta"
+      }
+    },
+    {
+      "body": {
+        "en": "Generation 4 coverage in Ghana was taken using a grey or white pickup truck with an antenna in the front. The truck will be either fully or partially blurred most of the time.",
+        "es": "La cobertura de generación 4 en Ghana se hizo con una camioneta gris o blanca con una antena en la parte delantera. La camioneta puede ir parcialmente desenfocada, pero los colores de la carrocería y los detalles de la antena suelen seguir siendo visibles."
+      },
+      "images": [
+        "/metas/ghana/02.jpg"
+      ],
+      "title": {
+        "en": "Gen 4 pickup truck",
+        "es": "Camioneta de generación 4"
+      }
+    },
+    {
+      "body": {
+        "en": "Ghana uses white plates on normal vehicles, and yellow plates for commercial vehicles. They can be long or short. Because commercial vehicles are really common, you will often see a mix of both plate colours. NOTE: Nigeria has similar white plates, but a green tint should be visible, which helps differentiate them. Ghana is mostly flat with red soil, however hills and mountains can be seen in some regions. Tropical vegetation is very common, and palms are common especially toward the south. Taxis in Ghana typically have multicoloured body panels. The fenders and quarter panels are always coloured orange-yellow.",
+        "es": "Ghana usa matrículas blancas en vehículos normales y amarillas en comerciales. Pueden ser largas o cortas. Los vehículos comerciales suelen llevar una W de tres letras después de la marca de la matrícula."
+      },
+      "images": [
+        "/metas/ghana/03.jpg"
+      ],
+      "title": {
+        "en": "White and yellow plates",
+        "es": "Matrículas blancas y amarillas"
+      }
+    }
+  ],
+  "name": {
+    "en": "Ghana",
+    "es": "Ghana"
+  },
+  "slug": "ghana",
+  "source": "https://www.plonkit.net/ghana"
+}

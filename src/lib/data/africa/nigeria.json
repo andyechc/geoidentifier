@@ -1,0 +1,105 @@
+{
+  "continent": "africa",
+  "facts": {
+    "domain": ".ng",
+    "drive": {
+      "en": "Right",
+      "es": "Derecha"
+    },
+    "language": {
+      "en": "English",
+      "es": "Inglés"
+    },
+    "prefix": "+234"
+  },
+  "images": [
+    "/metas/nigeria/01.jpg",
+    "/metas/nigeria/02.jpg",
+    "/metas/nigeria/03.jpg",
+    "/metas/nigeria/04.jpg",
+    "/metas/nigeria/05.jpg",
+    "/metas/nigeria/06.jpg"
+  ],
+  "iso": "NG",
+  "languageMeta": {
+    "sample": "Lagos",
+    "tip": {
+      "en": "English everywhere — plates with a green tinge decide it vs Ghana.",
+      "es": "Inglés en todas partes: las matrículas con tono verde lo distinguen de Ghana."
+    }
+  },
+  "metas": [
+    {
+      "body": {
+        "en": "A visible Street View car is present in most of the coverage, being a pickup truck with the cab and bed visible. The colour of the cab and other features of it varies. In Generation 3, a roof rack is present. You may also find a large blur covering the entire pickup truck.",
+        "es": "En la mayoría de la cobertura hay un coche de Street View visible: es una camioneta con la cabina y la caja a la vista, y la parte superior de la caja cubierta con una lona de color."
+      },
+      "images": [
+        "/metas/nigeria/01.jpg",
+        "/metas/nigeria/02.jpg"
+      ],
+      "title": {
+        "en": "Visible pickup car",
+        "es": "Camioneta visible"
+      }
+    },
+    {
+      "body": {
+        "en": "A police car, most commonly white or black, can almost always be seen following the Street View car. The follow cars may differ slightly from the ones shown in the image.",
+        "es": "Casi siempre se ve un coche de policía, normalmente blanco o negro, siguiendo al coche de Street View. Los coches de escolta pueden llevar una barra de luces azul y roja en el techo, o una placa con el texto POLICE. Encontrarás estos coches de escolta en muchas otras partes de África, así que no son exclusivos de Nigeria."
+      },
+      "images": [
+        "/metas/nigeria/03.jpg"
+      ],
+      "title": {
+        "en": "Police follow car",
+        "es": "Coche de policía escolta"
+      }
+    },
+    {
+      "body": {
+        "en": "Nigeria uses short licence plates that appear somewhat green through the blur.",
+        "es": "Nigeria usa matrículas cortas que, a través del desenfoque, parecen algo verdosas."
+      },
+      "images": [
+        "/metas/nigeria/04.jpg"
+      ],
+      "title": {
+        "en": "Short greenish plates",
+        "es": "Matrículas cortas verdosas"
+      }
+    },
+    {
+      "body": {
+        "en": "Most Nigerian poles are made of concrete, have indents with a few horizontal supports, and are similar to the ones used in Brazil, but do not have holes through them.",
+        "es": "La mayoría de los postes de Nigeria son de hormigón, tienen muescas con algunos soportes horizontales, y son parecidos a los que se usan en Benín, Camerún y Costa de Marfil."
+      },
+      "images": [
+        "/metas/nigeria/05.jpg"
+      ],
+      "title": {
+        "en": "Concrete poles with indents",
+        "es": "Postes de hormigón con muescas"
+      }
+    },
+    {
+      "body": {
+        "en": "Roads are not always well-maintained in Nigeria, so roads without roadlines or faded roads are common. Potholes, cracked roads and unpaved roads are also relatively common.",
+        "es": "Las carreteras en Nigeria no siempre están bien conservadas, así que son comunes las carreteras sin líneas o con líneas desvaídas. También son comunes los baches, las grietas y los propios parches de asfalto."
+      },
+      "images": [
+        "/metas/nigeria/06.jpg"
+      ],
+      "title": {
+        "en": "Poorly maintained roads",
+        "es": "Carreteras mal conservadas"
+      }
+    }
+  ],
+  "name": {
+    "en": "Nigeria",
+    "es": "Nigeria"
+  },
+  "slug": "nigeria",
+  "source": "https://www.plonkit.net/nigeria"
+}

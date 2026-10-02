@@ -1,0 +1,29 @@
+const modules = import.meta.glob("./*/*.json", { eager: true });
+
+const all = Object.values(modules).map((m) => m.default ?? m);
+
+/** Every country, all continents, sorted by English name. */
+export const allCountries = all.sort((a, b) => a.name.en.localeCompare(b.name.en));
+
+/** Continents that ship with data, in display order (editado desde el admin). */
+import registry from "./continents.json";
+
+export const CONTINENTS = registry;
+
+export const CONTINENT_IDS = CONTINENTS.map((c) => c.id);
+
+export function countriesOf(continent) {
+	return allCountries.filter((c) => c.continent === continent);
+}
+
+export function continentMeta(id) {
+	return CONTINENTS.find((c) => c.id === id);
+}
+
+export function getCountry(slug) {
+	return allCountries.find((c) => c.slug === slug);
+}
+
+export function isoToFlag(iso) {
+	return String.fromCodePoint(...[...iso.toUpperCase()].map((c) => 127397 + c.charCodeAt(0)));
+}

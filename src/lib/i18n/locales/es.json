@@ -1,0 +1,63 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "africa": "África",
+    "drill": "Práctica",
+    "language": "Language",
+    "southamerica": "Sudamérica"
+  },
+  "home": {
+    "title": "Identifica el país, no la región.",
+    "subtitle": "Cada guía se basa en metas reales de GeoGuessr: líneas amarillas, matrículas, topónimos, postes de pájaros y postes eléctricos que solo existen en un país.",
+    "africa": "África",
+    "africaDesc": "18 países · MVP",
+    "comingSoon": "Pronto",
+    "start": "Empezar a aprender",
+    "drillCta": "Modo práctica",
+    "globeTitle": "Explora el globo",
+    "globeHint": "Arrastra para girar. Pulsa un país resaltado para abrir su guía.",
+    "globeSoon": "aún no está en el MVP",
+    "southAmerica": "Sudamérica",
+    "southAmericaDesc": "11 países · MVP",
+    "startSA": "Empezar a aprender",
+    "drillCtaSA": "Modo práctica"
+  },
+  "country": {
+    "metas": "Metas de identificación",
+    "facts": "Datos rápidos",
+    "source": "Fuente",
+    "viewLocation": "Ver en el mapamundi",
+    "locateTitle": "Ubicación",
+    "close": "Cerrar",
+    "gallery": "Fotos de referencia",
+    "galleryOpen": "Abrir foto",
+    "galleryPrev": "Foto anterior",
+    "galleryNext": "Foto siguiente"
+  },
+  "drill": {
+    "title": "Práctica de Sudamérica",
+    "question": "¿De qué país es esta meta?",
+    "correct": "¡Correcto!",
+    "wrong": "Casi — era",
+    "next": "Siguiente",
+    "score": "Puntos",
+    "restart": "Reiniciar",
+    "pickHint": "Teclas 1–4 para responder · Enter o Espacio para la siguiente",
+    "streak": "Racha",
+    "remaining": "Metas restantes",
+    "correctAnswer": "Respuesta correcta",
+    "metaLabel": "Meta",
+    "progress": "Progreso",
+    "titleSA": "Práctica de Sudamérica",
+    "titleAll": "Práctica general"
+  },
+  "continent": {
+    "countries": "países",
+    "pick": "Elige un país y aprende sus metas de identificación.",
+    "drill": "Empezar práctica"
+  },
+  "footer": {
+    "data": "Datos de identificación adaptados de",
+    "imagery": "Imágenes de Street View © Google"
+  }
+}

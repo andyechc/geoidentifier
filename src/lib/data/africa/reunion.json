@@ -1,0 +1,75 @@
+{
+  "continent": "africa",
+  "facts": {
+    "domain": ".re",
+    "drive": {
+      "en": "Right",
+      "es": "Derecha"
+    },
+    "language": {
+      "en": "French",
+      "es": "Francés"
+    },
+    "prefix": "+262"
+  },
+  "images": [
+    "/metas/reunion/01.jpg",
+    "/metas/reunion/02.jpg",
+    "/metas/reunion/03.jpg"
+  ],
+  "iso": "RE",
+  "languageMeta": {
+    "sample": "Saint-Denis",
+    "tip": {
+      "en": "A French department: signs identical to France — check tropical vegetation.",
+      "es": "Departamento francés: señales idénticas a Francia, fíjate en la vegetación tropical."
+    }
+  },
+  "metas": [
+    {
+      "body": {
+        "en": "Réunion, officially the Department of Réunion, is an overseas department and region of France, east of Madagascar in the Indian Ocean. As such, for country streaks purposes, it is counted as France.",
+        "es": "Reunión, oficialmente el Departamento de Reunión, es un departamento y región de ultramar de Francia, al este de Madagascar en el océano Índico. Por ello la cobertura de Reunión se parece mucho a la de Francia."
+      },
+      "images": [
+        "/metas/reunion/01.jpg"
+      ],
+      "title": {
+        "en": "French overseas department",
+        "es": "Departamento francés de ultramar"
+      }
+    },
+    {
+      "body": {
+        "en": "Réunion has a Street View car with visible side mirrors, a roof rack, and black tape at the end of the rear right bar. NOTE: Make sure not to get this confused with the Ghana car, which has tape on the front right bar.",
+        "es": "Reunión tiene un coche de Street View con espejos laterales visibles, un portaequipajes y cinta negra al final de la barra trasera derecha. NOTA: Mauricio y Seychelles tienen este mismo coche, así que puedes confundir Reunión con ellos."
+      },
+      "images": [
+        "/metas/reunion/02.jpg"
+      ],
+      "title": {
+        "en": "Car with tape and roof rack",
+        "es": "Coche con cinta y portaequipajes"
+      }
+    },
+    {
+      "body": {
+        "en": "Being a French Department, you will see French infrastructure, such as signs, bollards and poles.",
+        "es": "Al ser un departamento francés, verás infraestructura francesa, como señales, bolardos y postes."
+      },
+      "images": [
+        "/metas/reunion/03.jpg"
+      ],
+      "title": {
+        "en": "French infrastructure",
+        "es": "Infraestructura francesa"
+      }
+    }
+  ],
+  "name": {
+    "en": "Réunion",
+    "es": "Reunión"
+  },
+  "slug": "reunion",
+  "source": "https://www.plonkit.net/reunion"
+}

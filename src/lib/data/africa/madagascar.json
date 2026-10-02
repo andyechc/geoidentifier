@@ -1,0 +1,75 @@
+{
+  "continent": "africa",
+  "facts": {
+    "domain": ".mg",
+    "drive": {
+      "en": "Right",
+      "es": "Derecha"
+    },
+    "language": {
+      "en": "French and Malagasy",
+      "es": "Francés y malgache"
+    },
+    "prefix": "+261"
+  },
+  "images": [
+    "/metas/madagascar/01.jpg",
+    "/metas/madagascar/02.jpg",
+    "/metas/madagascar/03.jpg"
+  ],
+  "iso": "MG",
+  "languageMeta": {
+    "sample": "Tongasoa",
+    "tip": {
+      "en": "Malagasy looks Austronesian with French flavor; French also on signs.",
+      "es": "El malgache suena austronesio con toque francés; también hay francés en señales."
+    }
+  },
+  "metas": [
+    {
+      "body": {
+        "en": "All coverage in Madagascar was taken with a Generation 3 trekker camera. NOTE: While there are some unusual vehicles seen on some of the coverage, the camera and blur is still the same.",
+        "es": "Todo el volumen de Madagascar se hizo con una cámara trekker de generación 3. NOTA: aunque hay algunos vehículos inusuales, Madagascar tiene uno de los trekkers más antiguos de todo el mapa."
+      },
+      "images": [
+        "/metas/madagascar/01.jpg"
+      ],
+      "title": {
+        "en": "Generation 3 trekker only",
+        "es": "Solo trekker de generación 3"
+      }
+    },
+    {
+      "body": {
+        "en": "Most coverage features one or several people walking alongside the trekker. These people can be used both to recognise the country and to regionguess it.",
+        "es": "La mayor parte de la cobertura muestra a una o varias personas caminando junto al trekker. Estas personas sirven para reconocer el país y para orientarte, porque todas las coberturas de Madagascar tienen al menos una persona caminando."
+      },
+      "images": [
+        "/metas/madagascar/02.jpg"
+      ],
+      "title": {
+        "en": "People walking alongside",
+        "es": "Gente caminando al lado"
+      }
+    },
+    {
+      "body": {
+        "en": "Madagascar has two official languages: French and Malagasy, which is written with the Latin alphabet and contains many long, multiple-syllable words. NOTE: English can still be found on some commercial signs.",
+        "es": "Madagascar tiene dos idiomas oficiales: el francés y el malgache. El malgache se escribe con el alfabeto latino y contiene muchas palabras de origen árabe. La mayor parte de la señalización está en francés."
+      },
+      "images": [
+        "/metas/madagascar/03.jpg"
+      ],
+      "title": {
+        "en": "French and Malagasy script",
+        "es": "Escritura francesa y malgache"
+      }
+    }
+  ],
+  "name": {
+    "en": "Madagascar",
+    "es": "Madagascar"
+  },
+  "slug": "madagascar",
+  "source": "https://www.plonkit.net/madagascar"
+}

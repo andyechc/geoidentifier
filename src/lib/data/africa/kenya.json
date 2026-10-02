@@ -1,0 +1,161 @@
+{
+  "continent": "africa",
+  "facts": {
+    "domain": ".ke",
+    "drive": {
+      "en": "Left",
+      "es": "Izquierda"
+    },
+    "language": {
+      "en": "English",
+      "es": "Inglés"
+    },
+    "prefix": "+254"
+  },
+  "images": [
+    "/metas/kenya/01.jpg",
+    "/metas/kenya/02.jpg",
+    "/metas/kenya/03.jpg",
+    "/metas/kenya/04.jpg",
+    "/metas/kenya/05.jpg",
+    "/metas/kenya/06.jpg",
+    "/metas/kenya/07.jpg",
+    "/metas/kenya/08.jpg",
+    "/metas/kenya/09.jpg",
+    "/metas/kenya/10.jpg",
+    "/metas/kenya/11.jpg",
+    "/metas/kenya/12.jpg",
+    "/metas/kenya/13.jpg",
+    "/metas/kenya/14.jpg",
+    "/metas/kenya/15.jpg",
+    "/metas/kenya/16.jpg"
+  ],
+  "iso": "KE",
+  "languageMeta": {
+    "sample": "Karibu",
+    "tip": {
+      "en": "Swahili 'karibu' (welcome) and 'matatu' minibuses point to Kenya.",
+      "es": "El suajili 'karibu' (bienvenido) y los minibuses 'matatu' apuntan a Kenia."
+    }
+  },
+  "metas": [
+    {
+      "body": {
+        "en": "Kenya is mostly covered in Generation 4 pickup truck coverage. Most trucks are blurred out, but sometimes you can see parts of the car, which can be many different colors, or a snorkel. NOTE: It is the only country other than Mongolia with a snorkel in Generation 4.",
+        "es": "Kenia está cubierta sobre todo con cobertura de generación 4 con camioneta. La mayoría de las camionetas aparecen desenfocadas, pero a veces se ven partes del coche, que pueden ser de muchos colores, o un esnórquel. NOTA: es el único país aparte de Mongolia con esnórquel en generación 4."
+      },
+      "images": [
+        "/metas/kenya/01.jpg",
+        "/metas/kenya/02.jpg",
+        "/metas/kenya/03.jpg"
+      ],
+      "title": {
+        "en": "Snorkel pickup truck",
+        "es": "Camioneta con esnórquel"
+      }
+    },
+    {
+      "body": {
+        "en": "Outer lines in Kenya will always be solid white, while inner lines will be yellow and either solid or dashed.",
+        "es": "En Kenia las líneas exteriores siempre son blancas continuas, mientras que las interiores son amarillas y pueden ser continuas o discontinuas."
+      },
+      "images": [
+        "/metas/kenya/04.jpg",
+        "/metas/kenya/05.jpg",
+        "/metas/kenya/06.jpg"
+      ],
+      "title": {
+        "en": "White outer, yellow inner lines",
+        "es": "Líneas exteriores blancas e interiores amarillas"
+      }
+    },
+    {
+      "body": {
+        "en": "Kenyan poles are either made of concrete or wood, and have an L shaped crossbar. NOTE: A similar pole can be found in Ghana.",
+        "es": "Los postes de Kenia son de hormigón o de madera y tienen un travesaño en forma de L. NOTA: un poste parecido se puede encontrar en Ghana."
+      },
+      "images": [
+        "/metas/kenya/07.jpg"
+      ],
+      "title": {
+        "en": "L-shaped pole crossbar",
+        "es": "Postes con travesaño en L"
+      }
+    },
+    {
+      "body": {
+        "en": "On a lot of the coverage you will see a grey Toyota SUV following the Street View car.",
+        "es": "En buena parte de la cobertura verás un todoterreno Toyota gris siguiendo al coche de Street View."
+      },
+      "images": [
+        "/metas/kenya/08.jpg",
+        "/metas/kenya/09.jpg",
+        "/metas/kenya/10.jpg"
+      ],
+      "title": {
+        "en": "Grey Toyota SUV follower",
+        "es": "Todoterreno Toyota gris de escolta"
+      }
+    },
+    {
+      "body": {
+        "en": "Kenya uses long white front licence plates. The rear counterpart is square and yellow.",
+        "es": "Kenia usa matrículas delanteras largas y blancas. La trasera es cuadrada y amarilla."
+      },
+      "images": [
+        "/metas/kenya/11.jpg",
+        "/metas/kenya/12.jpg"
+      ],
+      "title": {
+        "en": "White front, yellow rear plates",
+        "es": "Matrículas blancas delante y amarillas detrás"
+      }
+    },
+    {
+      "body": {
+        "en": "This mobile network brand named Safaricom is unique to Kenya, and almost every city has one location.",
+        "es": "Esta marca de red móvil llamada Safaricom es única de Kenia, y casi todas las ciudades tienen al menos una tienda suya."
+      },
+      "images": [
+        "/metas/kenya/13.jpg",
+        "/metas/kenya/14.jpg"
+      ],
+      "title": {
+        "en": "Safaricom shops",
+        "es": "Tiendas de Safaricom"
+      }
+    },
+    {
+      "body": {
+        "en": "Directional signs are green with a white border and text. They often display road numbers in white or yellow.",
+        "es": "Las señales de dirección son verdes con borde y texto blancos. A menudo muestran números de carretera en blanco o amarillo."
+      },
+      "images": [
+        "/metas/kenya/15.jpg"
+      ],
+      "title": {
+        "en": "Green directional signs",
+        "es": "Señales verdes de dirección"
+      }
+    },
+    {
+      "body": {
+        "en": "These repurposed vans can be found all over Kenya. NOTE: While these vans can also be found in Uganda, the design of the vehicle wrap is clearly different.",
+        "es": "Estas furgonetas reconvertidas se pueden encontrar por todo Kenia. NOTA: aunque estas furgonetas también se ven en Uganda, el diseño de la calcomanía es claramente distinto."
+      },
+      "images": [
+        "/metas/kenya/16.jpg"
+      ],
+      "title": {
+        "en": "Repurposed vans",
+        "es": "Furgonetas reconvertidas"
+      }
+    }
+  ],
+  "name": {
+    "en": "Kenya",
+    "es": "Kenia"
+  },
+  "slug": "kenya",
+  "source": "https://www.plonkit.net/kenya"
+}

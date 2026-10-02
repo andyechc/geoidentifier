@@ -1,0 +1,156 @@
+{
+  "continent": "africa",
+  "facts": {
+    "domain": ".ls",
+    "drive": {
+      "en": "Left",
+      "es": "Izquierda"
+    },
+    "language": {
+      "en": "Sesotho, English",
+      "es": "Sesoto, inglés"
+    },
+    "prefix": "+266"
+  },
+  "images": [
+    "/metas/lesotho/01.jpg",
+    "/metas/lesotho/02.jpg",
+    "/metas/lesotho/03.jpg",
+    "/metas/lesotho/04.jpg",
+    "/metas/lesotho/05.jpg",
+    "/metas/lesotho/06.jpg",
+    "/metas/lesotho/07.jpg",
+    "/metas/lesotho/08.jpg"
+  ],
+  "iso": "LS",
+  "languageMeta": {
+    "sample": "Lumela",
+    "tip": {
+      "en": "Sesotho greeting. Long Sesotho words with many vowels are a strong hint.",
+      "es": "Saludo en sesoto. Palabras largas con muchas vocales: pista fuerte."
+    }
+  },
+  "metas": [
+    {
+      "body": {
+        "en": "All coverage in Lesotho is Generation 3. In almost all locations, the back of a white Google car without an antenna is visible. NOTE: Among southern African countries, Eswatini, Botswana and South Africa also have the same white car in Generation 3 coverage.",
+        "es": "Todo el volumen de Lesoto es de generación 3. En casi todos los lugares se ve la parte trasera de un coche de Google blanco y sin antena."
+      },
+      "images": [
+        "/metas/lesotho/01.jpg"
+      ],
+      "title": {
+        "en": "Generation 3 white car",
+        "es": "Coche blanco de generación 3"
+      }
+    },
+    {
+      "body": {
+        "en": "While Botswana and Eswatini only have Generation 3 coverage, South Africa also has Generation 2 and Generation 4 coverage. In addition, Generation 3 coverage is somewhat rare in South Africa.",
+        "es": "Mientras que Botsuana y Esuatini solo tienen cobertura de generación 3, Sudáfrica también tiene cobertura de generación 2 y de generación 4. Lesoto es el único país del sur con una mezcla de las tres."
+      },
+      "images": [],
+      "title": {
+        "en": "Only Lesotho has Gen 2 and 4",
+        "es": "Solo Lesoto tiene gen 2 y 4"
+      }
+    },
+    {
+      "body": {
+        "en": "One of the best ways to identify the country are the characteristic ‘Lesotho mountains'. They are bare and treeless, often have tabletop-like shapes, and recognizable horizontal rocky ridgelines. Depending on where you are in the country, the mountains can vary a bit in appearance. Especially inland areas towards the southeast, where they appear more like rolling green hills rather than isolated tabletop mountains. However, you will still often be able to see the horizontal rocky ridges.",
+        "es": "Una de las mejores formas de identificar el país son las características montañas de Lesoto: están peladas y sin árboles, con el aspecto redondeado que les da el terreno y que se las ve desde lejos."
+      },
+      "images": [
+        "/metas/lesotho/02.jpg"
+      ],
+      "title": {
+        "en": "Bare Lesotho mountains",
+        "es": "Montañas peladas de Lesoto"
+      }
+    },
+    {
+      "body": {
+        "en": "Lesotho uses long white licence plates with blue text. If partially unblurred, you may see the Mokorotlo hat symbol on the left.",
+        "es": "Lesoto usa matrículas largas y blancas con texto azul. Si se desenfocan parcialmente, puede verse el símbolo del sombrero mokorotlo en la parte superior."
+      },
+      "images": [
+        "/metas/lesotho/03.jpg"
+      ],
+      "title": {
+        "en": "Long white plates, blue text",
+        "es": "Matrículas largas blancas con texto azul"
+      }
+    },
+    {
+      "body": {
+        "en": "Lesotho uses yellow outer lines and white inner lines. NOTE: These are also found in the other four southern African countries.",
+        "es": "Lesoto usa líneas exteriores amarillas y líneas interiores blancas. NOTA: estas también se encuentran en los otros cuatro países del África austral."
+      },
+      "images": [
+        "/metas/lesotho/04.jpg"
+      ],
+      "title": {
+        "en": "Yellow outer, white inner lines",
+        "es": "Líneas exteriores amarillas, interiores blancas"
+      }
+    },
+    {
+      "body": {
+        "en": "Some roads have unique triple middle lines, consisting of two solid lines with a dashed line in between. NOTE: These are also found in the other four southern African countries, but nowhere else in the world.",
+        "es": "Algunas carreteras tienen líneas centrales triples únicas, formadas por dos líneas continuas con una discontinua entre ellas. NOTA: estas líneas también se encuentran en otros países del sur, pero allí suele haber una línea amarilla en el medio."
+      },
+      "images": [
+        "/metas/lesotho/05.jpg"
+      ],
+      "title": {
+        "en": "Triple centre lines",
+        "es": "Líneas centrales triples"
+      }
+    },
+    {
+      "body": {
+        "en": "In rural areas, you will often see traditional round huts with thatched roofs. NOTE: These are less common in the other four southern African countries, but can still be seen.",
+        "es": "En las zonas rurales verás a menudo chozas tradicionales redondas con techo de paja. NOTA: son menos comunes en los otros países del sur."
+      },
+      "images": [
+        "/metas/lesotho/06.jpg"
+      ],
+      "title": {
+        "en": "Round huts with thatched roofs",
+        "es": "Chozas redondas con techo de paja"
+      }
+    },
+    {
+      "body": {
+        "en": "These agave plants are common throughout the countryside and often a good clue for the country.",
+        "es": "Estas plantas de agave son comunes por todo el campo y suelen ser una buena pista del país."
+      },
+      "images": [
+        "/metas/lesotho/07.jpg"
+      ],
+      "title": {
+        "en": "Agave plants",
+        "es": "Plantas de agave"
+      }
+    },
+    {
+      "body": {
+        "en": "Grasslands in Lesotho primarily consist of short grass. NOTE: This is mostly useful to distinguish Lesotho from Eswatini, which famously has a lot of tall grass.",
+        "es": "Las praderas de Lesoto se componen principalmente de hierba corta. NOTA: esto es sobre todo útil para distinguir Lesoto de Esuatini, donde la hierba es alta y dorada."
+      },
+      "images": [
+        "/metas/lesotho/08.jpg"
+      ],
+      "title": {
+        "en": "Short grass grasslands",
+        "es": "Praderas de hierba corta"
+      }
+    }
+  ],
+  "name": {
+    "en": "Lesotho",
+    "es": "Lesoto"
+  },
+  "slug": "lesotho",
+  "source": "https://www.plonkit.net/lesotho"
+}

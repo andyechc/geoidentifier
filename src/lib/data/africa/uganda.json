@@ -1,0 +1,75 @@
+{
+  "continent": "africa",
+  "facts": {
+    "domain": ".ug",
+    "drive": {
+      "en": "Left",
+      "es": "Izquierda"
+    },
+    "language": {
+      "en": "English",
+      "es": "Inglés"
+    },
+    "prefix": "+256"
+  },
+  "images": [
+    "/metas/uganda/01.jpg",
+    "/metas/uganda/02.jpg",
+    "/metas/uganda/03.jpg"
+  ],
+  "iso": "UG",
+  "languageMeta": {
+    "sample": "Kampala",
+    "tip": {
+      "en": "English signs; white-front plates and left-side driving are stronger clues.",
+      "es": "Señales en inglés; las matrículas blancas delante y conducir por la izquierda son mejores pistas."
+    }
+  },
+  "metas": [
+    {
+      "body": {
+        "en": "Uganda has very limited coverage, with most of the coverage in the capital city of Kampala and the nearby city of Entebbe. The rest of the coverage is located in the various national parks that will be covered below. Note: Because the coverage in Uganda is limited, this guide is structured differently than most of the other country guides, with two separate sections for Kampala and the National Parks. These sections also include most of the tips needed to identify the country.",
+        "es": "Uganda tiene una cobertura muy limitada, con la mayor parte en la capital, Kampala, y en la ciudad cercana de Entebbe."
+      },
+      "images": [
+        "/metas/uganda/01.jpg"
+      ],
+      "title": {
+        "en": "Very limited coverage",
+        "es": "Cobertura muy escasa"
+      }
+    },
+    {
+      "body": {
+        "en": "Uganda drives on the left hand side of the road. NOTE: African countries are split between right and left hand drive. For a full overview of countries and their driving side, see here.",
+        "es": "Uganda conduce por el lado izquierdo de la carretera. NOTA: los países africanos están divididos entre circulación por la derecha y por la izquierda. Para más información, mira este infographic."
+      },
+      "images": [
+        "/metas/uganda/02.jpg"
+      ],
+      "title": {
+        "en": "Left-hand traffic",
+        "es": "Conducción por la izquierda"
+      }
+    },
+    {
+      "body": {
+        "en": "Uganda uses white front plates with yellow rear plates. These plates can be long or tall.",
+        "es": "Uganda usa matrículas delanteras blancas y traseras amarillas. Estas matrículas pueden ser largas o altas."
+      },
+      "images": [
+        "/metas/uganda/03.jpg"
+      ],
+      "title": {
+        "en": "White front, yellow rear plates",
+        "es": "Matrículas blancas delante y amarillas detrás"
+      }
+    }
+  ],
+  "name": {
+    "en": "Uganda",
+    "es": "Uganda"
+  },
+  "slug": "uganda",
+  "source": "https://www.plonkit.net/uganda"
+}

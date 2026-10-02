@@ -1,0 +1,165 @@
+{
+  "continent": "south-america",
+  "facts": {
+    "domain": ".br",
+    "drive": {
+      "en": "Right",
+      "es": "Derecha"
+    },
+    "language": {
+      "en": "Portuguese",
+      "es": "Portugués"
+    },
+    "prefix": "+55"
+  },
+  "images": [
+    "/metas/brazil/01.jpg",
+    "/metas/brazil/02.jpg",
+    "/metas/brazil/03.jpg",
+    "/metas/brazil/04.jpg",
+    "/metas/brazil/05.jpg",
+    "/metas/brazil/06.jpg",
+    "/metas/brazil/07.jpg",
+    "/metas/brazil/08.jpg",
+    "/metas/brazil/09.jpg",
+    "/metas/brazil/10.jpg"
+  ],
+  "iso": "BR",
+  "metas": [
+    {
+      "body": {
+        "en": "Licence plates in Brazil were white until 2018. Now, a white plate with a blue stripe on top is used. Red is still used for commercial vehicles.",
+        "es": "Las matrículas de Brasil fueron blancas hasta 2018. Ahora se usa una placa blanca con una franja azul arriba. El rojo sigue usándose para los vehículos comerciales."
+      },
+      "images": [
+        "/metas/brazil/01.jpg"
+      ],
+      "title": {
+        "en": "White plates with blue stripe",
+        "es": "Matrículas blancas con franja azul"
+      }
+    },
+    {
+      "body": {
+        "en": "Portuguese is spoken in Brazil, as opposed to most Latin American countries which speak Spanish. Compared to Spanish, some essential differences are that Portuguese uses -ão rather than -ón, -ch/-lh instead of -ll and -nh instead of -ñ.",
+        "es": "En Brasil se habla portugués, al contrario que en la mayoría de países latinoamericanos donde se habla español. Frente al español, hay diferencias esenciales: el portugués usa -ão en lugar de -ón, -ch/-lh en lugar de -ll y -nh en lugar de -ñ."
+      },
+      "images": [
+        "/metas/brazil/02.jpg"
+      ],
+      "title": {
+        "en": "Portuguese, not Spanish",
+        "es": "Portugués, no español"
+      }
+    },
+    {
+      "body": {
+        "en": "Soil in most of Brazil is distinctly red. It can range from a light pink around Mato Grosso to a deep maroon near the Paraná river. The soil is usually not red in the North East, or in the majority of Rio Grande do Sul, however. NOTE: Parts of Paraguay and the nearby Argentine province of Misiones have deep red soil, as well a handful of other regions around the world.",
+        "es": "El suelo de la mayor parte de Brasil es claramente rojo. Puede ir de un rosa claro alrededor de Mato Grosso hasta un granate profundo cerca del río Paraná. Sin embargo, el suelo no suele ser rojo en el Nordeste ni en la mayor parte de Rio Grande do Sul. NOTA: partes de Paraguay y de la provincia argentina de Misiones también tienen suelo rojo profundo, igual que algunas otras regiones del mundo."
+      },
+      "images": [
+        "/metas/brazil/03.jpg"
+      ],
+      "title": {
+        "en": "Red soil",
+        "es": "Suelo rojo"
+      }
+    },
+    {
+      "body": {
+        "en": "The most common poles in Brazil have some resemblance to a ladder in the bottom portion. They are rectangular, have long segments running through the bottom, and small holes near the top. NOTE: Paraguay uses similar poles.",
+        "es": "Los postes más comunes de Brasil tienen algo de parecido con una escalera en la parte baja. Son rectangulares, tienen tramos largos que recorren la base y pequeños agujeros cerca de la parte alta. NOTA: Paraguay usa postes parecidos."
+      },
+      "images": [
+        "/metas/brazil/04.jpg"
+      ],
+      "title": {
+        "en": "Ladder-like poles",
+        "es": "Postes con forma de escalera"
+      }
+    },
+    {
+      "body": {
+        "en": "Most Brazilian road signs have the backs painted black. NOTE: This is also common in Paraguay.",
+        "es": "La mayoría de las señales de carretera de Brasil tienen el reverso pintado de negro. NOTA: esto también es común en Paraguay."
+      },
+      "images": [
+        "/metas/brazil/05.jpg"
+      ],
+      "title": {
+        "en": "Black sign backs",
+        "es": "Reverso negro de las señales"
+      }
+    },
+    {
+      "body": {
+        "en": "Blue road markers with the road number and kilometre can be seen on the sides of roads.",
+        "es": "En los lados de las carreteras se ven hitos azules con el número de carretera y el kilómetro."
+      },
+      "images": [
+        "/metas/brazil/06.jpg"
+      ],
+      "title": {
+        "en": "Blue road markers",
+        "es": "Hitos azules"
+      }
+    },
+    {
+      "body": {
+        "en": "Brazil uses yellow on black chevrons, as opposed to most of South America, which use black on yellow chevrons.",
+        "es": "Brasil usa galones amarillos sobre negro, al contrario que la mayor parte de Sudamérica, que usa negro sobre amarillo."
+      },
+      "images": [
+        "/metas/brazil/07.jpg",
+        "/metas/brazil/08.jpg"
+      ],
+      "title": {
+        "en": "Yellow on black chevrons",
+        "es": "Galones amarillos sobre negro"
+      }
+    },
+    {
+      "body": {
+        "en": "Roads in Brazil will usually feature double yellow middle lines, with white outer lines. Roads can occasionally have a single dashed yellow line.",
+        "es": "Las carreteras de Brasil suelen tener líneas centrales dobles amarillas con líneas exteriores blancas. A veces las exteriores también son amarillas."
+      },
+      "images": [],
+      "title": {
+        "en": "Double yellow centre lines",
+        "es": "Líneas centrales dobles amarillas"
+      }
+    },
+    {
+      "body": {
+        "en": "It is fairly common to see transparent satellite dishes, which within Latin America is generally unique to Brazil.",
+        "es": "Es bastante habitual ver antenas parabólicas transparentes, algo que dentro de Latinoamérica es único de Brasil."
+      },
+      "images": [
+        "/metas/brazil/09.jpg"
+      ],
+      "title": {
+        "en": "Transparent satellite dishes",
+        "es": "Antenas parabólicas transparentes"
+      }
+    },
+    {
+      "body": {
+        "en": "In Generation 3 coverage, you can see two different cars:",
+        "es": "En la cobertura de generación 3 de Brasil puedes ver dos coches distintos."
+      },
+      "images": [
+        "/metas/brazil/10.jpg"
+      ],
+      "title": {
+        "en": "Two Gen 3 cars",
+        "es": "Dos coches de generación 3"
+      }
+    }
+  ],
+  "name": {
+    "en": "Brazil",
+    "es": "Brasil"
+  },
+  "slug": "brazil",
+  "source": "https://www.plonkit.net/brazil"
+}
