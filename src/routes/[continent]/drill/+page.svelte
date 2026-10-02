@@ -8,6 +8,7 @@
 		dataRev,
 		continentLabel
 	} from "$lib/data/live.js";
+	import { base } from "$app/paths";
 	import Drill from "$lib/components/Drill.svelte";
 
 	const continent = $derived($page.params.continent);
@@ -22,4 +23,4 @@
 	);
 </script>
 
-<Drill {countries} {titleKey} backHref="/{continent}" {backLabel} />
+<Drill {countries} {titleKey} backHref="{base}/{continent}" {backLabel} />

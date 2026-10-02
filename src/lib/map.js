@@ -1,3 +1,4 @@
+import { base } from "$app/paths";
 import { feature } from "topojson-client";
 
 let cache50 = null;
@@ -10,12 +11,12 @@ async function load(url) {
 }
 
 export async function getCountries50() {
-	if (!cache50) cache50 = await load("/json/topojson/countries-50m.json");
+	if (!cache50) cache50 = await load(`${base}/json/topojson/countries-50m.json`);
 	return cache50;
 }
 
 export async function getCountries110() {
-	if (!cache110) cache110 = await load("/json/topojson/countries-110m.json");
+	if (!cache110) cache110 = await load(`${base}/json/topojson/countries-110m.json`);
 	return cache110;
 }
 

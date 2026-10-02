@@ -9,6 +9,7 @@
 		dataRev,
 		continentLabel
 	} from "$lib/data/live.js";
+	import { base } from "$app/paths";
 	import DriveBadge from "$lib/components/DriveBadge.svelte";
 	import ContinentShape from "$lib/components/ContinentShape.svelte";
 
@@ -25,10 +26,10 @@
 
 {#if !meta}
 	<p class="text-xl">404 — ¿continente? / continent?</p>
-	<a href="/" class="btn btn-primary mt-4">{$_("nav.home")}</a>
+	<a href="{base}/" class="btn btn-primary mt-4">{$_("nav.home")}</a>
 {:else}
 	<nav class="mb-4 flex flex-wrap items-center gap-2" aria-label="Breadcrumb">
-		<a href="/" class="btn btn-ghost btn-sm">
+		<a href="{base}/" class="btn btn-ghost btn-sm">
 			<svg class="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
 				<path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z" />
 				<path d="M9 22V12h6v10" />
@@ -48,13 +49,13 @@
 				{$_("continent.pick")} · {cs.length} {$_("continent.countries")}
 			</p>
 		</div>
-		<a href="/{$page.params.continent}/drill" class="btn btn-primary">{$_("continent.drill")}</a>
+		<a href="{base}/{$page.params.continent}/drill" class="btn btn-primary">{$_("continent.drill")}</a>
 	</div>
 
 	<div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
 		{#each cs as c}
 			<a
-				href="/{$page.params.continent}/{c.slug}"
+				href="{base}/{$page.params.continent}/{c.slug}"
 				class="card border border-base-300 bg-base-200 p-5 transition hover:-translate-y-1 hover:border-primary/50"
 			>
 				<div class="flex items-center gap-3">

@@ -6,6 +6,7 @@
 	import ThemeToggle from "$lib/components/ThemeToggle.svelte";
 	import LanguageToggle from "$lib/components/LanguageToggle.svelte";
 	import Cursor from "$lib/components/Cursor.svelte";
+	import { base } from "$app/paths";
 	import { page } from "$app/stores";
 	import { visibleContinents, dataRev, continentLabel, seedServerState } from "$lib/data/live.js";
 
@@ -31,13 +32,13 @@
 <div class="min-h-screen bg-base-100 text-base-content">
 	<header class="bg-base-950/80">
 		<nav class="mx-auto flex max-w-6xl items-center justify-between px-4 py-3">
-			<a href="/" class="text-lg font-black tracking-tight">
+			<a href="{base}/" class="text-lg font-black tracking-tight">
 				Geo<span class="text-primary">Identifier</span>
 			</a>
 			<div class="flex items-center gap-4">
 				{#each CONTINENTS as c}
 					<a
-						href="/{c.id}"
+						href="{base}/{c.id}"
 						class="rounded px-1 text-sm font-semibold transition-colors duration-200 {active?.id ===
 						c.id
 							? 'text-primary'
@@ -48,7 +49,7 @@
 					</a>
 				{/each}
 				<a
-					href="/drill"
+					href="{base}/drill"
 					class="rounded px-1 text-sm font-semibold transition-colors duration-200 {onDrill
 						? 'text-primary'
 						: 'text-base-content/60 hover:text-base-content'}"

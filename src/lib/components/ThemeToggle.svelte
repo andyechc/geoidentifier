@@ -1,4 +1,5 @@
 <script>
+	import { base } from "$app/paths";
 	import { goto } from "$app/navigation";
 	import { theme, toggleTheme } from "$lib/stores/theme.js";
 
@@ -60,7 +61,7 @@
 			} catch {
 				/* ignore */
 			}
-			goto("/auth/admin");
+			goto(`${base}/auth/admin`);
 		}
 	}
 

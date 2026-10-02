@@ -2,6 +2,7 @@
 	import { _ } from "svelte-i18n";
 	import { locale } from "$lib/stores/locale.js";
 	import { goto } from "$app/navigation";
+	import { base } from "$app/paths";
 	import WorldGlobe from "$lib/components/WorldGlobe.svelte";
 	import ContinentShape from "$lib/components/ContinentShape.svelte";
 	import {
@@ -32,7 +33,7 @@
 
 	function goCountry(slug) {
 		const c = liveGetCountry(slug);
-		goto(c ? `/${c.continent}/${slug}` : "/");
+		goto(c ? `${base}/${c.continent}/${slug}` : `${base}/`);
 	}
 </script>
 
@@ -42,8 +43,8 @@
 	</h1>
 	<p class="hero-item mx-auto mt-4 max-w-2xl text-base-content/60">{$_("home.subtitle")}</p>
 	<div class="hero-item mt-8 flex flex-wrap justify-center gap-3">
-		<a href="/africa" class="btn btn-primary">{$_("home.start")}</a>
-		<a href="/drill" class="btn btn-neutral">{$_("home.drillCta")}</a>
+		<a href="{base}/africa" class="btn btn-primary">{$_("home.start")}</a>
+		<a href="{base}/drill" class="btn btn-neutral">{$_("home.drillCta")}</a>
 	</div>
 </section>
 
@@ -58,7 +59,7 @@
 	{#each continents as c}
 		{#if c.active}
 			<a
-				href="/{c.slug}"
+				href="{base}/{c.slug}"
 				class="card border border-primary/40 bg-base-200 p-6 transition hover:-translate-y-1 hover:border-primary"
 			>
 				<div class="flex items-center gap-4">

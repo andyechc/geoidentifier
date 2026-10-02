@@ -1,6 +1,15 @@
+import { base } from "$app/paths";
+
 const modules = import.meta.glob("./*/*.json", { eager: true });
 
-const all = Object.values(modules).map((m) => m.default ?? m);
+const px = (u) => (typeof u === "string" && u.startsWith("/") ? `${base}${u}` : u);
+const withBase = (c) => ({
+	...c,
+	images: (c.images ?? []).map(px),
+	metas: (c.metas ?? []).map((m) => ({ ...m, images: (m.images ?? []).map(px) }))
+});
+
+const all = Object.values(modules).map((m) => withBase(m.default ?? m));
 
 /** Every country, all continents, sorted by English name. */
 export const allCountries = all.sort((a, b) => a.name.en.localeCompare(b.name.en));

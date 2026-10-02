@@ -30,6 +30,7 @@ jobs:
         env:
           ADAPTER: static
           BUILD_STATIC: "1"
+          PAGES_BASE: /geoidentifier
       - uses: actions/upload-pages-artifact@v3
         with:
           path: build
