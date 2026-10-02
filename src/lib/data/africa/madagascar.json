@@ -28,7 +28,7 @@
   "metas": [
     {
       "body": {
-        "en": "All coverage in Madagascar was taken with a Generation 3 trekker camera. NOTE: While there are some unusual vehicles seen on some of the coverage, the camera and blur is still the same.",
+        "en": "Madagascar is trekker-only, shot with a Generation 3 backpack camera. NOTE: odd vehicles pop up here and there, but the camera look and blur stay the same.",
         "es": "Todo el volumen de Madagascar se hizo con una cámara trekker de generación 3. NOTA: aunque hay algunos vehículos inusuales, Madagascar tiene uno de los trekkers más antiguos de todo el mapa."
       },
       "images": [
@@ -41,7 +41,7 @@
     },
     {
       "body": {
-        "en": "Most coverage features one or several people walking alongside the trekker. These people can be used both to recognise the country and to regionguess it.",
+        "en": "Expect people on foot next to the trekker in most panos. They help pin the country and orient you within it.",
         "es": "La mayor parte de la cobertura muestra a una o varias personas caminando junto al trekker. Estas personas sirven para reconocer el país y para orientarte, porque todas las coberturas de Madagascar tienen al menos una persona caminando."
       },
       "images": [
@@ -54,7 +54,7 @@
     },
     {
       "body": {
-        "en": "Madagascar has two official languages: French and Malagasy, which is written with the Latin alphabet and contains many long, multiple-syllable words. NOTE: English can still be found on some commercial signs.",
+        "en": "The two official languages are French and Malagasy. Malagasy uses Latin letters and runs to very long, multi-syllable words. NOTE: some shop signs are in English.",
         "es": "Madagascar tiene dos idiomas oficiales: el francés y el malgache. El malgache se escribe con el alfabeto latino y contiene muchas palabras de origen árabe. La mayor parte de la señalización está en francés."
       },
       "images": [

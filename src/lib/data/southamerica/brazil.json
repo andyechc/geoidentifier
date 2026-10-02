@@ -28,7 +28,7 @@
   "metas": [
     {
       "body": {
-        "en": "Licence plates in Brazil were white until 2018. Now, a white plate with a blue stripe on top is used. Red is still used for commercial vehicles.",
+        "en": "White plates until 2018, now white with a blue top band; commercials stay red.",
         "es": "Las matrículas de Brasil fueron blancas hasta 2018. Ahora se usa una placa blanca con una franja azul arriba. El rojo sigue usándose para los vehículos comerciales."
       },
       "images": [
@@ -41,7 +41,7 @@
     },
     {
       "body": {
-        "en": "Portuguese is spoken in Brazil, as opposed to most Latin American countries which speak Spanish. Compared to Spanish, some essential differences are that Portuguese uses -ão rather than -ón, -ch/-lh instead of -ll and -nh instead of -ñ.",
+        "en": "Portuguese, not Spanish: watch for -ão where Spanish writes -ón, -ch/-lh for -ll, and -nh for -ñ.",
         "es": "En Brasil se habla portugués, al contrario que en la mayoría de países latinoamericanos donde se habla español. Frente al español, hay diferencias esenciales: el portugués usa -ão en lugar de -ón, -ch/-lh en lugar de -ll y -nh en lugar de -ñ."
       },
       "images": [
@@ -54,7 +54,7 @@
     },
     {
       "body": {
-        "en": "Soil in most of Brazil is distinctly red. It can range from a light pink around Mato Grosso to a deep maroon near the Paraná river. The soil is usually not red in the North East, or in the majority of Rio Grande do Sul, however. NOTE: Parts of Paraguay and the nearby Argentine province of Misiones have deep red soil, as well a handful of other regions around the world.",
+        "en": "Red earth dominates, pale pink around Mato Grosso deepening to maroon by the Paraná, skipping the North East and most of Rio Grande do Sul. NOTE: deep red spills into Paraguay, Argentine Misiones and a few world regions.",
         "es": "El suelo de la mayor parte de Brasil es claramente rojo. Puede ir de un rosa claro alrededor de Mato Grosso hasta un granate profundo cerca del río Paraná. Sin embargo, el suelo no suele ser rojo en el Nordeste ni en la mayor parte de Rio Grande do Sul. NOTA: partes de Paraguay y de la provincia argentina de Misiones también tienen suelo rojo profundo, igual que algunas otras regiones del mundo."
       },
       "images": [
@@ -67,7 +67,7 @@
     },
     {
       "body": {
-        "en": "The most common poles in Brazil have some resemblance to a ladder in the bottom portion. They are rectangular, have long segments running through the bottom, and small holes near the top. NOTE: Paraguay uses similar poles.",
+        "en": "The default pole reads ladder-like at the base: rectangular, long lower segments, small holes near the top. NOTE: Paraguay copies the design.",
         "es": "Los postes más comunes de Brasil tienen algo de parecido con una escalera en la parte baja. Son rectangulares, tienen tramos largos que recorren la base y pequeños agujeros cerca de la parte alta. NOTA: Paraguay usa postes parecidos."
       },
       "images": [
@@ -80,7 +80,7 @@
     },
     {
       "body": {
-        "en": "Most Brazilian road signs have the backs painted black. NOTE: This is also common in Paraguay.",
+        "en": "Sign backs painted black, a habit Paraguay shares.",
         "es": "La mayoría de las señales de carretera de Brasil tienen el reverso pintado de negro. NOTA: esto también es común en Paraguay."
       },
       "images": [
@@ -93,7 +93,7 @@
     },
     {
       "body": {
-        "en": "Blue road markers with the road number and kilometre can be seen on the sides of roads.",
+        "en": "Blue roadside markers pairing road number with kilometre.",
         "es": "En los lados de las carreteras se ven hitos azules con el número de carretera y el kilómetro."
       },
       "images": [
@@ -106,7 +106,7 @@
     },
     {
       "body": {
-        "en": "Brazil uses yellow on black chevrons, as opposed to most of South America, which use black on yellow chevrons.",
+        "en": "Yellow-on-black chevrons flip the continent's usual black-on-yellow.",
         "es": "Brasil usa galones amarillos sobre negro, al contrario que la mayor parte de Sudamérica, que usa negro sobre amarillo."
       },
       "images": [
@@ -120,7 +120,7 @@
     },
     {
       "body": {
-        "en": "Roads in Brazil will usually feature double yellow middle lines, with white outer lines. Roads can occasionally have a single dashed yellow line.",
+        "en": "Double yellow centres with white outers as standard, occasional single dashed yellow.",
         "es": "Las carreteras de Brasil suelen tener líneas centrales dobles amarillas con líneas exteriores blancas. A veces las exteriores también son amarillas."
       },
       "images": [],
@@ -131,7 +131,7 @@
     },
     {
       "body": {
-        "en": "It is fairly common to see transparent satellite dishes, which within Latin America is generally unique to Brazil.",
+        "en": "See-through satellite dishes — a Latin American exclusive in practice.",
         "es": "Es bastante habitual ver antenas parabólicas transparentes, algo que dentro de Latinoamérica es único de Brasil."
       },
       "images": [
@@ -144,7 +144,7 @@
     },
     {
       "body": {
-        "en": "In Generation 3 coverage, you can see two different cars:",
+        "en": "Two different cars split the Gen 3 coverage.",
         "es": "En la cobertura de generación 3 de Brasil puedes ver dos coches distintos."
       },
       "images": [

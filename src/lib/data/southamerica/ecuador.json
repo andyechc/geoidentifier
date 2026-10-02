@@ -31,7 +31,7 @@
   "metas": [
     {
       "body": {
-        "en": "The standard licence plates are white and can be short or long. In street view, you will often see a mix of both sizes.",
+        "en": "Standard plates run white in short and long sizes, usually mixed in frame.",
         "es": "Las matrículas estándar son blancas y pueden ser cortas o largas. En Street View verás a menudo una mezcla de los dos tamaños."
       },
       "images": [
@@ -44,7 +44,7 @@
     },
     {
       "body": {
-        "en": "Commercial vehicles, such as taxis or buses, can have older solid orange plates, or newer ones with an orange bar at the top. NOTE: Ecuador is the only country in Latin America to use a mix of short and long licence plates.",
+        "en": "Commercial plates go solid orange (older) or orange-barred (newer) — Ecuador alone mixes short and long plates this way in Latin America.",
         "es": "Los vehículos comerciales, como los taxis o los autobuses, pueden llevar matrículas naranjas lisas más antiguas, o más nuevas con una franja naranja arriba. NOTA: Ecuador es el único país de América latina que usa una mezcla de matrículas cortas y largas con esta franja."
       },
       "images": [],
@@ -55,7 +55,7 @@
     },
     {
       "body": {
-        "en": "All Generation 3 coverage is made with a white car, with a short and thick antenna (\"stubby antenna\"). The antenna and or car are not always visible. NOTE: Mexico, Brazil and Colombia can also have this same short antenna. This antenna on a black car can only be found in Colombia, which can help with tough 50-50s with Ecuador. Note that Colombia can also simply have a white car.",
+        "en": "Gen 3's white car wears a short fat stubby antenna, not always showing. NOTE: Mexico, Brazil and Colombia share the stubby; Colombia alone plants it on black, which breaks Ecuador duels.",
         "es": "Toda la cobertura de generación 3 está hecha con un coche blanco con una antena corta y gruesa. La antena o el coche no siempre son visibles. NOTA: México, Brasil y Colombia también pueden tener este tipo de antena."
       },
       "images": [
@@ -68,7 +68,7 @@
     },
     {
       "body": {
-        "en": "All Generation 4 coverage was captured using a white pickup truck with a black trunk and no antenna. NOTE: The pickup truck in Panama and Costa Rica has an antenna on the front.",
+        "en": "Gen 4 is a white pickup with black bed cover and no antenna, unlike Panama's and Costa Rica's antenna'd pickups.",
         "es": "Toda la cobertura de generación 4 se capturó con una camioneta blanca con la caja tapada y sin antena. NOTA: la camioneta de Panamá y Costa Rica sí tiene antena al frente."
       },
       "images": [
@@ -81,7 +81,7 @@
     },
     {
       "body": {
-        "en": "Google used a weird, low-quality camera in Ecuador. This camera is known as the official Ari (or \"Shitcam\"). It has a wide circular car blur and often somewhat brownish colours. You will sometimes see a unique red logo at the front of the car. NOTE: Within Latin America, Ecuador is the only country that has shitcam coverage.",
+        "en": "Ecuador's official Ari camera — the Shitcam — smears a wide circular car blur in brownish tones, sometimes flashing a small red logo up front. NOTE: Latin America's only shitcam country.",
         "es": "Google usó en Ecuador una cámara rara y de baja calidad. Se le conoce como la Ari oficial, o shitcam. Tiene un desenfoque circular amplio y a menudo tonos algo pardos. NOTA: dentro de América latina, Ecuador es el único país con cobertura shitcam."
       },
       "images": [
@@ -94,7 +94,7 @@
     },
     {
       "body": {
-        "en": "Ecuador is one of the few Latin American countries where bollards are very common. You will find two main types of bollards: Many other bollards can be found, however, they will almost always have the same colour scheme and style. NOTE: A similar rectangular bollard can sometimes be found in Malaysia.",
+        "en": "Bollards crowd the roadsides in two main types plus endless same-style variants. NOTE: Malaysia has a passing rectangular cousin.",
         "es": "Ecuador es uno de los pocos países latinoamericanos donde los bolardos son muy comunes. Encontrarás dos tipos principales. Hay muchos otros bolardos, pero casi siempre tendrán esa misma forma."
       },
       "images": [
@@ -108,7 +108,7 @@
     },
     {
       "body": {
-        "en": "Most poles in Ecuador are round and made of concrete. These poles are fairly generic and not all that useful to identify the country. However, sometimes you will see another, more useful type of concrete pole: the ladder pole. It has a lot of small indents - resembling the steps of a ladder. Within Latin America, these poles are more or less unique to Ecuador. NOTE: Brazilian waffle poles also have indents, but only a couple - as opposed to the large amount of indents that Ecuadorian ladder poles have.",
+        "en": "Default poles are round concrete generics, but the ladder pole — dense with step-like indents — is effectively Ecuador-only in Latin America. NOTE: Brazil's waffle poles indent sparsely by comparison.",
         "es": "La mayoría de los postes de Ecuador son redondos y de hormigón. Son bastante genéricos y no son muy útiles para identificar el país. Sin embargo, a veces verás otro tipo de poste de hormigón más útil."
       },
       "images": [],
@@ -119,7 +119,7 @@
     },
     {
       "body": {
-        "en": "Double guardrails are very commonly used. This is much less common in other South American countries.",
+        "en": "Double guardrails stack up far more often than anywhere else in South America.",
         "es": "Los quitamiedos dobles se usan con mucha frecuencia. Esto es mucho menos común en otros países sudamericanos."
       },
       "images": [
@@ -132,7 +132,7 @@
     },
     {
       "body": {
-        "en": "Ecuador often uses a lot of chevrons in road curves (\"chevron spam\"), usually considerably more than most other Latin American countries. NOTE: Colombia also occasionally uses a lot of chevrons in curves.",
+        "en": "Curves drown in chevrons — chevron spam well beyond the Latin American norm. NOTE: Colombia spams occasionally too.",
         "es": "Ecuador usa muchos galones en las curvas, normalmente bastante más que la mayoría de países latinoamericanos. NOTA: Colombia también usa galones en las curvas de vez en cuando."
       },
       "images": [
@@ -145,7 +145,7 @@
     },
     {
       "body": {
-        "en": "Ecuador uses a lot of square road signs with a white background, of the design shown in the image.",
+        "en": "Square white-background road signs in the photographed design repeat everywhere.",
         "es": "Ecuador usa muchas señales de carretera cuadradas con fondo blanco, del diseño que se ve en la imagen."
       },
       "images": [
@@ -158,7 +158,7 @@
     },
     {
       "body": {
-        "en": "Kilometre markers are green and have the distinctive Ecuadorian highway shields on them.",
+        "en": "Green kilometre markers stamped with Ecuador's highway shields.",
         "es": "Los hitos kilométricos son verdes y llevan los distintivos escudo de carretera del ecuatorianos."
       },
       "images": [
@@ -171,7 +171,7 @@
     },
     {
       "body": {
-        "en": "Sometimes, the back of the signs are painted a teal blue colour. The signposts are thin and made of metal. NOTE: Ecuador is the only country in Latin America to use teal blue sign backs.",
+        "en": "Sign backs flash teal blue on thin metal posts — a Latin American exclusive.",
         "es": "A veces el reverso de las señales está pintado de un azul verdoso. Los postes son finos y de metal. NOTA: Ecuador es el único país de América latina que usa reversos azul verdosos."
       },
       "images": [
@@ -184,7 +184,7 @@
     },
     {
       "body": {
-        "en": "Ecuador uses these signs to indicate one or two- way streets. NOTE: The Dominican Republic and Puerto Rico are the only two other Latin American countries to use similar signs with text inside the arrow.",
+        "en": "One- and two-way street blades carry text inside the arrow, shared only with the Dominican Republic and Puerto Rico.",
         "es": "Ecuador usa estas señales para indicar calles de uno o dos sentidos. NOTA: la República Dominicana y Puerto Rico son los otros dos países latinoamericanos que usan señales parecidas con texto dentro de la flecha."
       },
       "images": [
@@ -197,7 +197,7 @@
     },
     {
       "body": {
-        "en": "Most houses are made of grey bricks and have metal roofs. NOTE: This is not unique to Ecuador, but is very common. Countries such as Peru, and especially Bolivia, commonly use red bricks.",
+        "en": "Grey-brick houses under metal roofs dominate without being exclusive; Peru leans grey too while Bolivia builds red.",
         "es": "La mayoría de las casas están hechas de ladrillo gris y tienen tejados metálicos. NOTA: esto no es único de Ecuador, pero sí muy común. Países como Perú, y sobre todo Bolivia, usan ladrillo rojo."
       },
       "images": [

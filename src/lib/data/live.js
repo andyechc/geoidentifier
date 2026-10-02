@@ -86,9 +86,10 @@ export async function apiLogin(user, pass, fetchFn = fetch) {
 			headers: { "content-type": "application/json" },
 			body: JSON.stringify({ user, pass })
 		});
+		if (r.status === 404) return "unavailable";
 		return r.ok;
 	} catch {
-		return false;
+		return "unavailable";
 	}
 }
 

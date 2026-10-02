@@ -27,7 +27,7 @@
   "metas": [
     {
       "body": {
-        "en": "Argentina uses two types of licence plates: a black one, which will be visible on street view with a black dot in the middle, and a white one with a blue bar at the top. NOTE: The black dot can only be found on Argentinian licence plates, while the blue bar can be found in Brazil as well.",
+        "en": "Two plate styles run here: a black one showing a black dot mid-plate on Street View, and a white one topped by a blue bar. NOTE: the black dot belongs to Argentina alone; the blue bar also turns up in Brazil.",
         "es": "Argentina usa dos tipos de matrícula: una negra, que se ve en Street View con un punto negro donde debería ir el número, y una blanca con matrícula blanca de 1995. La franja azul también aparece en Brasil."
       },
       "images": [
@@ -40,7 +40,7 @@
     },
     {
       "body": {
-        "en": "Argentina has a black Google car in Generation 3 coverage. NOTE: Within South America, only Argentina, Peru and Uruguay have a black Google car.",
+        "en": "Gen 3 rides on a black Google car — a South American trio shared only with Peru and Uruguay.",
         "es": "Argentina tiene un coche de Google negro en la cobertura de generación 3. NOTA: dentro de Sudamérica, solo Argentina, Perú y Colombia tienen cobertura de generación 3, y cada uno con un color distinto."
       },
       "images": [
@@ -53,7 +53,7 @@
     },
     {
       "body": {
-        "en": "Argentina also has Generation 4 \"smallcam\" coverage, which is mounted lower than regular Generation 4 and has a relatively big circular blur with a small protrusion at the front. NOTE: Peru, Brazil and Argentina are the only South American countries with smallcam.",
+        "en": "Low-slung Gen 4 smallcam with a big round blur nosing forward. NOTE: smallcam exists only in Peru, Brazil and Argentina on this continent.",
         "es": "Argentina también tiene cobertura de generación 4 smallcam, montada más abajo que la generación 4 normal y con un campo de visión más amplio, lo que hace que el horizonte aparezca curves."
       },
       "images": [
@@ -66,7 +66,7 @@
     },
     {
       "body": {
-        "en": "Round concrete poles sustaining three electricity lines in an alternating pattern are very common in Argentina. Doubled up poles like in the second image is also a good clue for Argentina. NOTE: Similar doubled concrete poles can occasionally be found throughout Bolivia.",
+        "en": "Round concrete poles carrying three wires in alternating rhythm dominate, doubled-up pairs included. NOTE: Bolivia borrows the doubled look on occasion.",
         "es": "Los postes de hormigón redondos que sostienen tres líneas eléctricas en un patrón alterno son muy comunes en Argentina."
       },
       "images": [
@@ -79,7 +79,7 @@
     },
     {
       "body": {
-        "en": "Wooden poles are somewhat common in Argentina, they can be found either with a crossbar or without. NOTE: Wooden A-frame poles in South America are only found in Argentina.",
+        "en": "Wooden poles with or without crossbars are fairly common, and A-frames grow only in Argentina continent-wide.",
         "es": "Los postes de madera son algo comunes en Argentina: se encuentran con travesaño o sin él. NOTA: los postes de madera en A solo se encuentran en Argentina dentro de Sudamérica."
       },
       "images": [
@@ -92,7 +92,7 @@
     },
     {
       "body": {
-        "en": "Argentina typically uses white-and-red chevrons. NOTE: Argentina is the only American country with these chevrons.",
+        "en": "White-and-red chevrons — Argentina stands alone with them across the Americas.",
         "es": "Argentina suele usar galones blancos y rojos. NOTA: Argentina es el único país americano con estos galones."
       },
       "images": [
@@ -105,7 +105,7 @@
     },
     {
       "body": {
-        "en": "Road lines in Argentina are mainly dashed white, double yellow or a mix in between.",
+        "en": "Paint runs dashed white, double yellow, or a blend of the two.",
         "es": "Las líneas viales en Argentina son principalmente discontinuas blancas, dobles amarillas o una mezcla de ambas."
       },
       "images": [
@@ -118,7 +118,7 @@
     },
     {
       "body": {
-        "en": "Argentinian kilometre markers are typically white with a black strip displaying the road number at the top. NOTE: The markers on national highways are indicated with RN, while RP indicates a provincial highway. National highways will be labelled white on the map, while provincial highways will be labelled green.",
+        "en": "White kilometre posts topped by a black strip with the road number: RN for national highways, RP for provincial ones, mapping white and green respectively.",
         "es": "Los hitos kilométricos argentinos suelen ser blancos con una franja negra arriba donde aparece el número de carretera. NOTA: los hitos con el número de ruta y los kilómetros van en una señal distinta, más pequena y blanca."
       },
       "images": [
@@ -131,7 +131,7 @@
     },
     {
       "body": {
-        "en": "Yellow and red rectangular reflectors can often be seen on Argentinian guardrails.",
+        "en": "Yellow-and-red rectangular reflectors stud the guardrails.",
         "es": "En los quitamiedos argentinos se ven a menudo reflectores rectangulares amarillos y rojos."
       },
       "images": [

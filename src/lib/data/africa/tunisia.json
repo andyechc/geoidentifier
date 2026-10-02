@@ -36,7 +36,7 @@
   "metas": [
     {
       "body": {
-        "en": "Tunisian licence plates are black with white text. NOTE: Military plates feature a small Tunisian flag on the left side of the plate, which is visible on the dark green follow car.",
+        "en": "Plates are black with white text; military ones add a small Tunisian flag on the left, visible on the dark green escort car.",
         "es": "Las matrículas de Túnez son negras con texto blanco. NOTA: las matrículas militares llevan una pequeña bandera tunecina en el lado izquierdo."
       },
       "images": [
@@ -49,7 +49,7 @@
     },
     {
       "body": {
-        "en": "One of the best ways to recognize Tunisia is that, in most coverage, the Google car is escorted by a follow car. There are several different follow cars and these are four of the most commonly found ones. NOTE: Follow cars can be in front of the street view car, or very far behind. Make sure to pan and zoom if you do not find them immediately.",
+        "en": "An escort car shadows the Google car through most coverage, in several variants, ahead or far behind — pan and zoom before ruling it out.",
         "es": "Una de las mejores formas de reconocer Túnez es que, en la mayor parte de la cobertura, el coche de Google va escoltado por un coche de seguimiento. Estos coches de escolta se ven en muchos otros países de África, así que no son exclusivos de Túnez."
       },
       "images": [
@@ -62,7 +62,7 @@
     },
     {
       "body": {
-        "en": "The Google car in Tunisia is black with a medium- length, thin antenna. NOTE: The colour of the car is not always perceptible. Make sure to look around for other more helpful clues.",
+        "en": "Tunisia's Google car is a black one with a slim antenna of medium length, though its colour doesn't always read — keep other clues in play.",
         "es": "El coche de Google en Túnez es negro y lleva una antena fina de longitud media. NOTA: el color del coche no siempre se distingue. Asegúrate de mirar otras pistas más útiles."
       },
       "images": [
@@ -75,7 +75,7 @@
     },
     {
       "body": {
-        "en": "Tunisia has Mediterranean, dry and semidesert climates. NOTE: In the second step, you will find more about region specific climate and landscape.",
+        "en": "Mediterranean, dry and semi-desert climates share the country.",
         "es": "Túnez tiene climas mediterráneos, secos y semisecos."
       },
       "images": [
@@ -88,7 +88,7 @@
     },
     {
       "body": {
-        "en": "These olive tree plantations can often be found along roads. They consist of nicely arranged rows of olive trees on an often raked, weedless soil.",
+        "en": "Roadside olive groves in tidy rows over raked, weed-free soil.",
         "es": "Estas plantaciones de olivos se pueden encontrar a menudo junto a las carreteras. Son hileras de olivos bien ordenadas sobre una base de tierra roja."
       },
       "images": [
@@ -101,7 +101,7 @@
     },
     {
       "body": {
-        "en": "Tunisia usually has white road lines. Outer road lines can be dashed or solid. NOTE: A few roads in Sfax have yellow middle lines.",
+        "en": "White paint dominates the lines, outers dashed or solid. NOTE: a few Sfax roads break the rule with yellow centres.",
         "es": "Túnez suele usar líneas viales blancas. Las líneas exteriores pueden ser discontinuas o continuas. NOTA: algunas carreteras de Sfax tienen líneas centrales amarillas, algo poco habitual aquí."
       },
       "images": [
@@ -114,7 +114,7 @@
     },
     {
       "body": {
-        "en": "In Tunisia, both French and Arabic are common. The Arabic script can be identified by its lines and dots. You can often see bilingual signs. NOTE: The UAE and (more rarely) Jordan use English and Arabic.",
+        "en": "French and Arabic split the signage, Arabic picked out by its lines-and-dots script, often paired bilingually. NOTE: the UAE (and rarely Jordan) pairs English with Arabic instead.",
         "es": "En Túnez son comunes tanto el francés como el árabe. El guion árabe se identifica por sus líneas y sus puntos. Las señales más frecuentes tienen el nombre de la ciudad en ambas escrituras."
       },
       "images": [
@@ -127,7 +127,7 @@
     },
     {
       "body": {
-        "en": "Most direction signs have a white background with towns listed in Arabic and Latin script. The font of the Latin script is usually quite distinctive. NOTE: Many direction signs include the capital Tunis, but this does not necessarily mean you are anywhere near that city.",
+        "en": "Direction boards run white with towns in Arabic plus Latin-script names in a distinctive font. NOTE: Tunis shows up on many boards nowhere near the capital.",
         "es": "La mayoría de las señales de dirección tienen fondo blanco, con las localidades en árabe y en alfabeto latino. La tipografía latina es más grande que la árabe."
       },
       "images": [
@@ -140,7 +140,7 @@
     },
     {
       "body": {
-        "en": "Doors, windows, gates and other architectural elements are sometimes painted with this specific traditional shade of blue. NOTE: This shade of blue can be found all over the country, but is especially common on the island of Djerba.",
+        "en": "That traditional blue washes doors, windows, gates and architectural trim countrywide, thickest on Djerba island.",
         "es": "Las puertas, ventanas, verjas y otros elementos arquitectónicos a veces se pintan con este tono tradicional azul, típico sobre todo en Djerba, donde los edificios tienden a ser más antiguos y tradicionales."
       },
       "images": [
@@ -153,7 +153,7 @@
     },
     {
       "body": {
-        "en": "Djerba, where buildings tend to be older and more traditional.",
+        "en": "Djerba keeps older, more traditional buildings than the mainland.",
         "es": "En Djerba, los edificios tienden a ser más antiguos y tradicionales."
       },
       "images": [],
@@ -164,7 +164,7 @@
     },
     {
       "body": {
-        "en": "Red and white striped curbs are common in Tunisia. NOTE: Similar curbs are also common in Israel and Palestine. Make sure to look for additional information!",
+        "en": "Red-and-white striped kerbs are common. NOTE: Israel and Palestine run similar kerbs, so stack more clues.",
         "es": "Los bordillos de franjas rojas y blancas son comunes en Túnez. NOTA: bordillos parecidos son también comunes en Israel y Palestina."
       },
       "images": [
@@ -177,7 +177,7 @@
     },
     {
       "body": {
-        "en": "These white concrete markers with a rounded top can be found throughout Tunisia. The top can be red, yellow or green.",
+        "en": "White concrete posts with rounded tops dot the country, capped red, yellow or green.",
         "es": "Estas balizas de hormigón blanco con la parte superior redondeada se pueden encontrar por todo Túnez. La parte superior puede ser roja, amarilla o verde."
       },
       "images": [
