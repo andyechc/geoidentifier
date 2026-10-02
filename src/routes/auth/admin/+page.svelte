@@ -82,11 +82,14 @@
 	});
 
 	async function login() {
-		if (await apiLogin(user.trim(), pass)) {
+		const r = await apiLogin(user.trim(), pass);
+		if (r === true) {
 			authed = true;
 			loginError = "";
 			await refreshServerState();
 			refresh();
+		} else if (r === "unavailable") {
+			loginError = "El admin solo funciona con el servidor en marcha (npm run dev). Esta copia es estática.";
 		} else {
 			loginError = "Usuario o contraseña incorrectos.";
 		}

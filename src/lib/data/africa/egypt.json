@@ -36,7 +36,7 @@
   "metas": [
     {
       "body": {
-        "en": "Egypt has very sparse coverage. The entirety of the coverage is in Generation 3, made with a trekker camera. Trekkers can be recognized by the fact that the camera is lower to the ground, having smaller blurs, and no car shadow. Instead of learning a lot of country-specific clues, it is more practical to simply memorise what the trekkers look like. There are seven sections of coverage, each centred around historic places of interest, ranging from the Pyramids to Coptic churches and medieval citadels. The coverage is limited to two general areas:",
+        "en": "Coverage is thin and all Gen 3 trekker, shot low to the ground with small blurs and no car shadow. Seven historic treks — pyramids, Coptic churches, medieval citadels — split across two areas, so learn the trekker look itself.",
         "es": "Egipto tiene muy poca cobertura. Todo el volumen es de generación 3, hecha con una cámara trekker. Los trekkers pueden llevar la cámara a una altura distinta de la habitual, más cerca del suelo, con desenfoques más pequeños y sin sombra del coche."
       },
       "images": [
@@ -49,7 +49,7 @@
     },
     {
       "body": {
-        "en": "Many of the buildings you see in the trekker coverage are made of sandstone.",
+        "en": "Trekker buildings run heavily to sandstone.",
         "es": "Muchos de los edificios que ves en la cobertura trekker están hechos de arenisca."
       },
       "images": [
@@ -63,7 +63,7 @@
     },
     {
       "body": {
-        "en": "The official language in Egypt is Arabic. You can occasionally see it on signs in several of the trekkers. Its script can be identified by its lines and dots.",
+        "en": "Arabic is the official language, surfacing on signs here and there, recognisable by its lines-and-dots script.",
         "es": "El idioma oficial en Egipto es el árabe. De vez en cuando puedes verlo en las señales de algunos trekkers. Su guion se distingue por los puntos, que pueden ser uno, dos, tres o más."
       },
       "images": [
@@ -76,7 +76,7 @@
     },
     {
       "body": {
-        "en": "The great pyramids of Giza have trekker coverage. NOTE: This is not to be confused with the pyramid in Memphis, which is made of glass instead of sand stone.",
+        "en": "Giza's great pyramids carry trekker coverage. NOTE: don't mix them up with the glass pyramid at Memphis.",
         "es": "Las grandes pirámides de Guiza tienen cobertura trekker. NOTA: no la confundas con la pirámide de Menfis, que es mucho más pequeña."
       },
       "images": [],
@@ -87,7 +87,7 @@
     },
     {
       "body": {
-        "en": "The coverage inside the valley temple of Khafre can be recognised by the rows of massive square pillars.",
+        "en": "Khafre's valley temple reads as rows of massive square pillars.",
         "es": "La cobertura del valle-templo de Khafre se reconoce por las hileras de enormes pilares cuadrados."
       },
       "images": [
@@ -100,7 +100,7 @@
     },
     {
       "body": {
-        "en": "The Djoser pyramid, which can be recognised by the stair-like sections combined with the scaffolding surrounding it, is located south of Cairo. You can also find some other minor historical excavation sites and some plain desert coverage.",
+        "en": "Djoser's step pyramid pairs stair-like tiers with surrounding scaffolding, south of Cairo, amid minor digs and plain desert.",
         "es": "La pirámide de Djoser se reconoce por las secciones con forma de escalera combinadas con el andamiaje que la rodea."
       },
       "images": [
@@ -113,7 +113,7 @@
     },
     {
       "body": {
-        "en": "The Cairo Citadel is an enormous fortification with a trekker walking through and around it. It can be recognized by its massive walls that are made of clean-cut sandstone blocks.",
+        "en": "The Cairo Citadel is a giant clean-cut-sandstone fortification walked through and around by a trekker.",
         "es": "La Ciudadela de El Cairo es una fortificación enorme con un trekker que camina por dentro y por fuera. Se reconoce por sus murallas altas de piedra."
       },
       "images": [
@@ -126,7 +126,7 @@
     },
     {
       "body": {
-        "en": "Inside the Citadel, you can see the Ottoman-era Mosque of Muhammad Ali. It has light grey domes and very tall minarets. NOTE: This mosque looks superficially similar to the Hagia Sophia mosque in Istanbul.",
+        "en": "Inside stands the Ottoman-era Muhammad Ali Mosque: pale grey domes and very tall minarets. NOTE: a passing resemblance to Istanbul's Hagia Sophia.",
         "es": "Dentro de la Ciudadela verás la mezquita otomana de Muhammad Ali. Tiene cupulas gris claro y alminares muy altos, con puntiagudas puntas doradas."
       },
       "images": [
@@ -139,7 +139,7 @@
     },
     {
       "body": {
-        "en": "The trekker in and around the Hanging Church consists of two parts that look fairly different from each other. Outside the church, the trekker is walking around a normal urban Cairo street. At most points, you will still see the church complex, its spires with crosses, and historic sandstone walls. But you will also see apartment buildings, shops, and normal pedestrian traffic. This trekker can be found just east of Giza, near the map label Fustat.",
+        "en": "The Hanging Church trekker splits in two looks: outside, a normal Cairo street that keeps the church complex, crossed spires and old sandstone walls in frame alongside flats, shops and foot traffic, just east of Giza near the Fustat label.",
         "es": "El trekker de la Iglesia Colgante y de sus alrededores tiene dos partes que se ven bastante distintas entre sí."
       },
       "images": [
@@ -152,7 +152,7 @@
     },
     {
       "body": {
-        "en": "At a certain point, the trekker moves from the street into the Hanging Church. Inside, you will see a beautiful courtyard with religious mosaics and two white church spires.",
+        "en": "The trekker passes from the street into the church, opening onto a lovely courtyard with religious mosaics and twin white spires.",
         "es": "En un momento dado, el trekker pasa de la calle al interior de la Iglesia Colgante. Dentro verás un patio precioso con fuentes y plantas."
       },
       "images": [
@@ -166,7 +166,7 @@
     },
     {
       "body": {
-        "en": "The Qaitbay Citadel consists of a large castle surrounded by thick walls, which are both made of sandstone.",
+        "en": "Qaitbay Citadel is a big sandstone castle ringed by thick sandstone walls.",
         "es": "La Ciudadela de Qaitbay consiste en un castillo grande rodeado de muros gruesos, todos de arenisca."
       },
       "images": [],

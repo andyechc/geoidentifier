@@ -33,7 +33,7 @@
   "metas": [
     {
       "body": {
-        "en": "All coverage in Lesotho is Generation 3. In almost all locations, the back of a white Google car without an antenna is visible. NOTE: Among southern African countries, Eswatini, Botswana and South Africa also have the same white car in Generation 3 coverage.",
+        "en": "Everything is Generation 3, with the back of a white antennaless Google car in almost every pano. NOTE: Eswatini, Botswana and South Africa share that same Gen 3 car.",
         "es": "Todo el volumen de Lesoto es de generación 3. En casi todos los lugares se ve la parte trasera de un coche de Google blanco y sin antena."
       },
       "images": [
@@ -46,7 +46,7 @@
     },
     {
       "body": {
-        "en": "While Botswana and Eswatini only have Generation 3 coverage, South Africa also has Generation 2 and Generation 4 coverage. In addition, Generation 3 coverage is somewhat rare in South Africa.",
+        "en": "Botswana and Eswatini stop at Generation 3 while South Africa adds Gen 2 and Gen 4 on top; Gen 3 itself is fairly scarce there.",
         "es": "Mientras que Botsuana y Esuatini solo tienen cobertura de generación 3, Sudáfrica también tiene cobertura de generación 2 y de generación 4. Lesoto es el único país del sur con una mezcla de las tres."
       },
       "images": [],
@@ -57,7 +57,7 @@
     },
     {
       "body": {
-        "en": "One of the best ways to identify the country are the characteristic ‘Lesotho mountains'. They are bare and treeless, often have tabletop-like shapes, and recognizable horizontal rocky ridgelines. Depending on where you are in the country, the mountains can vary a bit in appearance. Especially inland areas towards the southeast, where they appear more like rolling green hills rather than isolated tabletop mountains. However, you will still often be able to see the horizontal rocky ridges.",
+        "en": "The bare, treeless 'Lesotho mountains' with tabletop profiles and banded rocky ridges are the top tell. Looks shift around the country: inland south-eastern ones read more like rolling green hills than lone tabletops, but the horizontal rock banding usually survives.",
         "es": "Una de las mejores formas de identificar el país son las características montañas de Lesoto: están peladas y sin árboles, con el aspecto redondeado que les da el terreno y que se las ve desde lejos."
       },
       "images": [
@@ -70,7 +70,7 @@
     },
     {
       "body": {
-        "en": "Lesotho uses long white licence plates with blue text. If partially unblurred, you may see the Mokorotlo hat symbol on the left.",
+        "en": "Long white plates with blue lettering, sometimes showing the Mokorotlo hat mark on the left when half-unblurred.",
         "es": "Lesoto usa matrículas largas y blancas con texto azul. Si se desenfocan parcialmente, puede verse el símbolo del sombrero mokorotlo en la parte superior."
       },
       "images": [
@@ -83,7 +83,7 @@
     },
     {
       "body": {
-        "en": "Lesotho uses yellow outer lines and white inner lines. NOTE: These are also found in the other four southern African countries.",
+        "en": "Yellow outers with white inners, shared with the other four Southern African countries.",
         "es": "Lesoto usa líneas exteriores amarillas y líneas interiores blancas. NOTA: estas también se encuentran en los otros cuatro países del África austral."
       },
       "images": [
@@ -96,7 +96,7 @@
     },
     {
       "body": {
-        "en": "Some roads have unique triple middle lines, consisting of two solid lines with a dashed line in between. NOTE: These are also found in the other four southern African countries, but nowhere else in the world.",
+        "en": "Unique triple centres: two solids sandwiching a dashed line. Shared with the other four Southern African countries and found nowhere else on Earth.",
         "es": "Algunas carreteras tienen líneas centrales triples únicas, formadas por dos líneas continuas con una discontinua entre ellas. NOTA: estas líneas también se encuentran en otros países del sur, pero allí suele haber una línea amarilla en el medio."
       },
       "images": [
@@ -109,7 +109,7 @@
     },
     {
       "body": {
-        "en": "In rural areas, you will often see traditional round huts with thatched roofs. NOTE: These are less common in the other four southern African countries, but can still be seen.",
+        "en": "Rural zones grow traditional round thatched huts, thinner on the ground across the remaining Southern African countries yet still around.",
         "es": "En las zonas rurales verás a menudo chozas tradicionales redondas con techo de paja. NOTA: son menos comunes en los otros países del sur."
       },
       "images": [
@@ -122,7 +122,7 @@
     },
     {
       "body": {
-        "en": "These agave plants are common throughout the countryside and often a good clue for the country.",
+        "en": "Agave plants spread across the countryside make a handy country clue.",
         "es": "Estas plantas de agave son comunes por todo el campo y suelen ser una buena pista del país."
       },
       "images": [
@@ -135,7 +135,7 @@
     },
     {
       "body": {
-        "en": "Grasslands in Lesotho primarily consist of short grass. NOTE: This is mostly useful to distinguish Lesotho from Eswatini, which famously has a lot of tall grass.",
+        "en": "Grassland runs short here, which mainly separates Lesotho from tall-grass Eswatini.",
         "es": "Las praderas de Lesoto se componen principalmente de hierba corta. NOTA: esto es sobre todo útil para distinguir Lesoto de Esuatini, donde la hierba es alta y dorada."
       },
       "images": [

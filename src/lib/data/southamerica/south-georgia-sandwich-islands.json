@@ -23,7 +23,7 @@
   "metas": [
     {
       "body": {
-        "en": "• Three trekkers in the isolated fjords of the rest of the island. Due to the sparse nature of the coverage, that is also entirely not on any streets, it is not useful to learn any territory identification metas. Instead, it is better to just memorise what the trekkers look like.",
+        "en": "Three trekkers thread the lonely fjords beyond Grytviken: no streets anywhere, so memorise the trekkers, not territory tells.",
         "es": "Tres trekkers en los fiordos aislados del resto de la isla. Debido a lo escasa de la cobertura, que además no está en ninguna calle, no es útil aprender ningún territorio."
       },
       "images": [],
@@ -34,7 +34,7 @@
     },
     {
       "body": {
-        "en": "Abandoned, rusted machinery can be seen in Grytviken. Grytviken is the only pinpointable trekker in South Georgia. Therefore, this trekker appears in pinpointable maps like A Community World.",
+        "en": "Grytviken's abandoned rusted machinery marks South Georgia's only pinpointable trekker.",
         "es": "En Grytviken se puede ver maquinaria abandonada y oxidada. Grytviken es el único trekker localizable de Georgia Sur. Por eso, este trekker aparece en mapas localizables como A Community World."
       },
       "images": [
@@ -47,7 +47,7 @@
     },
     {
       "body": {
-        "en": "A church and another building made of white painted wood can also be seen in Grytviken.",
+        "en": "Grytviken also holds a white-painted wooden church plus one more white timber building.",
         "es": "En Grytviken también se puede ver una iglesia y otro edificio hechos de madera pintada de blanco."
       },
       "images": [
@@ -60,7 +60,7 @@
     },
     {
       "body": {
-        "en": "This wide open valley with lightly snow capped mountains can be seen on the west side of South Georgia Island.",
+        "en": "A broad open valley under lightly snow-dusted peaks fills western South Georgia Island.",
         "es": "Este valle abierto y amplio con montañas ligeramente nevadas se puede ver en la parte oeste de la isla de Georgia Sur."
       },
       "images": [
@@ -73,7 +73,7 @@
     },
     {
       "body": {
-        "en": "Prion Island can be recognized by the wooden walkway, lush green plants and numerous seals which inhabit the island.",
+        "en": "Prion Island gives itself away with a boardwalk, lush green growth and crowds of seals.",
         "es": "Prion Island se reconoce por el paseo de madera, las plantas verdes exuberantes y las numerosas focas que habitan la isla."
       },
       "images": [
@@ -86,7 +86,7 @@
     },
     {
       "body": {
-        "en": "This boat trekker in Hercules Bay can be recognized by a man in a red jacket and the MS National Geographic Explorer in the background.",
+        "en": "The Hercules Bay boat trekker stars a red-jacketed man with the MS National Geographic Explorer behind.",
         "es": "Este trekker en barco en Hercules Bay se reconoce por un hombre con chaqueta roja y el MS National Geographic Explorer al fondo."
       },
       "images": [

@@ -33,7 +33,7 @@
   "metas": [
     {
       "body": {
-        "en": "Peruvian licence plates are either white or yellow. In contrast to the white plates, yellow plates are less likely to be seen. Additionally, taxis in Peru typically use licence plates that are yellow on the top and white on the bottom. NOTE: Within South America, yellow licence plates are only found in Peru, Colombia and rarely, Chile.",
+        "en": "White or yellow plates, yellows scarcer; taxis split yellow-over-white. NOTE: yellow plates live only in Peru, Colombia and rarely Chile.",
         "es": "Las matrículas peruanas son blancas o amarillas. Al contrario que las blancas, las amarillas son menos frecuentes. Además, los taxis de Perú suelen usar matrícula amarilla."
       },
       "images": [
@@ -46,7 +46,7 @@
     },
     {
       "body": {
-        "en": "In Gen 3 coverage, Peru uses a solid black or white Google car. NOTE: In South America, these two cars are limited to the following countries:",
+        "en": "Solid black or white Google cars split Gen 3, a pairing confined to a short list of South American countries.",
         "es": "En la cobertura de generación 3, Perú usa un coche de Google liso negro o blanco. NOTA: en Sudamérica, estos dos coches están limitados a unos pocos países."
       },
       "images": [
@@ -59,7 +59,7 @@
     },
     {
       "body": {
-        "en": "An important thing to note is that Peru has Generation 4 Street View coverage, whereas the neighbouring country of Bolivia does not. While Ecuador does have some Generation 4 coverage, it will always have a large pickup truck.",
+        "en": "Peru reached Generation 4 while neighbour Bolivia never did; Ecuador's Gen 4 always means a big pickup.",
         "es": "Un detalle importante es que Perú tiene cobertura de generación 4, mientras que el país vecino, Bolivia, no. Aunque Ecuador sí tiene algo de generación 4, siempre será un trekker."
       },
       "images": [
@@ -72,7 +72,7 @@
     },
     {
       "body": {
-        "en": "Peru also has Generation 4 \"smallcam\" coverage, which is mounted lower than regular Generation 4 and has a relatively big circular blur with a small protrusion at the front. NOTE: Peru, Brazil and Argentina are the only South American countries with smallcam.",
+        "en": "Low-slung Gen 4 smallcam with a big round blur nosing forward. NOTE: smallcam exists only in Peru, Brazil and Argentina here.",
         "es": "Perú también tiene cobertura smallcam de generación 4, montada más abajo que la generación 4 normal y con un desenfoque circular relativamente grande con una pequeña protuberancia al frente. NOTA: Perú, Brasil y Argentina son los únicos países sudamericanos con smallcam."
       },
       "images": [
@@ -85,7 +85,7 @@
     },
     {
       "body": {
-        "en": "Peruvian roads always have white outer lines. On highways, you will find either single yellow dashed or double yellow middle lines. On rural mountain roads, you will most likely see white outer lines without any centre line. On divided highways, the road lines may be completely white in colour. NOTE: In the continent of South America, rural mountain roads, with the features mentioned above, are predominantly found in Peru.",
+        "en": "White outers always; highways add single dashed or double yellow centres, mountain rurals often drop centres, divided highways can run all-white. NOTE: that mountain look concentrates in Peru continent-wide.",
         "es": "Las carreteras peruanas siempre tienen líneas exteriores blancas. En las autopistas encontrarás líneas centrales amarillas discontinuas simples o dobles. En las carreteras rurales de montaña lo más probable es que veas líneas exteriores blancas. Las carreteras rurales de montaña, con las características de arriba, son algo relativamente común en todo el continente sudamericano."
       },
       "images": [
@@ -98,7 +98,7 @@
     },
     {
       "body": {
-        "en": "Peru is the only South American country to use black-and-white striped signposts. In some areas, black-and-yellow signposts can be seen. NOTE: Uruguay sometimes uses black-and-white posts for its traffic lights, but not for road signs.",
+        "en": "Black-and-white striped signposts belong to Peru alone, with black-and-yellow zones mixed in. NOTE: Uruguay stripes its traffic lights, not its road signs.",
         "es": "Perú es el único país sudamericano que usa postes de franjas negras y blancas. En algunas zonas también hay postes negros y amarillos. NOTA: Uruguay usa a veces postes negros y blancos para los señales de tráfico."
       },
       "images": [
@@ -111,7 +111,7 @@
     },
     {
       "body": {
-        "en": "Bollards in Peru are painted red or yellow, and the country mainly uses a variety of triangular-shaped concrete bollards. Occasionally you will also spot other designs, such as these circular concrete variants.",
+        "en": "Red or yellow triangular concrete bollards lead, circular concrete variants trail.",
         "es": "Los bolardos de Perú están pintados de rojo o de amarillo, y el país usa sobre todo una variedad de bolardos de hormigón triangulares. De vez en cuando también verás otros diseños, como estas variantes circulares de hormigón."
       },
       "images": [
@@ -124,7 +124,7 @@
     },
     {
       "body": {
-        "en": "Black-and-yellow stripes on guardrails are seen throughout the country. You might sometimes find different designs, such as this sharp arrow design. NOTE: Similar striped guardrails are also found in Bolivia. To differentiate them, just have a look at the outer stripe. Peru uses a black one, while Bolivia features a yellow one.",
+        "en": "Black-and-yellow guardrail striping nationwide, sharp-arrow specials included. NOTE: Bolivia stripes similarly — read the outer band: Peru black, Bolivia yellow.",
         "es": "Las franjas negras y amarillas en los quitamiedos se ven por todo el país. A veces puedes encontrar diseños distintos, como este diseño de flecha. NOTA: también hay quitamiedos parecidos en otros países."
       },
       "images": [
@@ -137,7 +137,7 @@
     },
     {
       "body": {
-        "en": "Kilometre markers in Peru are made out of concrete and are painted black and white. NOTE: When entering and leaving urban areas, the markers will sometimes feature the road number.",
+        "en": "Black-and-white concrete kilometre markers, road-numbered around town edges.",
         "es": "Los hitos kilométricos de Perú están hechos de hormigón y pintados de negro y blanco. NOTA: al entrar o salir de zonas urbanas, los hitos a veces incluyen el número de carretera."
       },
       "images": [
@@ -150,7 +150,7 @@
     },
     {
       "body": {
-        "en": "Peruvian metal signposts feature concrete blocks at the bottom. NOTE: Within South America, Peru is the only country to do so.",
+        "en": "Metal signposts rooted in concrete blocks — a Peruvian exclusive in South America.",
         "es": "Los postes metálicos peruanos tienen bloques de hormigón en la base. NOTA: dentro de Sudamérica, Perú es el único país que lo hace así."
       },
       "images": [
@@ -163,7 +163,7 @@
     },
     {
       "body": {
-        "en": "The country uses a variety of poles. They are made out of either concrete or wood, and sometimes feature distinct horizontal concrete bars. NOTE: Horizontal concrete bars are also found in Argentina.",
+        "en": "A mixed pole stock in concrete or wood, sometimes barred with distinct horizontal concrete beams shared with Argentina.",
         "es": "El país usa una variedad de postes. Están hechos de hormigón o de madera, y a veces tienen barras horizontales de hormigón muy características. NOTA: las barras horizontales de hormigón también se encuentran en Argentina."
       },
       "images": [
@@ -176,7 +176,7 @@
     },
     {
       "body": {
-        "en": "Some poles in Peru have painted bottom sections. Most commonly they will be black or black-and- yellow. NOTE: This pattern of pole paint is unique to Peru within South America, however, similar ones can be seen in other South American countries, such as Colombia.",
+        "en": "Painted pole bases, usually black or black-and-yellow, unique to Peru here though Colombia echoes the idea.",
         "es": "Algunos postes de Perú tienen la base pintada. Lo más habitual es que sea negra o negra y amarilla. NOTA: este patrón de pintura es único de Perú en Sudamérica, aunque en otros países del continente se ven patrones parecidos."
       },
       "images": [
@@ -189,7 +189,7 @@
     },
     {
       "body": {
-        "en": "Tuk tuks, called mototaxis in Peru, are frequently seen in the country, especially in major cities such as Lima, Trujillo, Chiclayo, Piura, and Iquitos.",
+        "en": "Mototaxi tuk-tuks swarm the big cities — Lima, Trujillo, Chiclayo, Piura, Iquitos.",
         "es": "Los tuk-tuks, llamados mototaxis en Perú, son frecuentes en el país, sobre todo en las ciudades grandes como Lima, Trujillo, Chiclayo, Piura e Iquitos."
       },
       "images": [
@@ -202,7 +202,7 @@
     },
     {
       "body": {
-        "en": "Peruvian electricity counters have a unique design: They are rectangular, metallic, and typically feature two or three horizontal slits.",
+        "en": "Rectangular metal power meters slotted with two or three horizontal slits.",
         "es": "Los contadores de electricidad peruanos tienen un diseño único: son rectangulares, metálicos y suelen llevar dos o tres ranuras horizontales."
       },
       "images": [
@@ -215,7 +215,7 @@
     },
     {
       "body": {
-        "en": "Sol is the currency of Peru. You will occasionally spot it on street view and its symbol is S/. NOTE: The currency is unique to Peru.",
+        "en": "Prices in soles, S/ — a currency no neighbour shares.",
         "es": "El sol es la moneda de Perú. De vez en cuando lo verás en Street View y su símbolo es S/. NOTA: la moneda es única de Perú."
       },
       "images": [

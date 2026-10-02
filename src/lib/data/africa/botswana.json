@@ -40,7 +40,7 @@
   "metas": [
     {
       "body": {
-        "en": "All of Botswana was covered by a Google car without an antenna. NOTE: Within Africa, this car can also be found in South Africa, Lesotho and Eswatini.",
+        "en": "An antennaless Google car shot all of Botswana. NOTE: the same car also covers South Africa, Lesotho and Eswatini.",
         "es": "Todo Botsuana fue cubierto con un coche de Google sin antena."
       },
       "images": [
@@ -53,7 +53,7 @@
     },
     {
       "body": {
-        "en": "Botswana has front plates and rear plates, similar to UK-style plates. NOTE: Botswana and Namibia are the only countries in southern Africa where yellow rear plates are predominantly found.",
+        "en": "Plates follow the UK style, front and rear, with yellow dominating the rears. NOTE: only Namibia shares predominantly yellow rears in Southern Africa.",
         "es": "Botsuana tiene matrícula delantera y trasera, similares a las de estilo británico."
       },
       "images": [
@@ -66,7 +66,7 @@
     },
     {
       "body": {
-        "en": "Signs in Botswana are usually in English. Most town names, however, are derived from any of the indigenous languages spoken in the country. NOTE: The Afrikaans language, which is closely related to Dutch and common in South Africa, is very rare in Botswana. You will almost never find Afrikaans place names.",
+        "en": "Signage runs in English, though town names draw on the country's indigenous languages. NOTE: Afrikaans, Dutch's close relative and common in South Africa, is near-absent here — expect no Afrikaans place names.",
         "es": "Las señales en Botsuana suelen estar en inglés. Sin embargo, la mayoría de los topónimos provienen de las lenguas indígenas habladas en el país. NOTA: el afrikáans, idioma emparentado con el neerlandés y habitual en Sudáfrica, es muy raro en Botsuana; casi nunca verás topónimos en afrikáans."
       },
       "images": [
@@ -79,7 +79,7 @@
     },
     {
       "body": {
-        "en": "The typical Botswana landscape is very flat, though a limited amount of elevation can be found in certain regions. Common vegetation includes shrubs, small trees, and occasionally dry, golden grasslands. The soil is arid, sandy and ranges in colour from white to red. NOTE: The border region of South Africa can have a similar landscape.",
+        "en": "A very flat Kalahari canvas with the odd pocket of elevation: shrubs, small trees, dry golden grassland on white-to-red sandy soil. NOTE: South Africa's border strip can look the same.",
         "es": "El paisaje típico de Botsuana es muy plano, aunque se puede encontrar cierta elevación en algunas regiones. La vegetación habitual incluye matorrales, árboles pequeños y, ocasionalmente, praderas secas y doradas. El suelo es árido y arenoso, con colores que van del blanco al rojo. NOTA: la región fronteriza con Sudáfrica puede tener un paisaje similar."
       },
       "images": [
@@ -92,7 +92,7 @@
     },
     {
       "body": {
-        "en": "Like the other countries in Southern Africa, outside road lines (if present) are yellow, while centre road lines are white. NOTE: Outside yellow road lines in arid environments also exist in Israel, Palestine, Jordan, and the UAE. However, these countries all drive on the right side.",
+        "en": "Outer lines yellow, centres white, as across Southern Africa. NOTE: arid-zone yellow outers also occur in Israel, Palestine, Jordan and the UAE — all right-hand-driving countries.",
         "es": "Como en el resto del África austral, las líneas exteriores de la carretera (si las hay) son amarillas, mientras que las líneas centrales son blancas. NOTA: las líneas exteriores amarillas en entornos áridos también existen en Israel, Palestina, Jordania y EAU; sin embargo, esos países conducen por la derecha."
       },
       "images": [
@@ -105,7 +105,7 @@
     },
     {
       "body": {
-        "en": "Botswana has a unique yellow and black bollard. More rarely, you can see red-and-white signposts. NOTE: In Southern Africa, these signposts are only found in Botswana.",
+        "en": "The striped yellow-and-black bollard is Botswana-only; red-and-white signposts turn up more rarely and likewise belong only to Botswana within Southern Africa.",
         "es": "Botsuana tiene un bolardo único, de franjas amarillas y negras. Más raramente se pueden ver postes de señalización rojos y blancos. NOTA: en el África austral, estos postes solo se encuentran en Botsuana."
       },
       "images": [
@@ -118,7 +118,7 @@
     },
     {
       "body": {
-        "en": "Curbs and guardrails are usually painted. Possible colour schemes are black-and-yellow, red-and-white, and black-and-white.",
+        "en": "Painted kerbs and guardrails in black-yellow, red-white or black-white schemes.",
         "es": "Los bordillos y los quitamiedos suelen estar pintados. Las combinaciones de color posibles son negro y amarillo, rojo y blanco, y negro y blanco."
       },
       "images": [
@@ -131,7 +131,7 @@
     },
     {
       "body": {
-        "en": "These small painted rocks can sometimes be found next to the road. NOTE: They are also very common in South Africa.",
+        "en": "Small painted rocks line some roadsides. NOTE: South Africa has them all over too.",
         "es": "Estas pequeñas rocas pintadas a veces se pueden encontrar junto a la carretera. NOTA: también son muy comunes en Sudáfrica."
       },
       "images": [
@@ -144,7 +144,7 @@
     },
     {
       "body": {
-        "en": "Just like the other Southern African countries, direction signs have a green background. The numbers of major roads start with A. These road numbers frequently appear on direction signs. NOTE: Road numbers in South Africa never start with A.",
+        "en": "Green direction boards carrying yellow road numbers that start with A and repeat across signs. NOTE: South African numbers never start with A.",
         "es": "Igual que en el resto del África austral, las señales de dirección tienen fondo verde. Los números de las carreteras principales empiezan por A. Estos números de carretera aparecen a menudo en las señales de dirección. NOTA: en Sudáfrica los números de carretera nunca empiezan por A."
       },
       "images": [
@@ -157,7 +157,7 @@
     },
     {
       "body": {
-        "en": "Some road signs have a blue centre. This is an older style of sign that was used before signs with white backgrounds were introduced. They are relatively unique to Botswana. Note that most road signs will have the newer white background.",
+        "en": "A blue-centred older sign style, predating today's white backgrounds and relatively unique to Botswana — though most signs you meet will be the newer white ones.",
         "es": "Algunas señales de carretera tienen el centro azul. Es un estilo antiguo que se usaba antes de que se introdujeran las señales con fondo blanco. Son relativamente únicas de Botsuana. Ten en cuenta que la mayoría de las señales tienen el fondo blanco más moderno."
       },
       "images": [
@@ -170,7 +170,7 @@
     },
     {
       "body": {
-        "en": "Typical Botswana houses range from small impoverished shacks to comfortable middle-class bungalows. Some buildings have exposed grey bricks. On occasion, you might find traditional round huts. NOTE: All of these house styles are also found in the other southern African countries.",
+        "en": "Housing stretches from poor shacks to comfortable middle-class bungalows, some in bare grey brick, with the occasional round hut. NOTE: the same mix spans the other Southern African countries.",
         "es": "Las casas típicas de Botsuana van desde chabolas de pobreza hasta bungalos de clase media cómodos. Algunos edificios tienen ladrillos grises a la vista. En ocasiones puedes encontrar chozas tradicionales redondas. NOTA: todos estos estilos de casa también se encuentran en el resto de los países del África austral."
       },
       "images": [
@@ -185,7 +185,7 @@
     },
     {
       "body": {
-        "en": "Circular blurs are common in Botswana's coverage. These blurs are similar to the ones found on licence plates and faces, but they cover seemingly random parts of the panorama instead. This is especially noticeable in urban areas, and mostly absent on more rural roads.",
+        "en": "Circular blurs drift across Botswana panos, resembling plate and face blurs but landing on random scenery instead — mostly an urban phenomenon, rare out bush.",
         "es": "Los desenfoques circulares son comunes en la cobertura de Botsuana. Son similares a los que se ven en las matrículas y las caras, pero cubren partes aparentemente aleatorias del panorama. Esto se nota especialmente en zonas urbanas y casi desaparece en carreteras más rurales."
       },
       "images": [],
@@ -196,7 +196,7 @@
     },
     {
       "body": {
-        "en": "Coverage in Botswana is fairly limited due to the country's sparse road system. In addition to regular paved roads, you can still expect to see some rural unpaved road coverage. The most dense coverage is in the east and near Gaborone. The larger towns have extensive side road coverage.",
+        "en": "Thin coverage follows a sparse road net: paved mains plus rural dirt, densest in the east around Gaborone, with towns carrying wide side-road nets.",
         "es": "La cobertura en Botsuana es bastante limitada debido al escaso sistema de carreteras del país. Además de las carreteras asfaltadas habituales, puedes esperar ver algo de cobertura rural sin asfaltar. La cobertura más densa está en el este y cerca de Gaborone. Las ciudades mayores tienen una cobertura extensa de carreteras secundarias."
       },
       "images": [
@@ -209,7 +209,7 @@
     },
     {
       "body": {
-        "en": "Most of Botswana is as flat as a pancake. However, every now and then you will find some elevation. If you see hills, you are most likely in one of the two areas indicated on the minimap. NOTE: Even in the indicated areas, there are a lot of very flat areas, as many of Botswana's hills are geographically isolated. Some lone hills may also appear far outside the indicated areas.",
+        "en": "Pancake-flat almost everywhere, with rare elevation. Hills point to one of the two zones marked on the reference map. NOTE: even there, flats dominate since the hills stand isolated, and lone hills pop up far outside the zones too.",
         "es": "La mayor parte de Botsuana es tan plana como una sartén. Sin embargo, de vez en cuando encontrarás algo de elevación. Si ves colinas, lo más probable es que estés en una de las dos zonas indicadas en el minimapa. NOTA: incluso en las zonas indicadas hay muchas áreas muy planas, ya que muchas colinas de Botsuana están geográficamente aisladas. También pueden aparecer colinas solitarias muy lejos de las zonas indicadas."
       },
       "images": [

@@ -33,7 +33,7 @@
   "metas": [
     {
       "body": {
-        "en": "Senegal is the only African country to use fully blue licence plates. A newer version exists in Generation 4 which looks like the standard European licence plate which is white with a blue strip on the left.",
+        "en": "Fully blue plates exist only in Senegal across Africa. Gen 4 switched to a European-style white plate with a blue band on the left.",
         "es": "Senegal es el único país africano que usa matrículas completamente azules. Existe una versión más nueva en generación 4, que parece un poco más oscura que las de generación 3."
       },
       "images": [
@@ -46,7 +46,7 @@
     },
     {
       "body": {
-        "en": "A silver or white truck cab is visible in the Generation 4 coverage. Several variants of each exist, most of which are region or road specific. In the area around Dakar and Thies you can also find a black pick up truck. NOTE: The car may sometimes be fully blurred. Make sure to look at the landscape or other clues in the absence of car meta.",
+        "en": "Gen 4 shows a silver or white truck cab in several regional variants, plus a black pickup around Dakar and Thiès. NOTE: the car sometimes blurs out entirely, so fall back on landscape and other clues.",
         "es": "En la cobertura de generación 4 se ve la cabina de un camión plateado o blanco. Hay varias variantes de cada uno, y la mayoría tienen una antena en el frente."
       },
       "images": [
@@ -60,7 +60,7 @@
     },
     {
       "body": {
-        "en": "A Google Car with a visible roof rack and the right side mirror is seen in Generation 3 coverage. Rifts can also be seen in the sky. NOTE: This specific Google Car with the right side mirror visible is unique to Senegal. Roof racks and rifts however can be seen in various other countries.",
+        "en": "Gen 3's car shows a roof rack and its right mirror, with sky rifts. NOTE: that right-mirror combo is Senegal-only, though racks and rifts appear elsewhere too.",
         "es": "En la cobertura de generación 3 se ve un coche de Google con un portaequipajes visible y el espejo derecho. También pueden verse grietas en el parabrisas."
       },
       "images": [],
@@ -71,7 +71,7 @@
     },
     {
       "body": {
-        "en": "Senegal drives on the right. NOTE: This is mostly useful to distinguish it from Kenya, which drives on the left. The other countries with coverage in Africa that drive on the right are Ghana, Nigeria, Rwanda and Tunisia.",
+        "en": "Traffic keeps right. NOTE: handy mainly against Kenya (left); Ghana, Nigeria, Rwanda and Tunisia also drive on the right.",
         "es": "Senegal conduce por la derecha. NOTA: esto es útil sobre todo para distinguirlo de Kenia, que conduce por la izquierda. Los demás países Congo Bare del África occidental con cobertura también conducen por la derecha."
       },
       "images": [
@@ -84,7 +84,7 @@
     },
     {
       "body": {
-        "en": "Being a former French colony, Senegal uses French infrastructure such as bollards, poles, signs and roadlines.",
+        "en": "French colonial past means French street furniture: bollards, poles, signs and paint.",
         "es": "Al ser antigua colonia francesa, Senegal usa infraestructura francesa como bolardos, postes, señales y líneas viales."
       },
       "images": [
@@ -97,7 +97,7 @@
     },
     {
       "body": {
-        "en": "The official and most common language seen in Senegal is French. NOTE: The other sub-Saharan countries with street view coverage use English (Rwanda being a minor exception to this – however landscape should be sufficient to always tell the difference).",
+        "en": "French is the official language and the one you will read most. NOTE: other sub-Saharan coverage countries run on English instead (Rwanda aside), but landscape alone usually settles it.",
         "es": "El idioma oficial y más común que se ve en Senegal es el francés. NOTA: los demás países del África subsahariana con cobertura de calle y de Google usan el inglés o lenguas locales."
       },
       "images": [
@@ -110,7 +110,7 @@
     },
     {
       "body": {
-        "en": "The road number and the distance to the nearest towns can be seen on these white kilometre markers with a red top. NOTE: The town that is the furthest distance away is usually the largest.",
+        "en": "White kilometre posts with red tops carry the road number and distances to nearby towns. NOTE: the farthest town listed is usually the biggest.",
         "es": "En estas balizas kilométricas blancas con la parte superior roja se pueden ver el número de carretera y la distancia a las localidades más cercanas. NOTA: en otros países de África occidental también hay hitos parecidos, pero con la parte superior de otro color."
       },
       "images": [
@@ -123,7 +123,7 @@
     },
     {
       "body": {
-        "en": "Most town entry signs in Senegal are white and feature a thick pink outline. The town is also written in a bold, black font.",
+        "en": "Town gateway signs are white with a thick pink border and the name in bold black type.",
         "es": "La mayoría de las señales de entrada a las localidades en Senegal son blancas y tienen un borde rosa grueso. El nombre de la localidad va también en un tipo de letra negro, grande y grueso."
       },
       "images": [

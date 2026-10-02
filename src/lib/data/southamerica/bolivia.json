@@ -34,7 +34,7 @@
   "metas": [
     {
       "body": {
-        "en": "Bolivia has short, white licence plates with blue text. The blue text can be hard to see through the blur, so plates might appear as plain white.",
+        "en": "Short white plates with blue lettering that blur often swallows whole, leaving plain white.",
         "es": "Bolivia tiene matrículas cortas y blancas con texto azul. El texto azul puede ser difícil de ver a través del desenfoque, así que las placas pueden parecer completamente blancas."
       },
       "images": [],
@@ -45,7 +45,7 @@
     },
     {
       "body": {
-        "en": "Bolivia only has Generation 3 camera coverage. All of the country was covered by a solid white Google car with no antenna. NOTE: In Latin America, white cars with no antenna can also be found in Peru and Chile.",
+        "en": "Gen 3 only, shot by one solid white antennaless car nationwide. NOTE: Peru and Chile share the white antennaless look in Latin America.",
         "es": "Bolivia solo tiene cobertura de cámara de generación 3. Todo el país fue cubierto con un coche de Google blanco liso y sin antena. NOTA: en América latina, los coches blancos sin antena son comunes."
       },
       "images": [
@@ -59,7 +59,7 @@
     },
     {
       "body": {
-        "en": "Many buildings in Bolivia consist of large red bricks. Buildings often have an ‘unfinished' look. NOTE: This style of architecture is also common in parts of Peru.",
+        "en": "Big red-brick construction left visibly unfinished. NOTE: parts of Peru build the same way.",
         "es": "Muchos edificios de Bolivia están hechos de grandes ladrillos rojos. Los edificios suelen tener un aspecto inacabado. NOTA: este estilo de arquitectura también es común en partes de Perú."
       },
       "images": [
@@ -72,7 +72,7 @@
     },
     {
       "body": {
-        "en": "Middle road lines can be all-yellow, yellow and white, or all-white, while outer road lines are always white. NOTE: Road lines in Chile are always all-white or all-yellow, never a combination of the two. In Peru, you can find roads having outer lines with no middle line. Such outer line-only roads are very rare in Bolivia.",
+        "en": "Centre paint mixes freely — all-yellow, yellow-and-white, all-white — over always-white outers. NOTE: Chile never mixes; Peru sometimes drops centres entirely, a layout rare in Bolivia.",
         "es": "Las líneas centrales pueden ser todas amarillas, amarillas y blancas, o todas blancas, mientras que las líneas exteriores son siempre blancas. NOTA: las líneas viales de Chile son siempre todas blancas o todas amarillas, nunca mezcladas."
       },
       "images": [
@@ -86,7 +86,7 @@
     },
     {
       "body": {
-        "en": "Bolivia has a lot of standard asphalt roads, but concrete slab roads are also fairly common.",
+        "en": "Standard asphalt plus a fair share of concrete-slab surfacing.",
         "es": "Bolivia tiene muchas carreteras estándar de asfalto, pero las de losas de hormigón también son bastante comunes."
       },
       "images": [],
@@ -97,7 +97,7 @@
     },
     {
       "body": {
-        "en": "There are also a lot of cobblestone roads. These roads often have a specific pattern, with several neat lines of stones separating the more disorganised cobblestones in between.",
+        "en": "Cobbles everywhere in a signature pattern: tidy stone lines framing messier cobble fields.",
         "es": "También hay muchas carreteras de adoquín. Estas carreteras suelen tener un patrón concreto, con varias líneas ordenadas de piedras separando los adoquines más desordenados del medio."
       },
       "images": [
@@ -110,7 +110,7 @@
     },
     {
       "body": {
-        "en": "Bolivia typically uses bulky, white square signposts. NOTE: Peru typically uses black and white striped \"zebra\" signposts.",
+        "en": "Chunky white square signposts. NOTE: Peru answers with black-and-white zebra posts.",
         "es": "Bolivia suele usar postes cuadrados blancos y gruesos. NOTA: Perú suele usar postes de franjas negras y blancas con estilo cebra."
       },
       "images": [
@@ -123,7 +123,7 @@
     },
     {
       "body": {
-        "en": "Guardrails sometimes feature yellow and black markings. These markings always have the yellow stripes on the outside. NOTE: Peru has similar markings. However, in Peru, the markings have the inverse colour scheme: the black stripes are always on the outside.",
+        "en": "Yellow-and-black guardrail flashes always lead with yellow outside. NOTE: Peru inverts the scheme, leading black.",
         "es": "A veces los quitamiedos llevan marcas amarillas y negras. Estas marcas siempre tienen las franjas amarillas por fuera. NOTA: Perú tiene marcas parecidas, pero allí el amarillo queda en el medio."
       },
       "images": [
@@ -136,7 +136,7 @@
     },
     {
       "body": {
-        "en": "Two types of utility poles are common in Bolivia: Poles in Bolivia are very inconsistent and should not be relied on too much. Poles can have a variety of pole tops. On rare occasions, you can find Argentina-style concrete poles.",
+        "en": "Two pole families, both unreliable: mixed tops everywhere, with rare Argentine-style concrete strays.",
         "es": "En Bolivia son comunes dos tipos de postes. Los postes en Bolivia son muy inconsistentes y no conviene confiar demasiado en ellos. Pueden tener una variedad de remates. Rara vez se encuentran postes de hormigón como los de Argentina."
       },
       "images": [
@@ -149,7 +149,7 @@
     },
     {
       "body": {
-        "en": "Many wooden utility poles, particularly in the eastern parts of Bolivia's Street View coverage, are noticeably curvy and look like they are made from locally sourced tree trunks. NOTE: While you may see slightly bent poles in other places, extremely curvy poles are a very good clue for Bolivia.",
+        "en": "Eastern wooden poles bend visibly, clearly cut from local trunks. NOTE: slight bends happen anywhere, but extreme curves scream Bolivia.",
         "es": "Muchos postes de madera, especialmente en las partes orientales de la cobertura de Bolivia, se ven claramente curvos y parecen hechos con troncos de árbol de la zona."
       },
       "images": [
@@ -162,7 +162,7 @@
     },
     {
       "body": {
-        "en": "Kilometre markers are black and white. The top part is black and features the abbreviation ‘Km', while the bottom part is white and shows the distance. These markers do not have road numbers. NOTE: They can look somewhat similar to Argentinian road markers, especially from a distance. The main difference is that the markers in Argentina feature a road number.",
+        "en": "Black-and-white kilometre posts: black Km cap over white distance panel, no road numbers. NOTE: Argentina's look similar from afar but carry numbers.",
         "es": "Los hitos kilométricos son negros y blancos. La parte de arriba es negra e incluye la abreviatura Km, mientras que la parte baja es blanca y muestra la distancia. Estos hitos no tienen números de carretera."
       },
       "images": [
@@ -175,7 +175,7 @@
     },
     {
       "body": {
-        "en": "Many Bolivians wear traditional clothing, especially women. Folk dress for women typically consists of bowler hats, colourful shawls, and big pleated skirts (pollera). NOTE: Similar folk dress can sometimes be found in parts of Peru, especially those close to Bolivia.",
+        "en": "Traditional dress everywhere, especially bowler hats, bright shawls and big pleated pollera skirts on women. NOTE: spillover into Peruvian border zones.",
         "es": "Many bolivianos llevan ropa tradicional, sobre todo las mujeres. El traje folklórico femenino suele consistir en sombreros de copa, mantas coloridas y grandes faldas plisadas, la pollera. NOTA: la pollera también se lleva en otras partes de los Andes de Sudamérica."
       },
       "images": [
@@ -188,7 +188,7 @@
     },
     {
       "body": {
-        "en": "At the time Bolivia was covered by Street View, its ruling political party was the Movimiento al Socialismo (MAS). Political graffiti often features the words MAS and Evo, short for then-president Evo Morales. Additionally, many random objects are painted in the party's colours: black, white, and a large blue field. This distinctive colour scheme is a good clue for Bolivia.",
+        "en": "MAS-era graffiti tags Evo's name across the country, and random objects wear the party kit: black, white, big blue field.",
         "es": "Cuando Bolivia fue cubierta por Street View, el partido político de gobierno era el Movimiento al Socialismo, el MAS. El graffiti político aparece a menudo con las palabras MAS y Evo."
       },
       "images": [
@@ -201,7 +201,7 @@
     },
     {
       "body": {
-        "en": "Bolivia has a second official flag, called the Wiphala. It is a square patchwork of seven diagonally arranged colours. It is sometimes seen on government buildings and project signs.",
+        "en": "The Wiphala flies as second official flag: a square of seven diagonal colours on government buildings and project boards.",
         "es": "Bolivia tiene una segunda bandera oficial, llamada wiphala. Es un cuadrado de siete colores dispuestos en diagonal. A veces se ve en edificios públicos y en carteles de proyectos."
       },
       "images": [
@@ -214,7 +214,7 @@
     },
     {
       "body": {
-        "en": "In urban areas, you will often see ads for the telecom company Tigo, with its distinct blue logo. Crucially, this company does not operate in Peru, meaning it can help you solve urban 50-50s. NOTE: This company does operate in several other Latin American countries, so only use this tip to differentiate between Peru and Bolivia.",
+        "en": "Blue-logo Tigo ads fill the cities — and Tigo skips Peru entirely, settling urban Peru/Bolivia splits. NOTE: it operates elsewhere in Latin America, so use it only for that duel.",
         "es": "En zonas urbanas verás a menudo anuncios de la operadora de telecomunicaciones Tigo, con su distinto logo azul. Es clave que esta empresa no opera en Perú, así que puede ayudarte a resolver un difícil 50-50."
       },
       "images": [
@@ -227,7 +227,7 @@
     },
     {
       "body": {
-        "en": "If all else fails, and you have a tough 50-50, it can help to look at the colour of the rocks and soil.",
+        "en": "Last-resort 50-50 breaker: read the rocks and soil colour.",
         "es": "Si no hay nada más y tienes un 50-50 difícil, puede ayudarte mirar el color de las rocas y del suelo."
       },
       "images": [
