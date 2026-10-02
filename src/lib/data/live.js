@@ -1,4 +1,5 @@
 import { get, writable } from "svelte/store";
+import { base } from "$app/paths";
 import { allCountries, CONTINENTS as BASE_CONTINENTS } from "./index.js";
 import { TOPO_TO_SLUG, SLUG_TO_TOPO } from "../map.js";
 import { CONTINENT_MEMBERS } from "../continents.js";
@@ -25,6 +26,7 @@ function touch() {
 export const LEGACY_STORE_KEY = "geoguides-admin-v1";
 
 /** Estado traído del servidor (lo siembra +layout.js con /api/overrides). */
+const api = (p) => `${base}/api${p}`;
 export const serverState = writable(null);
 
 export function seedServerState(o) {
@@ -57,7 +59,7 @@ export function loadOverrides() {
 
 export async function refreshServerState(fetchFn = fetch) {
 	try {
-		const r = await fetchFn("/api/overrides");
+		const r = await fetchFn(api("/overrides"));
 		if (r.ok) {
 			seedServerState(await r.json());
 			touch();
@@ -72,7 +74,7 @@ export async function refreshServerState(fetchFn = fetch) {
 // ---- auth contra el servidor (cookie httpOnly) ----
 export async function apiMe(fetchFn = fetch) {
 	try {
-		const r = await fetchFn("/api/auth/me");
+		const r = await fetchFn(api("/auth/me"));
 		return r.ok && (await r.json()).authed === true;
 	} catch {
 		return false;
@@ -81,7 +83,7 @@ export async function apiMe(fetchFn = fetch) {
 
 export async function apiLogin(user, pass, fetchFn = fetch) {
 	try {
-		const r = await fetchFn("/api/auth/login", {
+		const r = await fetchFn(api("/auth/login"), {
 			method: "POST",
 			headers: { "content-type": "application/json" },
 			body: JSON.stringify({ user, pass })
@@ -95,7 +97,7 @@ export async function apiLogin(user, pass, fetchFn = fetch) {
 
 export async function apiLogout(fetchFn = fetch) {
 	try {
-		await fetchFn("/api/auth/logout", { method: "POST" });
+		await fetchFn(api("/auth/logout"), { method: "POST" });
 	} catch {
 		/* ignore */
 	}
@@ -127,19 +129,19 @@ const asJson = (obj) => ({
 });
 
 export const apiSaveCountry = (c, isNew, fetchFn) =>
-	apiMut(`/api/admin/countries?isNew=${isNew ? "1" : "0"}`, asJson(c), fetchFn);
+	apiMut(api(`/admin/countries?isNew=${isNew ? "1" : "0"}`), asJson(c), fetchFn);
 export const apiDeleteCountry = (slug, fetchFn) =>
-	apiMut(`/api/admin/countries/${slug}`, { method: "DELETE" }, fetchFn);
-export const apiSaveContinent = (c, fetchFn) => apiMut("/api/admin/continents", asJson(c), fetchFn);
+	apiMut(api(`/admin/countries/${slug}`), { method: "DELETE" }, fetchFn);
+export const apiSaveContinent = (c, fetchFn) => apiMut(api("/admin/continents"), asJson(c), fetchFn);
 export const apiDeleteContinent = (id, fetchFn) =>
-	apiMut(`/api/admin/continents/${id}`, { method: "DELETE" }, fetchFn);
-export const apiImport = (o, fetchFn) => apiMut("/api/admin/import", asJson(o), fetchFn);
-export const apiReset = (fetchFn) => apiMut("/api/admin/reset", { method: "POST" }, fetchFn);
+	apiMut(api(`/admin/continents/${id}`), { method: "DELETE" }, fetchFn);
+export const apiImport = (o, fetchFn) => apiMut(api("/admin/import"), asJson(o), fetchFn);
+export const apiReset = (fetchFn) => apiMut(api("/admin/reset"), { method: "POST" }, fetchFn);
 
 export async function apiUpload(slug, file, fetchFn = fetch) {
 	const fd = new FormData();
 	fd.append("files", file, file.name);
-	const r = await fetchFn(`/api/admin/upload/${slug}`, { method: "POST", body: fd });
+	const r = await fetchFn(api(`/admin/upload/${slug}`), { method: "POST", body: fd });
 	const body = await r.json().catch(() => null);
 	if (!r.ok) throw new Error(body?.error ?? `error ${r.status}`);
 	await refreshServerState(fetchFn);
@@ -162,6 +164,16 @@ export function continentIds() {
 	return visibleContinents().map((c) => c.id);
 }
 
+const px = (u) => (typeof u === "string" && u.startsWith("/") ? `${base}${u}` : u);
+function withBase(c) {
+	if (!c || typeof c !== "object") return c;
+	return {
+		...c,
+		images: (c.images ?? []).map(px),
+		metas: (c.metas ?? []).map((m) => ({ ...m, images: (m.images ?? []).map(px) }))
+	};
+}
+
 export function visibleCountries() {
 	const o = loadOverrides();
 	const del = new Set(o.deleted);
@@ -173,7 +185,7 @@ export function visibleCountries() {
 	for (const c of Object.values(o.countries)) {
 		if (!c || typeof c.slug !== "string") continue;
 		if (del.has(c.slug) || !validContinents.has(c.continent)) map.delete(c.slug);
-		else map.set(c.slug, c);
+		else map.set(c.slug, withBase(c));
 	}
 	return [...map.values()].sort((a, b) =>
 		String(a.name?.en ?? a.slug).localeCompare(String(b.name?.en ?? b.slug))

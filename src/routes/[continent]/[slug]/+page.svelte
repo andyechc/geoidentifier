@@ -11,6 +11,7 @@
 	import DriveBadge from "$lib/components/DriveBadge.svelte";
 	import FactIcon from "$lib/components/FactIcon.svelte";
 	import LanguageBadge from "$lib/components/LanguageBadge.svelte";
+	import { base } from "$app/paths";
 	import CountryShape from "$lib/components/CountryShape.svelte";
 	import ContinentShape from "$lib/components/ContinentShape.svelte";
 	import { page } from "$app/stores";
@@ -34,7 +35,7 @@
 
 {#if c}
 	<nav class="mb-4 flex flex-wrap items-center gap-2" aria-label="Breadcrumb">
-		<a href="/" class="btn btn-ghost btn-sm">
+		<a href="{base}/" class="btn btn-ghost btn-sm">
 			<svg class="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
 				<path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z" />
 				<path d="M9 22V12h6v10" />
@@ -42,7 +43,7 @@
 			{$_("nav.home")}
 		</a>
 		<span class="select-none text-base-content/30">/</span>
-		<a href="/{c.continent}" class="btn btn-ghost btn-sm">
+		<a href="{base}/{c.continent}" class="btn btn-ghost btn-sm">
 			{clabel}
 		</a>
 		<span class="select-none text-base-content/30">/</span>
@@ -145,8 +146,8 @@
 {:else}
 	<p class="text-xl">404 — ¿país? / country?</p>
 	<div class="mt-4 flex gap-2">
-		<a href="/" class="btn btn-ghost">{$_("nav.home")}</a>
-		<a href="/{$page.params.continent}" class="btn btn-primary">
+		<a href="{base}/" class="btn btn-ghost">{$_("nav.home")}</a>
+		<a href="{base}/{$page.params.continent}" class="btn btn-primary">
 			{clabel}
 		</a>
 	</div>

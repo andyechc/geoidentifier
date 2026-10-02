@@ -20,6 +20,7 @@
 		downloadJson,
 		LEGACY_STORE_KEY
 	} from "$lib/data/live.js";
+	import { base } from "$app/paths";
 	import CountryForm from "$lib/components/admin/CountryForm.svelte";
 
 	let user = $state("");
@@ -279,7 +280,7 @@
 					<p class="mt-3 text-sm text-error">{loginError}</p>
 				{/if}
 				<button class="btn btn-primary mt-4 w-full" onclick={login}>Entrar</button>
-				<a href="/" class="btn btn-ghost btn-sm mt-2 w-full">← Volver al sitio</a>
+				<a href="{base}/" class="btn btn-ghost btn-sm mt-2 w-full">← Volver al sitio</a>
 			</div>
 		</div>
 	{:else}
@@ -291,7 +292,7 @@
 				</p>
 			</div>
 			<div class="flex gap-2">
-				<a href="/" class="btn btn-ghost btn-sm">Ver sitio</a>
+				<a href="{base}/" class="btn btn-ghost btn-sm">Ver sitio</a>
 				<button class="btn btn-ghost btn-sm" onclick={logout}>Salir</button>
 			</div>
 		</div>
@@ -468,7 +469,7 @@
 
 				<h3 class="font-bold">Respaldo y peligro</h3>
 				<div class="mt-2 flex flex-wrap gap-2">
-					<a class="btn btn-sm" href="/api/admin/export">Descargar respaldo</a>
+					<a class="btn btn-sm" href="{base}/api/admin/export">Descargar respaldo</a>
 					<label class="btn btn-sm">
 						Restaurar respaldo
 						<input type="file" accept="application/json" class="hidden" onchange={onImportFile} />
