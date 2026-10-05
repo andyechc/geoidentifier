@@ -24,6 +24,10 @@
 	const title = $derived(meta ? continentLabel(meta.id, $locale) : null);
 </script>
 
+<svelte:head>
+	<title>{title ? `${title} · GeoIdentifier` : 'GeoIdentifier'}</title>
+</svelte:head>
+
 {#if !meta}
 	<p class="text-xl">404 — ¿continente? / continent?</p>
 	<a href="{base}/" class="btn btn-primary mt-4">{$_("nav.home")}</a>

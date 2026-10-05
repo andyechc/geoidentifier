@@ -23,4 +23,8 @@
 	);
 </script>
 
+<svelte:head>
+	<title>{$_(titleKey)} · GeoIdentifier</title>
+</svelte:head>
+
 <Drill {countries} {titleKey} backHref="{base}/{continent}" {backLabel} />

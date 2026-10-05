@@ -33,6 +33,10 @@
 	});
 </script>
 
+<svelte:head>
+	<title>{c ? `${c.name[$locale]} · GeoIdentifier` : 'GeoIdentifier'}</title>
+</svelte:head>
+
 {#if c}
 	<nav class="mb-4 flex flex-wrap items-center gap-2" aria-label="Breadcrumb">
 		<a href="{base}/" class="btn btn-ghost btn-sm">
