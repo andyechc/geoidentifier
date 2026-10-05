@@ -83,7 +83,7 @@
 	});
 
 	async function login() {
-		const r = await apiLogin(user.trim(), pass);
+		const r = await apiLogin(user.trim(), pass.trim());
 		if (r === true) {
 			authed = true;
 			loginError = "";
