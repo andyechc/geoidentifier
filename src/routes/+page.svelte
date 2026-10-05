@@ -37,6 +37,10 @@
 	}
 </script>
 
+<svelte:head>
+	<title>GeoIdentifier</title>
+</svelte:head>
+
 <section class="hero-scroll flex flex-col items-center py-16 text-center md:py-24">
 	<h1 class="hero-item mx-auto max-w-3xl text-4xl font-black leading-tight md:text-6xl">
 		{$_("home.title")}

@@ -251,6 +251,10 @@
 	);
 </script>
 
+<svelte:head>
+	<title>Admin · GeoIdentifier</title>
+</svelte:head>
+
 <div class="mx-auto max-w-5xl">
 	{#if !authed}
 		<div class="mx-auto mt-10 max-w-sm">

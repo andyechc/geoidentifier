@@ -10,4 +10,8 @@
 	import Drill from "$lib/components/Drill.svelte";
 </script>
 
+<svelte:head>
+	<title>Practice · GeoIdentifier</title>
+</svelte:head>
+
 <Drill countries={allCountries} titleKey="drill.titleAll" />
