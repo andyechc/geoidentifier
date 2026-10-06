@@ -1,8 +1,9 @@
 import { randomUUID } from "node:crypto";
 import { env } from "$env/dynamic/private";
 
-const USER = env.ADMIN_USER ?? "test";
-const PASS = env.ADMIN_PASS ?? "[redacted]";
+// Sin defaults a propósito: sin ADMIN_USER/ADMIN_PASS en el entorno, nadie entra.
+const USER = env.ADMIN_USER;
+const PASS = env.ADMIN_PASS;
 const TTL = 24 * 3600 * 1000;
 
 export const COOKIE = "admin_session";
@@ -17,6 +18,7 @@ function sweep() {
 }
 
 export function verify(user, pass) {
+	if (!USER || !PASS) return false;
 	return user === USER && pass === PASS;
 }
 

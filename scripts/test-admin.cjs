@@ -1,6 +1,12 @@
 const { chromium } = require("playwright-core");
 
 (async () => {
+	const ADMIN_USER = process.env.ADMIN_USER;
+	const ADMIN_PASS = process.env.ADMIN_PASS;
+	if (!ADMIN_USER || !ADMIN_PASS) {
+		console.error("Falta ADMIN_USER / ADMIN_PASS en el entorno (.env).");
+		process.exit(2);
+	}
 	const browser = await chromium.launch({ headless: true, args: ["--no-sandbox"] });
 	const page = await browser.newPage({ viewport: { width: 1280, height: 900 } });
 	const errors = [];
@@ -22,8 +28,8 @@ const { chromium } = require("playwright-core");
 		page.goto("http://localhost:3000/auth/admin", { waitUntil: "domcontentloaded", timeout: 15000 })
 	);
 	await step("login", async () => {
-		await page.fill('input[autocomplete="username"]', "test");
-		await page.fill('input[autocomplete="current-password"]', "[redacted]");
+		await page.fill('input[autocomplete="username"]', ADMIN_USER);
+		await page.fill('input[autocomplete="current-password"]', ADMIN_PASS);
 		await page.click("text=Entrar");
 		await page.waitForSelector("text=Panel admin", { timeout: 8000 });
 	});
